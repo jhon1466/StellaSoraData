@@ -1,0 +1,18 @@
+# MAPEO DE SONIDOS DE INTERFAZ AVG (UI_AVG.bnk) -> ARCHIVOS WAV EN REPOSITORIO
+# Total eventos UI mapeados: 13
+
+Nombre Evento                  | Ruta del Archivo WAV en el Repositorio                                      | ID WEM         
+-----------------------------------------------------------------------------------------------------------------------------
+UI_AVG-0055-event              | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_507392539.wav | 507392539      
+UI_AVG-0064-event              | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_585777019.wav, 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_763858200.wav | 585777019, 763858200
+UI_AVG_APP_MENU                | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_102427698.wav | 102427698      
+UI_AVG_BOARDIMPACT             | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_792859445.wav | 792859445      
+UI_AVG_CHARINFO                | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_885478236.wav | 885478236      
+UI_AVG_CHOICE_CONFIRM          | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_127433833.wav | 127433833      
+UI_AVG_CHOICE_SLIDE            | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_686415249.wav | 686415249      
+UI_AVG_GLITCHTV                | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_173559709.wav | 173559709      
+UI_AVG_PROLOGUE_CONFIRM_MEUN   | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_43971363.wav, 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_973393661.wav | 43971363, 973393661
+UI_AVG_PROLOGUE_FEMALE         | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_426467505.wav | 426467505      
+UI_AVG_PROLOGUE_MALE           | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_181003463.wav | 181003463      
+UI_AVG_TRANSITION              | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_599289726.wav | 599289726      
+UI_CHOICE_CLICK                | 02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_926549594.wav | 926549594      

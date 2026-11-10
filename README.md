@@ -6,6 +6,7 @@ Recursos extraídos y organizados del juego **Stella Sora** (Yostar Games).
 
 - **`01_Cinematicas_Videos/`**: Cinemáticas de prólogo, finales de capítulos, intros y animaciones de gacha en formato `.mp4` con subtítulos `.srt`.
 - **`02_Audios/`**: Audios del juego convertidos a formato `.wav` estándar (voces japonesas de personajes, música de fondo / BGM y efectos sonoros).
+  - Incluye **`02_Audios/SoundBanks_Originales/`**: Bancos de sonido Wwise originales (`AVG.bnk`, `Music_AVG.bnk`, `UI_AVG.bnk`, `Init.bnk`), encabezado oficial `Wwise_IDs.h` y tablas de mapeo completas en JSON y TXT que relacionan los nombres de eventos y estados del juego (`m54`, `se_092`, `UI_AVG_APP_MENU`, etc.) con sus archivos `.wav` correspondientes.
 - **`03_Modelos_Live2D/`**: 156 paquetes de modelos Live2D Cubism (`.moc3`, `.model3.json`, `.physics3.json`, `.motion3.json` y atlas de texturas `.png`).
 - **`04_Modelos_3D/`**: Mallas 3D en formato `.obj` de Personajes (cuerpo, rostro, ropa, peinado), Armas, Monstruos/Jefes, Muebles de dormitorio y NPCs, con texturas `.png`.
   - Incluye visor web interactivo en 3D: `Visor_Modelos_3D.html`.

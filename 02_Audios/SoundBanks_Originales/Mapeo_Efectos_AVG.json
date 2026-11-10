@@ -1,0 +1,7193 @@
+{
+  "AVG_CHAPTER1_METALIMPACT": {
+    "evento": "AVG_CHAPTER1_METALIMPACT",
+    "archivos_wav": [
+      "AVG_402040302.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_402040302.wav"
+    ],
+    "ids_wem": [
+      "402040302"
+    ]
+  },
+  "AVG_CHAPTER1_RUNAWAY": {
+    "evento": "AVG_CHAPTER1_RUNAWAY",
+    "archivos_wav": [
+      "AVG_86628013.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_86628013.wav"
+    ],
+    "ids_wem": [
+      "86628013"
+    ]
+  },
+  "SE_001": {
+    "evento": "SE_001",
+    "archivos_wav": [
+      "AVG_602311911.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_602311911.wav"
+    ],
+    "ids_wem": [
+      "602311911"
+    ]
+  },
+  "SE_002": {
+    "evento": "SE_002",
+    "archivos_wav": [
+      "AVG_1060835028.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1060835028.wav"
+    ],
+    "ids_wem": [
+      "1060835028"
+    ]
+  },
+  "SE_003": {
+    "evento": "SE_003",
+    "archivos_wav": [
+      "AVG_827325958.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_827325958.wav"
+    ],
+    "ids_wem": [
+      "827325958"
+    ]
+  },
+  "SE_004": {
+    "evento": "SE_004",
+    "archivos_wav": [
+      "AVG_232471609.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_232471609.wav"
+    ],
+    "ids_wem": [
+      "232471609"
+    ]
+  },
+  "SE_005": {
+    "evento": "SE_005",
+    "archivos_wav": [
+      "AVG_96031978.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_96031978.wav"
+    ],
+    "ids_wem": [
+      "96031978"
+    ]
+  },
+  "SE_006": {
+    "evento": "SE_006",
+    "archivos_wav": [
+      "AVG_590078801.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_590078801.wav"
+    ],
+    "ids_wem": [
+      "590078801"
+    ]
+  },
+  "SE_007": {
+    "evento": "SE_007",
+    "archivos_wav": [
+      "AVG_785550463.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_785550463.wav"
+    ],
+    "ids_wem": [
+      "785550463"
+    ]
+  },
+  "SE_008": {
+    "evento": "SE_008",
+    "archivos_wav": [
+      "AVG_902831176.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_902831176.wav"
+    ],
+    "ids_wem": [
+      "902831176"
+    ]
+  },
+  "SE_009": {
+    "evento": "SE_009",
+    "archivos_wav": [
+      "AVG_821765083.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_821765083.wav"
+    ],
+    "ids_wem": [
+      "821765083"
+    ]
+  },
+  "SE_010": {
+    "evento": "SE_010",
+    "archivos_wav": [
+      "AVG_231989348.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_231989348.wav"
+    ],
+    "ids_wem": [
+      "231989348"
+    ]
+  },
+  "SE_011": {
+    "evento": "SE_011",
+    "archivos_wav": [
+      "AVG_248147603.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_248147603.wav"
+    ],
+    "ids_wem": [
+      "248147603"
+    ]
+  },
+  "SE_012": {
+    "evento": "SE_012",
+    "archivos_wav": [
+      "AVG_1033520027.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1033520027.wav"
+    ],
+    "ids_wem": [
+      "1033520027"
+    ]
+  },
+  "SE_013": {
+    "evento": "SE_013",
+    "archivos_wav": [
+      "AVG_998870032.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_998870032.wav"
+    ],
+    "ids_wem": [
+      "998870032"
+    ]
+  },
+  "SE_014": {
+    "evento": "SE_014",
+    "archivos_wav": [
+      "AVG_524529808.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_524529808.wav"
+    ],
+    "ids_wem": [
+      "524529808"
+    ]
+  },
+  "SE_015": {
+    "evento": "SE_015",
+    "archivos_wav": [
+      "AVG_797576527.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_797576527.wav"
+    ],
+    "ids_wem": [
+      "797576527"
+    ]
+  },
+  "SE_016": {
+    "evento": "SE_016",
+    "archivos_wav": [
+      "AVG_54166608.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_54166608.wav"
+    ],
+    "ids_wem": [
+      "54166608"
+    ]
+  },
+  "SE_017": {
+    "evento": "SE_017",
+    "archivos_wav": [
+      "AVG_632770903.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_632770903.wav"
+    ],
+    "ids_wem": [
+      "632770903"
+    ]
+  },
+  "SE_018": {
+    "evento": "SE_018",
+    "archivos_wav": [
+      "AVG_204501453.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_204501453.wav"
+    ],
+    "ids_wem": [
+      "204501453"
+    ]
+  },
+  "SE_019": {
+    "evento": "SE_019",
+    "archivos_wav": [
+      "AVG_885395116.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_885395116.wav"
+    ],
+    "ids_wem": [
+      "885395116"
+    ]
+  },
+  "SE_020": {
+    "evento": "SE_020",
+    "archivos_wav": [
+      "AVG_593445490.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_593445490.wav"
+    ],
+    "ids_wem": [
+      "593445490"
+    ]
+  },
+  "SE_021": {
+    "evento": "SE_021",
+    "archivos_wav": [
+      "AVG_412367589.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_412367589.wav"
+    ],
+    "ids_wem": [
+      "412367589"
+    ]
+  },
+  "SE_022": {
+    "evento": "SE_022",
+    "archivos_wav": [
+      "AVG_463748806.wav",
+      "AVG_440171571.wav",
+      "AVG_231729664.wav",
+      "AVG_172773794.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_463748806.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_440171571.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_231729664.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_172773794.wav"
+    ],
+    "ids_wem": [
+      "463748806",
+      "440171571",
+      "231729664",
+      "172773794"
+    ]
+  },
+  "SE_023": {
+    "evento": "SE_023",
+    "archivos_wav": [
+      "AVG_772444686.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_772444686.wav"
+    ],
+    "ids_wem": [
+      "772444686"
+    ]
+  },
+  "SE_024": {
+    "evento": "SE_024",
+    "archivos_wav": [
+      "AVG_848908966.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_848908966.wav"
+    ],
+    "ids_wem": [
+      "848908966"
+    ]
+  },
+  "SE_025": {
+    "evento": "SE_025",
+    "archivos_wav": [
+      "AVG_211006063.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_211006063.wav"
+    ],
+    "ids_wem": [
+      "211006063"
+    ]
+  },
+  "SE_026": {
+    "evento": "SE_026",
+    "archivos_wav": [
+      "AVG_613258294.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_613258294.wav"
+    ],
+    "ids_wem": [
+      "613258294"
+    ]
+  },
+  "SE_027": {
+    "evento": "SE_027",
+    "archivos_wav": [
+      "AVG_455659274.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_455659274.wav"
+    ],
+    "ids_wem": [
+      "455659274"
+    ]
+  },
+  "SE_028": {
+    "evento": "SE_028",
+    "archivos_wav": [
+      "AVG_277434654.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_277434654.wav"
+    ],
+    "ids_wem": [
+      "277434654"
+    ]
+  },
+  "SE_029": {
+    "evento": "SE_029",
+    "archivos_wav": [
+      "AVG_371965551.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_371965551.wav"
+    ],
+    "ids_wem": [
+      "371965551"
+    ]
+  },
+  "SE_030": {
+    "evento": "SE_030",
+    "archivos_wav": [
+      "AVG_414954802.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_414954802.wav"
+    ],
+    "ids_wem": [
+      "414954802"
+    ]
+  },
+  "SE_031": {
+    "evento": "SE_031",
+    "archivos_wav": [
+      "AVG_950605621.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_950605621.wav"
+    ],
+    "ids_wem": [
+      "950605621"
+    ]
+  },
+  "SE_032": {
+    "evento": "SE_032",
+    "archivos_wav": [
+      "AVG_692194463.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_692194463.wav"
+    ],
+    "ids_wem": [
+      "692194463"
+    ]
+  },
+  "SE_033": {
+    "evento": "SE_033",
+    "archivos_wav": [
+      "AVG_716197883.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_716197883.wav"
+    ],
+    "ids_wem": [
+      "716197883"
+    ]
+  },
+  "SE_034": {
+    "evento": "SE_034",
+    "archivos_wav": [
+      "AVG_255215557.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_255215557.wav"
+    ],
+    "ids_wem": [
+      "255215557"
+    ]
+  },
+  "SE_035": {
+    "evento": "SE_035",
+    "archivos_wav": [
+      "AVG_246964334.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_246964334.wav"
+    ],
+    "ids_wem": [
+      "246964334"
+    ]
+  },
+  "SE_036": {
+    "evento": "SE_036",
+    "archivos_wav": [
+      "AVG_96704405.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_96704405.wav"
+    ],
+    "ids_wem": [
+      "96704405"
+    ]
+  },
+  "SE_037": {
+    "evento": "SE_037",
+    "archivos_wav": [
+      "AVG_190701974.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_190701974.wav"
+    ],
+    "ids_wem": [
+      "190701974"
+    ]
+  },
+  "SE_038 {r}": {
+    "evento": "SE_038 {r}",
+    "archivos_wav": [
+      "AVG_259642770.wav",
+      "AVG_798812954.wav",
+      "AVG_1050577620.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_259642770.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_798812954.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1050577620.wav"
+    ],
+    "ids_wem": [
+      "259642770",
+      "798812954",
+      "1050577620"
+    ]
+  },
+  "SE_039 {r}": {
+    "evento": "SE_039 {r}",
+    "archivos_wav": [
+      "AVG_307977619.wav",
+      "AVG_763061883.wav",
+      "AVG_507567485.wav",
+      "AVG_1050577620.wav",
+      "AVG_259642770.wav",
+      "AVG_798812954.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_307977619.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_763061883.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_507567485.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1050577620.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_259642770.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_798812954.wav"
+    ],
+    "ids_wem": [
+      "307977619",
+      "763061883",
+      "507567485",
+      "1050577620",
+      "259642770",
+      "798812954"
+    ]
+  },
+  "SE_041 {r}": {
+    "evento": "SE_041 {r}",
+    "archivos_wav": [
+      "AVG_1050577620.wav",
+      "AVG_259642770.wav",
+      "AVG_798812954.wav",
+      "AVG_763061883.wav",
+      "AVG_507567485.wav",
+      "AVG_307977619.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1050577620.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_259642770.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_798812954.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_763061883.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_507567485.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_307977619.wav"
+    ],
+    "ids_wem": [
+      "1050577620",
+      "259642770",
+      "798812954",
+      "763061883",
+      "507567485",
+      "307977619"
+    ]
+  },
+  "SE_042": {
+    "evento": "SE_042",
+    "archivos_wav": [
+      "AVG_93431692.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_93431692.wav"
+    ],
+    "ids_wem": [
+      "93431692"
+    ]
+  },
+  "SE_043": {
+    "evento": "SE_043",
+    "archivos_wav": [
+      "AVG_19785509.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_19785509.wav"
+    ],
+    "ids_wem": [
+      "19785509"
+    ]
+  },
+  "SE_044": {
+    "evento": "SE_044",
+    "archivos_wav": [
+      "AVG_904902696.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_904902696.wav"
+    ],
+    "ids_wem": [
+      "904902696"
+    ]
+  },
+  "SE_045": {
+    "evento": "SE_045",
+    "archivos_wav": [
+      "AVG_469906318.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_469906318.wav"
+    ],
+    "ids_wem": [
+      "469906318"
+    ]
+  },
+  "SE_046": {
+    "evento": "SE_046",
+    "archivos_wav": [
+      "AVG_814641865.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_814641865.wav"
+    ],
+    "ids_wem": [
+      "814641865"
+    ]
+  },
+  "SE_047": {
+    "evento": "SE_047",
+    "archivos_wav": [
+      "AVG_984407800.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_984407800.wav"
+    ],
+    "ids_wem": [
+      "984407800"
+    ]
+  },
+  "SE_048": {
+    "evento": "SE_048",
+    "archivos_wav": [
+      "AVG_373565746.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_373565746.wav"
+    ],
+    "ids_wem": [
+      "373565746"
+    ]
+  },
+  "SE_049": {
+    "evento": "SE_049",
+    "archivos_wav": [
+      "AVG_91913178.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_91913178.wav"
+    ],
+    "ids_wem": [
+      "91913178"
+    ]
+  },
+  "SE_050": {
+    "evento": "SE_050",
+    "archivos_wav": [
+      "AVG_717780614.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_717780614.wav"
+    ],
+    "ids_wem": [
+      "717780614"
+    ]
+  },
+  "SE_051": {
+    "evento": "SE_051",
+    "archivos_wav": [
+      "AVG_241690265.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_241690265.wav"
+    ],
+    "ids_wem": [
+      "241690265"
+    ]
+  },
+  "SE_052": {
+    "evento": "SE_052",
+    "archivos_wav": [
+      "AVG_257364845.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_257364845.wav"
+    ],
+    "ids_wem": [
+      "257364845"
+    ]
+  },
+  "SE_053": {
+    "evento": "SE_053",
+    "archivos_wav": [
+      "AVG_1026052449.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1026052449.wav"
+    ],
+    "ids_wem": [
+      "1026052449"
+    ]
+  },
+  "SE_054": {
+    "evento": "SE_054",
+    "archivos_wav": [
+      "AVG_359994032.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_359994032.wav"
+    ],
+    "ids_wem": [
+      "359994032"
+    ]
+  },
+  "SE_055": {
+    "evento": "SE_055",
+    "archivos_wav": [
+      "AVG_716924360.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_716924360.wav"
+    ],
+    "ids_wem": [
+      "716924360"
+    ]
+  },
+  "SE_056": {
+    "evento": "SE_056",
+    "archivos_wav": [
+      "AVG_296814427.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_296814427.wav"
+    ],
+    "ids_wem": [
+      "296814427"
+    ]
+  },
+  "SE_057": {
+    "evento": "SE_057",
+    "archivos_wav": [
+      "AVG_712807308.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_712807308.wav"
+    ],
+    "ids_wem": [
+      "712807308"
+    ]
+  },
+  "SE_058": {
+    "evento": "SE_058",
+    "archivos_wav": [
+      "AVG_757509247.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_757509247.wav"
+    ],
+    "ids_wem": [
+      "757509247"
+    ]
+  },
+  "SE_059": {
+    "evento": "SE_059",
+    "archivos_wav": [
+      "AVG_705466078.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_705466078.wav"
+    ],
+    "ids_wem": [
+      "705466078"
+    ]
+  },
+  "SE_060": {
+    "evento": "SE_060",
+    "archivos_wav": [
+      "AVG_504926007.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_504926007.wav"
+    ],
+    "ids_wem": [
+      "504926007"
+    ]
+  },
+  "SE_061": {
+    "evento": "SE_061",
+    "archivos_wav": [
+      "AVG_170723827.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_170723827.wav"
+    ],
+    "ids_wem": [
+      "170723827"
+    ]
+  },
+  "SE_062": {
+    "evento": "SE_062",
+    "archivos_wav": [
+      "AVG_294822715.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_294822715.wav"
+    ],
+    "ids_wem": [
+      "294822715"
+    ]
+  },
+  "SE_063": {
+    "evento": "SE_063",
+    "archivos_wav": [
+      "AVG_565938153.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_565938153.wav"
+    ],
+    "ids_wem": [
+      "565938153"
+    ]
+  },
+  "SE_065": {
+    "evento": "SE_065",
+    "archivos_wav": [
+      "AVG_1004829207.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1004829207.wav"
+    ],
+    "ids_wem": [
+      "1004829207"
+    ]
+  },
+  "SE_066": {
+    "evento": "SE_066",
+    "archivos_wav": [
+      "AVG_43225162.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_43225162.wav"
+    ],
+    "ids_wem": [
+      "43225162"
+    ]
+  },
+  "SE_067": {
+    "evento": "SE_067",
+    "archivos_wav": [
+      "AVG_736961563.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_736961563.wav"
+    ],
+    "ids_wem": [
+      "736961563"
+    ]
+  },
+  "SE_068": {
+    "evento": "SE_068",
+    "archivos_wav": [
+      "AVG_27167254.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_27167254.wav"
+    ],
+    "ids_wem": [
+      "27167254"
+    ]
+  },
+  "SE_069": {
+    "evento": "SE_069",
+    "archivos_wav": [
+      "AVG_486999788.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_486999788.wav"
+    ],
+    "ids_wem": [
+      "486999788"
+    ]
+  },
+  "SE_070": {
+    "evento": "SE_070",
+    "archivos_wav": [
+      "AVG_315817248.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_315817248.wav"
+    ],
+    "ids_wem": [
+      "315817248"
+    ]
+  },
+  "SE_071": {
+    "evento": "SE_071",
+    "archivos_wav": [
+      "AVG_692943582.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_692943582.wav"
+    ],
+    "ids_wem": [
+      "692943582"
+    ]
+  },
+  "SE_072": {
+    "evento": "SE_072",
+    "archivos_wav": [
+      "AVG_189676191.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_189676191.wav"
+    ],
+    "ids_wem": [
+      "189676191"
+    ]
+  },
+  "SE_073": {
+    "evento": "SE_073",
+    "archivos_wav": [
+      "AVG_1025940041.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1025940041.wav"
+    ],
+    "ids_wem": [
+      "1025940041"
+    ]
+  },
+  "SE_074": {
+    "evento": "SE_074",
+    "archivos_wav": [
+      "AVG_325846525.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_325846525.wav"
+    ],
+    "ids_wem": [
+      "325846525"
+    ]
+  },
+  "SE_075": {
+    "evento": "SE_075",
+    "archivos_wav": [
+      "AVG_113379911.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_113379911.wav"
+    ],
+    "ids_wem": [
+      "113379911"
+    ]
+  },
+  "SE_076": {
+    "evento": "SE_076",
+    "archivos_wav": [
+      "AVG_845643041.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_845643041.wav"
+    ],
+    "ids_wem": [
+      "845643041"
+    ]
+  },
+  "SE_077": {
+    "evento": "SE_077",
+    "archivos_wav": [
+      "AVG_643125296.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_643125296.wav"
+    ],
+    "ids_wem": [
+      "643125296"
+    ]
+  },
+  "SE_078 {r}": {
+    "evento": "SE_078 {r}",
+    "archivos_wav": [
+      "AVG_354450987.wav",
+      "AVG_220099522.wav",
+      "AVG_1039962007.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_354450987.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_220099522.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1039962007.wav"
+    ],
+    "ids_wem": [
+      "354450987",
+      "220099522",
+      "1039962007"
+    ]
+  },
+  "SE_079": {
+    "evento": "SE_079",
+    "archivos_wav": [
+      "AVG_991023297.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_991023297.wav"
+    ],
+    "ids_wem": [
+      "991023297"
+    ]
+  },
+  "SE_080": {
+    "evento": "SE_080",
+    "archivos_wav": [
+      "AVG_706565873.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_706565873.wav"
+    ],
+    "ids_wem": [
+      "706565873"
+    ]
+  },
+  "SE_081": {
+    "evento": "SE_081",
+    "archivos_wav": [
+      "AVG_490611845.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_490611845.wav"
+    ],
+    "ids_wem": [
+      "490611845"
+    ]
+  },
+  "SE_082": {
+    "evento": "SE_082",
+    "archivos_wav": [
+      "AVG_506120330.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_506120330.wav"
+    ],
+    "ids_wem": [
+      "506120330"
+    ]
+  },
+  "SE_083": {
+    "evento": "SE_083",
+    "archivos_wav": [
+      "AVG_478235163.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_478235163.wav"
+    ],
+    "ids_wem": [
+      "478235163"
+    ]
+  },
+  "SE_084": {
+    "evento": "SE_084",
+    "archivos_wav": [
+      "AVG_801538162.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_801538162.wav"
+    ],
+    "ids_wem": [
+      "801538162"
+    ]
+  },
+  "SE_085": {
+    "evento": "SE_085",
+    "archivos_wav": [
+      "AVG_98641664.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_98641664.wav"
+    ],
+    "ids_wem": [
+      "98641664"
+    ]
+  },
+  "SE_086": {
+    "evento": "SE_086",
+    "archivos_wav": [
+      "AVG_527436722.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_527436722.wav"
+    ],
+    "ids_wem": [
+      "527436722"
+    ]
+  },
+  "SE_087": {
+    "evento": "SE_087",
+    "archivos_wav": [
+      "AVG_1051568860.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1051568860.wav"
+    ],
+    "ids_wem": [
+      "1051568860"
+    ]
+  },
+  "SE_088": {
+    "evento": "SE_088",
+    "archivos_wav": [
+      "AVG_19677325.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_19677325.wav"
+    ],
+    "ids_wem": [
+      "19677325"
+    ]
+  },
+  "SE_089": {
+    "evento": "SE_089",
+    "archivos_wav": [
+      "AVG_710817583.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_710817583.wav"
+    ],
+    "ids_wem": [
+      "710817583"
+    ]
+  },
+  "SE_090": {
+    "evento": "SE_090",
+    "archivos_wav": [
+      "AVG_232783660.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_232783660.wav"
+    ],
+    "ids_wem": [
+      "232783660"
+    ]
+  },
+  "SE_091": {
+    "evento": "SE_091",
+    "archivos_wav": [
+      "AVG_129429255.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_129429255.wav"
+    ],
+    "ids_wem": [
+      "129429255"
+    ]
+  },
+  "SE_092": {
+    "evento": "SE_092",
+    "archivos_wav": [
+      "AVG_333935801.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_333935801.wav"
+    ],
+    "ids_wem": [
+      "333935801"
+    ]
+  },
+  "SE_093": {
+    "evento": "SE_093",
+    "archivos_wav": [
+      "AVG_114327930.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_114327930.wav"
+    ],
+    "ids_wem": [
+      "114327930"
+    ]
+  },
+  "SE_094": {
+    "evento": "SE_094",
+    "archivos_wav": [
+      "AVG_822573886.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_822573886.wav"
+    ],
+    "ids_wem": [
+      "822573886"
+    ]
+  },
+  "SE_095": {
+    "evento": "SE_095",
+    "archivos_wav": [
+      "AVG_931176796.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_931176796.wav"
+    ],
+    "ids_wem": [
+      "931176796"
+    ]
+  },
+  "SE_096": {
+    "evento": "SE_096",
+    "archivos_wav": [
+      "AVG_1031192506.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1031192506.wav"
+    ],
+    "ids_wem": [
+      "1031192506"
+    ]
+  },
+  "SE_097": {
+    "evento": "SE_097",
+    "archivos_wav": [
+      "AVG_677277681.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_677277681.wav"
+    ],
+    "ids_wem": [
+      "677277681"
+    ]
+  },
+  "SE_098": {
+    "evento": "SE_098",
+    "archivos_wav": [
+      "AVG_665146063.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_665146063.wav"
+    ],
+    "ids_wem": [
+      "665146063"
+    ]
+  },
+  "SE_099": {
+    "evento": "SE_099",
+    "archivos_wav": [
+      "AVG_252076868.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_252076868.wav"
+    ],
+    "ids_wem": [
+      "252076868"
+    ]
+  },
+  "SE_100": {
+    "evento": "SE_100",
+    "archivos_wav": [
+      "AVG_747470580.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_747470580.wav"
+    ],
+    "ids_wem": [
+      "747470580"
+    ]
+  },
+  "SE_101": {
+    "evento": "SE_101",
+    "archivos_wav": [
+      "AVG_875323005.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_875323005.wav"
+    ],
+    "ids_wem": [
+      "875323005"
+    ]
+  },
+  "SE_102": {
+    "evento": "SE_102",
+    "archivos_wav": [
+      "AVG_540480901.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_540480901.wav"
+    ],
+    "ids_wem": [
+      "540480901"
+    ]
+  },
+  "SE_104": {
+    "evento": "SE_104",
+    "archivos_wav": [
+      "AVG_667213250.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_667213250.wav"
+    ],
+    "ids_wem": [
+      "667213250"
+    ]
+  },
+  "SE_105": {
+    "evento": "SE_105",
+    "archivos_wav": [
+      "AVG_858850501.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_858850501.wav"
+    ],
+    "ids_wem": [
+      "858850501"
+    ]
+  },
+  "SE_106": {
+    "evento": "SE_106",
+    "archivos_wav": [
+      "AVG_27822019.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_27822019.wav"
+    ],
+    "ids_wem": [
+      "27822019"
+    ]
+  },
+  "SE_107": {
+    "evento": "SE_107",
+    "archivos_wav": [
+      "AVG_452824470.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_452824470.wav"
+    ],
+    "ids_wem": [
+      "452824470"
+    ]
+  },
+  "SE_108": {
+    "evento": "SE_108",
+    "archivos_wav": [
+      "AVG_832448460.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_832448460.wav"
+    ],
+    "ids_wem": [
+      "832448460"
+    ]
+  },
+  "SE_109": {
+    "evento": "SE_109",
+    "archivos_wav": [
+      "AVG_155567616.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_155567616.wav"
+    ],
+    "ids_wem": [
+      "155567616"
+    ]
+  },
+  "SE_110": {
+    "evento": "SE_110",
+    "archivos_wav": [
+      "AVG_353007412.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_353007412.wav"
+    ],
+    "ids_wem": [
+      "353007412"
+    ]
+  },
+  "SE_111": {
+    "evento": "SE_111",
+    "archivos_wav": [
+      "AVG_622061147.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_622061147.wav"
+    ],
+    "ids_wem": [
+      "622061147"
+    ]
+  },
+  "SE_112": {
+    "evento": "SE_112",
+    "archivos_wav": [
+      "AVG_250108567.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_250108567.wav"
+    ],
+    "ids_wem": [
+      "250108567"
+    ]
+  },
+  "SE_113": {
+    "evento": "SE_113",
+    "archivos_wav": [
+      "AVG_209863834.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_209863834.wav"
+    ],
+    "ids_wem": [
+      "209863834"
+    ]
+  },
+  "SE_114": {
+    "evento": "SE_114",
+    "archivos_wav": [
+      "AVG_537594683.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_537594683.wav"
+    ],
+    "ids_wem": [
+      "537594683"
+    ]
+  },
+  "SE_115": {
+    "evento": "SE_115",
+    "archivos_wav": [
+      "AVG_850420403.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_850420403.wav"
+    ],
+    "ids_wem": [
+      "850420403"
+    ]
+  },
+  "SE_116": {
+    "evento": "SE_116",
+    "archivos_wav": [
+      "AVG_573310293.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_573310293.wav"
+    ],
+    "ids_wem": [
+      "573310293"
+    ]
+  },
+  "SE_117": {
+    "evento": "SE_117",
+    "archivos_wav": [
+      "AVG_551744267.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_551744267.wav"
+    ],
+    "ids_wem": [
+      "551744267"
+    ]
+  },
+  "SE_118": {
+    "evento": "SE_118",
+    "archivos_wav": [
+      "AVG_463706235.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_463706235.wav"
+    ],
+    "ids_wem": [
+      "463706235"
+    ]
+  },
+  "SE_119": {
+    "evento": "SE_119",
+    "archivos_wav": [
+      "AVG_476353308.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_476353308.wav"
+    ],
+    "ids_wem": [
+      "476353308"
+    ]
+  },
+  "SE_120": {
+    "evento": "SE_120",
+    "archivos_wav": [
+      "AVG_662311589.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_662311589.wav"
+    ],
+    "ids_wem": [
+      "662311589"
+    ]
+  },
+  "SE_121": {
+    "evento": "SE_121",
+    "archivos_wav": [
+      "AVG_122888899.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_122888899.wav"
+    ],
+    "ids_wem": [
+      "122888899"
+    ]
+  },
+  "SE_122": {
+    "evento": "SE_122",
+    "archivos_wav": [
+      "AVG_970745351.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_970745351.wav"
+    ],
+    "ids_wem": [
+      "970745351"
+    ]
+  },
+  "SE_123": {
+    "evento": "SE_123",
+    "archivos_wav": [
+      "AVG_136502374.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_136502374.wav"
+    ],
+    "ids_wem": [
+      "136502374"
+    ]
+  },
+  "SE_124": {
+    "evento": "SE_124",
+    "archivos_wav": [
+      "AVG_117006917.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_117006917.wav"
+    ],
+    "ids_wem": [
+      "117006917"
+    ]
+  },
+  "SE_125": {
+    "evento": "SE_125",
+    "archivos_wav": [
+      "AVG_949549612.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_949549612.wav"
+    ],
+    "ids_wem": [
+      "949549612"
+    ]
+  },
+  "SE_126": {
+    "evento": "SE_126",
+    "archivos_wav": [
+      "AVG_328314665.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_328314665.wav"
+    ],
+    "ids_wem": [
+      "328314665"
+    ]
+  },
+  "SE_127": {
+    "evento": "SE_127",
+    "archivos_wav": [
+      "AVG_983164902.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_983164902.wav"
+    ],
+    "ids_wem": [
+      "983164902"
+    ]
+  },
+  "SE_128": {
+    "evento": "SE_128",
+    "archivos_wav": [
+      "AVG_376623937.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_376623937.wav"
+    ],
+    "ids_wem": [
+      "376623937"
+    ]
+  },
+  "SE_129": {
+    "evento": "SE_129",
+    "archivos_wav": [
+      "AVG_992888223.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_992888223.wav"
+    ],
+    "ids_wem": [
+      "992888223"
+    ]
+  },
+  "SE_130": {
+    "evento": "SE_130",
+    "archivos_wav": [
+      "AVG_836562071.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_836562071.wav"
+    ],
+    "ids_wem": [
+      "836562071"
+    ]
+  },
+  "SE_131": {
+    "evento": "SE_131",
+    "archivos_wav": [
+      "AVG_459664045.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_459664045.wav"
+    ],
+    "ids_wem": [
+      "459664045"
+    ]
+  },
+  "SE_132": {
+    "evento": "SE_132",
+    "archivos_wav": [
+      "AVG_234910755.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_234910755.wav"
+    ],
+    "ids_wem": [
+      "234910755"
+    ]
+  },
+  "SE_133": {
+    "evento": "SE_133",
+    "archivos_wav": [
+      "AVG_1008583271.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1008583271.wav"
+    ],
+    "ids_wem": [
+      "1008583271"
+    ]
+  },
+  "SE_134": {
+    "evento": "SE_134",
+    "archivos_wav": [
+      "AVG_840854273.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_840854273.wav"
+    ],
+    "ids_wem": [
+      "840854273"
+    ]
+  },
+  "SE_135": {
+    "evento": "SE_135",
+    "archivos_wav": [
+      "AVG_836741314.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_836741314.wav"
+    ],
+    "ids_wem": [
+      "836741314"
+    ]
+  },
+  "SE_136": {
+    "evento": "SE_136",
+    "archivos_wav": [
+      "AVG_677483620.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_677483620.wav"
+    ],
+    "ids_wem": [
+      "677483620"
+    ]
+  },
+  "SE_137": {
+    "evento": "SE_137",
+    "archivos_wav": [
+      "AVG_965155251.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_965155251.wav"
+    ],
+    "ids_wem": [
+      "965155251"
+    ]
+  },
+  "SE_138": {
+    "evento": "SE_138",
+    "archivos_wav": [
+      "AVG_19631754.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_19631754.wav"
+    ],
+    "ids_wem": [
+      "19631754"
+    ]
+  },
+  "SE_139": {
+    "evento": "SE_139",
+    "archivos_wav": [
+      "AVG_388693439.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_388693439.wav"
+    ],
+    "ids_wem": [
+      "388693439"
+    ]
+  },
+  "SE_140": {
+    "evento": "SE_140",
+    "archivos_wav": [
+      "AVG_467509252.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_467509252.wav"
+    ],
+    "ids_wem": [
+      "467509252"
+    ]
+  },
+  "SE_141": {
+    "evento": "SE_141",
+    "archivos_wav": [
+      "AVG_994968107.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_994968107.wav"
+    ],
+    "ids_wem": [
+      "994968107"
+    ]
+  },
+  "SE_142": {
+    "evento": "SE_142",
+    "archivos_wav": [
+      "AVG_340476187.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_340476187.wav"
+    ],
+    "ids_wem": [
+      "340476187"
+    ]
+  },
+  "SE_143": {
+    "evento": "SE_143",
+    "archivos_wav": [
+      "AVG_520749899.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_520749899.wav"
+    ],
+    "ids_wem": [
+      "520749899"
+    ]
+  },
+  "SE_144": {
+    "evento": "SE_144",
+    "archivos_wav": [
+      "AVG_316125446.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_316125446.wav"
+    ],
+    "ids_wem": [
+      "316125446"
+    ]
+  },
+  "SE_145": {
+    "evento": "SE_145",
+    "archivos_wav": [
+      "AVG_832857423.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_832857423.wav"
+    ],
+    "ids_wem": [
+      "832857423"
+    ]
+  },
+  "SE_146": {
+    "evento": "SE_146",
+    "archivos_wav": [
+      "AVG_486769471.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_486769471.wav"
+    ],
+    "ids_wem": [
+      "486769471"
+    ]
+  },
+  "SE_147": {
+    "evento": "SE_147",
+    "archivos_wav": [
+      "AVG_638866554.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_638866554.wav"
+    ],
+    "ids_wem": [
+      "638866554"
+    ]
+  },
+  "SE_148": {
+    "evento": "SE_148",
+    "archivos_wav": [
+      "AVG_114563370.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_114563370.wav"
+    ],
+    "ids_wem": [
+      "114563370"
+    ]
+  },
+  "SE_149": {
+    "evento": "SE_149",
+    "archivos_wav": [
+      "AVG_88933051.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_88933051.wav"
+    ],
+    "ids_wem": [
+      "88933051"
+    ]
+  },
+  "SE_150": {
+    "evento": "SE_150",
+    "archivos_wav": [
+      "AVG_380956845.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_380956845.wav"
+    ],
+    "ids_wem": [
+      "380956845"
+    ]
+  },
+  "SE_151": {
+    "evento": "SE_151",
+    "archivos_wav": [
+      "AVG_420622906.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_420622906.wav"
+    ],
+    "ids_wem": [
+      "420622906"
+    ]
+  },
+  "SE_152": {
+    "evento": "SE_152",
+    "archivos_wav": [
+      "AVG_561749142.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_561749142.wav"
+    ],
+    "ids_wem": [
+      "561749142"
+    ]
+  },
+  "SE_153": {
+    "evento": "SE_153",
+    "archivos_wav": [
+      "AVG_52722183.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_52722183.wav"
+    ],
+    "ids_wem": [
+      "52722183"
+    ]
+  },
+  "SE_154": {
+    "evento": "SE_154",
+    "archivos_wav": [
+      "AVG_62661720.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_62661720.wav"
+    ],
+    "ids_wem": [
+      "62661720"
+    ]
+  },
+  "SE_155": {
+    "evento": "SE_155",
+    "archivos_wav": [
+      "AVG_482992966.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_482992966.wav"
+    ],
+    "ids_wem": [
+      "482992966"
+    ]
+  },
+  "SE_156": {
+    "evento": "SE_156",
+    "archivos_wav": [
+      "AVG_710803271.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_710803271.wav"
+    ],
+    "ids_wem": [
+      "710803271"
+    ]
+  },
+  "SE_157": {
+    "evento": "SE_157",
+    "archivos_wav": [
+      "AVG_509163539.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_509163539.wav"
+    ],
+    "ids_wem": [
+      "509163539"
+    ]
+  },
+  "SE_158": {
+    "evento": "SE_158",
+    "archivos_wav": [
+      "AVG_600255810.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_600255810.wav"
+    ],
+    "ids_wem": [
+      "600255810"
+    ]
+  },
+  "SE_159": {
+    "evento": "SE_159",
+    "archivos_wav": [
+      "AVG_589522671.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_589522671.wav"
+    ],
+    "ids_wem": [
+      "589522671"
+    ]
+  },
+  "SE_160": {
+    "evento": "SE_160",
+    "archivos_wav": [
+      "AVG_112095030.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_112095030.wav"
+    ],
+    "ids_wem": [
+      "112095030"
+    ]
+  },
+  "SE_161": {
+    "evento": "SE_161",
+    "archivos_wav": [
+      "AVG_650086869.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_650086869.wav"
+    ],
+    "ids_wem": [
+      "650086869"
+    ]
+  },
+  "SE_162": {
+    "evento": "SE_162",
+    "archivos_wav": [
+      "AVG_1063479547.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1063479547.wav"
+    ],
+    "ids_wem": [
+      "1063479547"
+    ]
+  },
+  "SE_163": {
+    "evento": "SE_163",
+    "archivos_wav": [
+      "AVG_118460843.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_118460843.wav"
+    ],
+    "ids_wem": [
+      "118460843"
+    ]
+  },
+  "SE_164": {
+    "evento": "SE_164",
+    "archivos_wav": [
+      "AVG_1017980486.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1017980486.wav"
+    ],
+    "ids_wem": [
+      "1017980486"
+    ]
+  },
+  "SE_165": {
+    "evento": "SE_165",
+    "archivos_wav": [
+      "AVG_519503709.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_519503709.wav"
+    ],
+    "ids_wem": [
+      "519503709"
+    ]
+  },
+  "SE_166": {
+    "evento": "SE_166",
+    "archivos_wav": [
+      "AVG_457691560.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_457691560.wav"
+    ],
+    "ids_wem": [
+      "457691560"
+    ]
+  },
+  "SE_167": {
+    "evento": "SE_167",
+    "archivos_wav": [
+      "AVG_310285769.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_310285769.wav"
+    ],
+    "ids_wem": [
+      "310285769"
+    ]
+  },
+  "SE_168": {
+    "evento": "SE_168",
+    "archivos_wav": [
+      "AVG_1008507807.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1008507807.wav"
+    ],
+    "ids_wem": [
+      "1008507807"
+    ]
+  },
+  "SE_169": {
+    "evento": "SE_169",
+    "archivos_wav": [
+      "AVG_224659644.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_224659644.wav"
+    ],
+    "ids_wem": [
+      "224659644"
+    ]
+  },
+  "SE_170": {
+    "evento": "SE_170",
+    "archivos_wav": [
+      "AVG_924835360.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_924835360.wav"
+    ],
+    "ids_wem": [
+      "924835360"
+    ]
+  },
+  "SE_171": {
+    "evento": "SE_171",
+    "archivos_wav": [
+      "AVG_589280338.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_589280338.wav"
+    ],
+    "ids_wem": [
+      "589280338"
+    ]
+  },
+  "SE_172": {
+    "evento": "SE_172",
+    "archivos_wav": [
+      "AVG_601653159.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_601653159.wav"
+    ],
+    "ids_wem": [
+      "601653159"
+    ]
+  },
+  "SE_173": {
+    "evento": "SE_173",
+    "archivos_wav": [
+      "AVG_279929564.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_279929564.wav"
+    ],
+    "ids_wem": [
+      "279929564"
+    ]
+  },
+  "SE_174": {
+    "evento": "SE_174",
+    "archivos_wav": [
+      "AVG_770875036.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_770875036.wav"
+    ],
+    "ids_wem": [
+      "770875036"
+    ]
+  },
+  "SE_175": {
+    "evento": "SE_175",
+    "archivos_wav": [
+      "AVG_441492809.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_441492809.wav"
+    ],
+    "ids_wem": [
+      "441492809"
+    ]
+  },
+  "SE_176": {
+    "evento": "SE_176",
+    "archivos_wav": [
+      "AVG_102799805.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_102799805.wav"
+    ],
+    "ids_wem": [
+      "102799805"
+    ]
+  },
+  "SE_177": {
+    "evento": "SE_177",
+    "archivos_wav": [
+      "AVG_137854365.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_137854365.wav"
+    ],
+    "ids_wem": [
+      "137854365"
+    ]
+  },
+  "SE_178": {
+    "evento": "SE_178",
+    "archivos_wav": [
+      "AVG_58539979.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_58539979.wav"
+    ],
+    "ids_wem": [
+      "58539979"
+    ]
+  },
+  "SE_179": {
+    "evento": "SE_179",
+    "archivos_wav": [
+      "AVG_523669488.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_523669488.wav"
+    ],
+    "ids_wem": [
+      "523669488"
+    ]
+  },
+  "SE_180": {
+    "evento": "SE_180",
+    "archivos_wav": [
+      "AVG_344335953.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_344335953.wav"
+    ],
+    "ids_wem": [
+      "344335953"
+    ]
+  },
+  "SE_181": {
+    "evento": "SE_181",
+    "archivos_wav": [
+      "AVG_658418919.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_658418919.wav"
+    ],
+    "ids_wem": [
+      "658418919"
+    ]
+  },
+  "SE_182": {
+    "evento": "SE_182",
+    "archivos_wav": [
+      "AVG_392037051.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_392037051.wav"
+    ],
+    "ids_wem": [
+      "392037051"
+    ]
+  },
+  "SE_183": {
+    "evento": "SE_183",
+    "archivos_wav": [
+      "AVG_44257590.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_44257590.wav"
+    ],
+    "ids_wem": [
+      "44257590"
+    ]
+  },
+  "SE_184": {
+    "evento": "SE_184",
+    "archivos_wav": [
+      "AVG_157171139.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_157171139.wav"
+    ],
+    "ids_wem": [
+      "157171139"
+    ]
+  },
+  "SE_185": {
+    "evento": "SE_185",
+    "archivos_wav": [
+      "AVG_103171194.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_103171194.wav"
+    ],
+    "ids_wem": [
+      "103171194"
+    ]
+  },
+  "SE_186": {
+    "evento": "SE_186",
+    "archivos_wav": [
+      "AVG_550020173.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_550020173.wav"
+    ],
+    "ids_wem": [
+      "550020173"
+    ]
+  },
+  "SE_187": {
+    "evento": "SE_187",
+    "archivos_wav": [
+      "AVG_194278439.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_194278439.wav"
+    ],
+    "ids_wem": [
+      "194278439"
+    ]
+  },
+  "SE_188": {
+    "evento": "SE_188",
+    "archivos_wav": [
+      "AVG_589972838.wav",
+      "AVG_637548861.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_589972838.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_637548861.wav"
+    ],
+    "ids_wem": [
+      "589972838",
+      "637548861"
+    ]
+  },
+  "SE_189": {
+    "evento": "SE_189",
+    "archivos_wav": [
+      "AVG_492818274.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_492818274.wav"
+    ],
+    "ids_wem": [
+      "492818274"
+    ]
+  },
+  "SE_190": {
+    "evento": "SE_190",
+    "archivos_wav": [
+      "AVG_585885082.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_585885082.wav"
+    ],
+    "ids_wem": [
+      "585885082"
+    ]
+  },
+  "SE_191": {
+    "evento": "SE_191",
+    "archivos_wav": [
+      "AVG_393393028.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_393393028.wav"
+    ],
+    "ids_wem": [
+      "393393028"
+    ]
+  },
+  "SE_192": {
+    "evento": "SE_192",
+    "archivos_wav": [
+      "AVG_120253848.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_120253848.wav"
+    ],
+    "ids_wem": [
+      "120253848"
+    ]
+  },
+  "SE_193": {
+    "evento": "SE_193",
+    "archivos_wav": [
+      "AVG_131417744.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_131417744.wav"
+    ],
+    "ids_wem": [
+      "131417744"
+    ]
+  },
+  "SE_194": {
+    "evento": "SE_194",
+    "archivos_wav": [
+      "AVG_497607506.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_497607506.wav"
+    ],
+    "ids_wem": [
+      "497607506"
+    ]
+  },
+  "SE_195": {
+    "evento": "SE_195",
+    "archivos_wav": [
+      "AVG_270739867.wav",
+      "AVG_964852116.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_270739867.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_964852116.wav"
+    ],
+    "ids_wem": [
+      "270739867",
+      "964852116"
+    ]
+  },
+  "SE_196": {
+    "evento": "SE_196",
+    "archivos_wav": [
+      "AVG_683795698.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_683795698.wav"
+    ],
+    "ids_wem": [
+      "683795698"
+    ]
+  },
+  "SE_197": {
+    "evento": "SE_197",
+    "archivos_wav": [
+      "AVG_794647220.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_794647220.wav"
+    ],
+    "ids_wem": [
+      "794647220"
+    ]
+  },
+  "SE_198": {
+    "evento": "SE_198",
+    "archivos_wav": [
+      "AVG_910189888.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_910189888.wav"
+    ],
+    "ids_wem": [
+      "910189888"
+    ]
+  },
+  "SE_199": {
+    "evento": "SE_199",
+    "archivos_wav": [
+      "AVG_1072150617.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1072150617.wav"
+    ],
+    "ids_wem": [
+      "1072150617"
+    ]
+  },
+  "SE_200": {
+    "evento": "SE_200",
+    "archivos_wav": [
+      "AVG_706327743.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_706327743.wav"
+    ],
+    "ids_wem": [
+      "706327743"
+    ]
+  },
+  "SE_201": {
+    "evento": "SE_201",
+    "archivos_wav": [
+      "AVG_629007222.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_629007222.wav"
+    ],
+    "ids_wem": [
+      "629007222"
+    ]
+  },
+  "SE_202": {
+    "evento": "SE_202",
+    "archivos_wav": [
+      "AVG_259311528.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_259311528.wav"
+    ],
+    "ids_wem": [
+      "259311528"
+    ]
+  },
+  "SE_203": {
+    "evento": "SE_203",
+    "archivos_wav": [
+      "AVG_254381650.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_254381650.wav"
+    ],
+    "ids_wem": [
+      "254381650"
+    ]
+  },
+  "SE_204": {
+    "evento": "SE_204",
+    "archivos_wav": [
+      "AVG_535638208.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_535638208.wav"
+    ],
+    "ids_wem": [
+      "535638208"
+    ]
+  },
+  "SE_205": {
+    "evento": "SE_205",
+    "archivos_wav": [
+      "AVG_237339615.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_237339615.wav"
+    ],
+    "ids_wem": [
+      "237339615"
+    ]
+  },
+  "SE_206": {
+    "evento": "SE_206",
+    "archivos_wav": [
+      "AVG_707060850.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_707060850.wav"
+    ],
+    "ids_wem": [
+      "707060850"
+    ]
+  },
+  "SE_207": {
+    "evento": "SE_207",
+    "archivos_wav": [
+      "AVG_423925003.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_423925003.wav"
+    ],
+    "ids_wem": [
+      "423925003"
+    ]
+  },
+  "SE_208": {
+    "evento": "SE_208",
+    "archivos_wav": [
+      "AVG_434472662.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_434472662.wav"
+    ],
+    "ids_wem": [
+      "434472662"
+    ]
+  },
+  "SE_209": {
+    "evento": "SE_209",
+    "archivos_wav": [
+      "AVG_217002757.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_217002757.wav"
+    ],
+    "ids_wem": [
+      "217002757"
+    ]
+  },
+  "SE_210": {
+    "evento": "SE_210",
+    "archivos_wav": [
+      "AVG_1027085076.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1027085076.wav"
+    ],
+    "ids_wem": [
+      "1027085076"
+    ]
+  },
+  "SE_211": {
+    "evento": "SE_211",
+    "archivos_wav": [
+      "AVG_253423286.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_253423286.wav"
+    ],
+    "ids_wem": [
+      "253423286"
+    ]
+  },
+  "SE_212": {
+    "evento": "SE_212",
+    "archivos_wav": [
+      "AVG_458104579.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_458104579.wav"
+    ],
+    "ids_wem": [
+      "458104579"
+    ]
+  },
+  "SE_213": {
+    "evento": "SE_213",
+    "archivos_wav": [
+      "AVG_38210206.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_38210206.wav"
+    ],
+    "ids_wem": [
+      "38210206"
+    ]
+  },
+  "SE_214": {
+    "evento": "SE_214",
+    "archivos_wav": [
+      "AVG_745940377.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_745940377.wav"
+    ],
+    "ids_wem": [
+      "745940377"
+    ]
+  },
+  "SE_215": {
+    "evento": "SE_215",
+    "archivos_wav": [
+      "AVG_932357523.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_932357523.wav"
+    ],
+    "ids_wem": [
+      "932357523"
+    ]
+  },
+  "SE_216": {
+    "evento": "SE_216",
+    "archivos_wav": [
+      "AVG_495916708.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_495916708.wav"
+    ],
+    "ids_wem": [
+      "495916708"
+    ]
+  },
+  "SE_217": {
+    "evento": "SE_217",
+    "archivos_wav": [
+      "AVG_296773796.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_296773796.wav"
+    ],
+    "ids_wem": [
+      "296773796"
+    ]
+  },
+  "SE_218": {
+    "evento": "SE_218",
+    "archivos_wav": [
+      "AVG_924110255.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_924110255.wav"
+    ],
+    "ids_wem": [
+      "924110255"
+    ]
+  },
+  "SE_219": {
+    "evento": "SE_219",
+    "archivos_wav": [
+      "AVG_951629152.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_951629152.wav"
+    ],
+    "ids_wem": [
+      "951629152"
+    ]
+  },
+  "SE_220": {
+    "evento": "SE_220",
+    "archivos_wav": [
+      "AVG_733240532.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_733240532.wav"
+    ],
+    "ids_wem": [
+      "733240532"
+    ]
+  },
+  "SE_221": {
+    "evento": "SE_221",
+    "archivos_wav": [
+      "AVG_876749080.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_876749080.wav"
+    ],
+    "ids_wem": [
+      "876749080"
+    ]
+  },
+  "SE_222": {
+    "evento": "SE_222",
+    "archivos_wav": [
+      "AVG_20774200.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_20774200.wav"
+    ],
+    "ids_wem": [
+      "20774200"
+    ]
+  },
+  "SE_223": {
+    "evento": "SE_223",
+    "archivos_wav": [
+      "AVG_796113886.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_796113886.wav"
+    ],
+    "ids_wem": [
+      "796113886"
+    ]
+  },
+  "SE_224": {
+    "evento": "SE_224",
+    "archivos_wav": [
+      "AVG_132422495.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_132422495.wav"
+    ],
+    "ids_wem": [
+      "132422495"
+    ]
+  },
+  "SE_225": {
+    "evento": "SE_225",
+    "archivos_wav": [
+      "AVG_145013175.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_145013175.wav"
+    ],
+    "ids_wem": [
+      "145013175"
+    ]
+  },
+  "SE_226": {
+    "evento": "SE_226",
+    "archivos_wav": [
+      "AVG_172491103.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_172491103.wav"
+    ],
+    "ids_wem": [
+      "172491103"
+    ]
+  },
+  "SE_227": {
+    "evento": "SE_227",
+    "archivos_wav": [
+      "AVG_376762298.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_376762298.wav"
+    ],
+    "ids_wem": [
+      "376762298"
+    ]
+  },
+  "SE_228": {
+    "evento": "SE_228",
+    "archivos_wav": [
+      "AVG_668332584.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_668332584.wav"
+    ],
+    "ids_wem": [
+      "668332584"
+    ]
+  },
+  "SE_229": {
+    "evento": "SE_229",
+    "archivos_wav": [
+      "AVG_412951580.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_412951580.wav"
+    ],
+    "ids_wem": [
+      "412951580"
+    ]
+  },
+  "SE_230": {
+    "evento": "SE_230",
+    "archivos_wav": [
+      "AVG_794402230.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_794402230.wav"
+    ],
+    "ids_wem": [
+      "794402230"
+    ]
+  },
+  "SE_231": {
+    "evento": "SE_231",
+    "archivos_wav": [
+      "AVG_911795342.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_911795342.wav"
+    ],
+    "ids_wem": [
+      "911795342"
+    ]
+  },
+  "SE_232": {
+    "evento": "SE_232",
+    "archivos_wav": [
+      "AVG_173210443.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_173210443.wav"
+    ],
+    "ids_wem": [
+      "173210443"
+    ]
+  },
+  "SE_233": {
+    "evento": "SE_233",
+    "archivos_wav": [
+      "AVG_957539597.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_957539597.wav"
+    ],
+    "ids_wem": [
+      "957539597"
+    ]
+  },
+  "SE_234": {
+    "evento": "SE_234",
+    "archivos_wav": [
+      "AVG_686335587.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_686335587.wav"
+    ],
+    "ids_wem": [
+      "686335587"
+    ]
+  },
+  "SE_235": {
+    "evento": "SE_235",
+    "archivos_wav": [
+      "AVG_769463554.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_769463554.wav"
+    ],
+    "ids_wem": [
+      "769463554"
+    ]
+  },
+  "SE_236": {
+    "evento": "SE_236",
+    "archivos_wav": [
+      "AVG_460078281.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_460078281.wav"
+    ],
+    "ids_wem": [
+      "460078281"
+    ]
+  },
+  "SE_237": {
+    "evento": "SE_237",
+    "archivos_wav": [
+      "AVG_980277938.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_980277938.wav"
+    ],
+    "ids_wem": [
+      "980277938"
+    ]
+  },
+  "SE_238": {
+    "evento": "SE_238",
+    "archivos_wav": [
+      "AVG_106561707.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_106561707.wav"
+    ],
+    "ids_wem": [
+      "106561707"
+    ]
+  },
+  "SE_239": {
+    "evento": "SE_239",
+    "archivos_wav": [
+      "AVG_580746865.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_580746865.wav"
+    ],
+    "ids_wem": [
+      "580746865"
+    ]
+  },
+  "SE_240": {
+    "evento": "SE_240",
+    "archivos_wav": [
+      "AVG_739167275.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_739167275.wav"
+    ],
+    "ids_wem": [
+      "739167275"
+    ]
+  },
+  "SE_242": {
+    "evento": "SE_242",
+    "archivos_wav": [
+      "AVG_210751309.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_210751309.wav"
+    ],
+    "ids_wem": [
+      "210751309"
+    ]
+  },
+  "SE_243": {
+    "evento": "SE_243",
+    "archivos_wav": [
+      "AVG_43424969.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_43424969.wav"
+    ],
+    "ids_wem": [
+      "43424969"
+    ]
+  },
+  "SE_244": {
+    "evento": "SE_244",
+    "archivos_wav": [
+      "AVG_407593641.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_407593641.wav"
+    ],
+    "ids_wem": [
+      "407593641"
+    ]
+  },
+  "SE_245": {
+    "evento": "SE_245",
+    "archivos_wav": [
+      "AVG_51712941.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_51712941.wav"
+    ],
+    "ids_wem": [
+      "51712941"
+    ]
+  },
+  "SE_246": {
+    "evento": "SE_246",
+    "archivos_wav": [
+      "AVG_548785846.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_548785846.wav"
+    ],
+    "ids_wem": [
+      "548785846"
+    ]
+  },
+  "SE_247": {
+    "evento": "SE_247",
+    "archivos_wav": [
+      "AVG_791503121.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_791503121.wav"
+    ],
+    "ids_wem": [
+      "791503121"
+    ]
+  },
+  "SE_248": {
+    "evento": "SE_248",
+    "archivos_wav": [
+      "AVG_664421149.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_664421149.wav"
+    ],
+    "ids_wem": [
+      "664421149"
+    ]
+  },
+  "SE_249": {
+    "evento": "SE_249",
+    "archivos_wav": [
+      "AVG_894599366.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_894599366.wav"
+    ],
+    "ids_wem": [
+      "894599366"
+    ]
+  },
+  "SE_250": {
+    "evento": "SE_250",
+    "archivos_wav": [
+      "AVG_723589306.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_723589306.wav"
+    ],
+    "ids_wem": [
+      "723589306"
+    ]
+  },
+  "SE_251": {
+    "evento": "SE_251",
+    "archivos_wav": [
+      "AVG_139689049.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_139689049.wav"
+    ],
+    "ids_wem": [
+      "139689049"
+    ]
+  },
+  "SE_252": {
+    "evento": "SE_252",
+    "archivos_wav": [
+      "AVG_800805073.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_800805073.wav"
+    ],
+    "ids_wem": [
+      "800805073"
+    ]
+  },
+  "SE_253": {
+    "evento": "SE_253",
+    "archivos_wav": [
+      "AVG_2534771.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_2534771.wav"
+    ],
+    "ids_wem": [
+      "2534771"
+    ]
+  },
+  "SE_254": {
+    "evento": "SE_254",
+    "archivos_wav": [
+      "AVG_37567896.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_37567896.wav"
+    ],
+    "ids_wem": [
+      "37567896"
+    ]
+  },
+  "SE_255": {
+    "evento": "SE_255",
+    "archivos_wav": [
+      "AVG_64043760.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_64043760.wav"
+    ],
+    "ids_wem": [
+      "64043760"
+    ]
+  },
+  "SE_256": {
+    "evento": "SE_256",
+    "archivos_wav": [
+      "AVG_493929392.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_493929392.wav"
+    ],
+    "ids_wem": [
+      "493929392"
+    ]
+  },
+  "SE_257": {
+    "evento": "SE_257",
+    "archivos_wav": [
+      "AVG_370881946.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_370881946.wav"
+    ],
+    "ids_wem": [
+      "370881946"
+    ]
+  },
+  "SE_258": {
+    "evento": "SE_258",
+    "archivos_wav": [
+      "AVG_106272523.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_106272523.wav"
+    ],
+    "ids_wem": [
+      "106272523"
+    ]
+  },
+  "SE_259": {
+    "evento": "SE_259",
+    "archivos_wav": [
+      "AVG_802751279.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_802751279.wav"
+    ],
+    "ids_wem": [
+      "802751279"
+    ]
+  },
+  "SE_260": {
+    "evento": "SE_260",
+    "archivos_wav": [
+      "AVG_837014378.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_837014378.wav"
+    ],
+    "ids_wem": [
+      "837014378"
+    ]
+  },
+  "SE_261": {
+    "evento": "SE_261",
+    "archivos_wav": [
+      "AVG_777949772.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_777949772.wav"
+    ],
+    "ids_wem": [
+      "777949772"
+    ]
+  },
+  "SE_262": {
+    "evento": "SE_262",
+    "archivos_wav": [
+      "AVG_62151914.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_62151914.wav"
+    ],
+    "ids_wem": [
+      "62151914"
+    ]
+  },
+  "SE_263": {
+    "evento": "SE_263",
+    "archivos_wav": [
+      "AVG_24832597.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_24832597.wav"
+    ],
+    "ids_wem": [
+      "24832597"
+    ]
+  },
+  "SE_264": {
+    "evento": "SE_264",
+    "archivos_wav": [
+      "AVG_246070692.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_246070692.wav"
+    ],
+    "ids_wem": [
+      "246070692"
+    ]
+  },
+  "SE_265": {
+    "evento": "SE_265",
+    "archivos_wav": [
+      "AVG_940753840.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_940753840.wav"
+    ],
+    "ids_wem": [
+      "940753840"
+    ]
+  },
+  "SE_266": {
+    "evento": "SE_266",
+    "archivos_wav": [
+      "AVG_711403005.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_711403005.wav"
+    ],
+    "ids_wem": [
+      "711403005"
+    ]
+  },
+  "SE_267": {
+    "evento": "SE_267",
+    "archivos_wav": [
+      "AVG_767827841.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_767827841.wav"
+    ],
+    "ids_wem": [
+      "767827841"
+    ]
+  },
+  "SE_268": {
+    "evento": "SE_268",
+    "archivos_wav": [
+      "AVG_133534356.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_133534356.wav"
+    ],
+    "ids_wem": [
+      "133534356"
+    ]
+  },
+  "SE_269": {
+    "evento": "SE_269",
+    "archivos_wav": [
+      "AVG_775747836.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_775747836.wav"
+    ],
+    "ids_wem": [
+      "775747836"
+    ]
+  },
+  "SE_270": {
+    "evento": "SE_270",
+    "archivos_wav": [
+      "AVG_934447863.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_934447863.wav"
+    ],
+    "ids_wem": [
+      "934447863"
+    ]
+  },
+  "SE_271": {
+    "evento": "SE_271",
+    "archivos_wav": [
+      "AVG_935528678.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_935528678.wav"
+    ],
+    "ids_wem": [
+      "935528678"
+    ]
+  },
+  "SE_272": {
+    "evento": "SE_272",
+    "archivos_wav": [
+      "AVG_116345595.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_116345595.wav"
+    ],
+    "ids_wem": [
+      "116345595"
+    ]
+  },
+  "SE_273": {
+    "evento": "SE_273",
+    "archivos_wav": [
+      "AVG_103512565.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_103512565.wav"
+    ],
+    "ids_wem": [
+      "103512565"
+    ]
+  },
+  "SE_274": {
+    "evento": "SE_274",
+    "archivos_wav": [
+      "AVG_994640215.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_994640215.wav"
+    ],
+    "ids_wem": [
+      "994640215"
+    ]
+  },
+  "SE_275": {
+    "evento": "SE_275",
+    "archivos_wav": [
+      "AVG_57280260.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_57280260.wav"
+    ],
+    "ids_wem": [
+      "57280260"
+    ]
+  },
+  "SE_276": {
+    "evento": "SE_276",
+    "archivos_wav": [
+      "AVG_1052267702.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1052267702.wav"
+    ],
+    "ids_wem": [
+      "1052267702"
+    ]
+  },
+  "SE_277": {
+    "evento": "SE_277",
+    "archivos_wav": [
+      "AVG_1028366273.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1028366273.wav"
+    ],
+    "ids_wem": [
+      "1028366273"
+    ]
+  },
+  "SE_278": {
+    "evento": "SE_278",
+    "archivos_wav": [
+      "AVG_144810484.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_144810484.wav"
+    ],
+    "ids_wem": [
+      "144810484"
+    ]
+  },
+  "SE_279": {
+    "evento": "SE_279",
+    "archivos_wav": [
+      "AVG_66402240.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_66402240.wav"
+    ],
+    "ids_wem": [
+      "66402240"
+    ]
+  },
+  "SE_280": {
+    "evento": "SE_280",
+    "archivos_wav": [
+      "AVG_304921964.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_304921964.wav"
+    ],
+    "ids_wem": [
+      "304921964"
+    ]
+  },
+  "SE_281": {
+    "evento": "SE_281",
+    "archivos_wav": [
+      "AVG_31207732.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_31207732.wav"
+    ],
+    "ids_wem": [
+      "31207732"
+    ]
+  },
+  "SE_282": {
+    "evento": "SE_282",
+    "archivos_wav": [
+      "AVG_928972001.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_928972001.wav"
+    ],
+    "ids_wem": [
+      "928972001"
+    ]
+  },
+  "SE_283": {
+    "evento": "SE_283",
+    "archivos_wav": [
+      "AVG_421135763.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_421135763.wav"
+    ],
+    "ids_wem": [
+      "421135763"
+    ]
+  },
+  "SE_284": {
+    "evento": "SE_284",
+    "archivos_wav": [
+      "AVG_636175075.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_636175075.wav"
+    ],
+    "ids_wem": [
+      "636175075"
+    ]
+  },
+  "SE_285 {r}": {
+    "evento": "SE_285 {r}",
+    "archivos_wav": [
+      "AVG_879417675.wav",
+      "AVG_726877507.wav",
+      "AVG_650616498.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_879417675.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_726877507.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_650616498.wav"
+    ],
+    "ids_wem": [
+      "879417675",
+      "726877507",
+      "650616498"
+    ]
+  },
+  "SE_286": {
+    "evento": "SE_286",
+    "archivos_wav": [
+      "AVG_458143034.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_458143034.wav"
+    ],
+    "ids_wem": [
+      "458143034"
+    ]
+  },
+  "SE_288": {
+    "evento": "SE_288",
+    "archivos_wav": [
+      "AVG_816114221.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_816114221.wav"
+    ],
+    "ids_wem": [
+      "816114221"
+    ]
+  },
+  "SE_289": {
+    "evento": "SE_289",
+    "archivos_wav": [
+      "AVG_268639705.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_268639705.wav"
+    ],
+    "ids_wem": [
+      "268639705"
+    ]
+  },
+  "SE_290": {
+    "evento": "SE_290",
+    "archivos_wav": [
+      "AVG_765424895.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_765424895.wav"
+    ],
+    "ids_wem": [
+      "765424895"
+    ]
+  },
+  "SE_291": {
+    "evento": "SE_291",
+    "archivos_wav": [
+      "AVG_569896786.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_569896786.wav"
+    ],
+    "ids_wem": [
+      "569896786"
+    ]
+  },
+  "SE_292": {
+    "evento": "SE_292",
+    "archivos_wav": [
+      "AVG_906826031.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_906826031.wav"
+    ],
+    "ids_wem": [
+      "906826031"
+    ]
+  },
+  "SE_293": {
+    "evento": "SE_293",
+    "archivos_wav": [
+      "AVG_265578014.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_265578014.wav"
+    ],
+    "ids_wem": [
+      "265578014"
+    ]
+  },
+  "SE_294": {
+    "evento": "SE_294",
+    "archivos_wav": [
+      "AVG_186482719.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_186482719.wav"
+    ],
+    "ids_wem": [
+      "186482719"
+    ]
+  },
+  "SE_295": {
+    "evento": "SE_295",
+    "archivos_wav": [
+      "AVG_134737736.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_134737736.wav"
+    ],
+    "ids_wem": [
+      "134737736"
+    ]
+  },
+  "SE_296": {
+    "evento": "SE_296",
+    "archivos_wav": [
+      "AVG_543042967.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_543042967.wav"
+    ],
+    "ids_wem": [
+      "543042967"
+    ]
+  },
+  "SE_297": {
+    "evento": "SE_297",
+    "archivos_wav": [
+      "AVG_379933235.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_379933235.wav"
+    ],
+    "ids_wem": [
+      "379933235"
+    ]
+  },
+  "SE_298": {
+    "evento": "SE_298",
+    "archivos_wav": [
+      "AVG_802945391.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_802945391.wav"
+    ],
+    "ids_wem": [
+      "802945391"
+    ]
+  },
+  "SE_299": {
+    "evento": "SE_299",
+    "archivos_wav": [
+      "AVG_637581310.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_637581310.wav"
+    ],
+    "ids_wem": [
+      "637581310"
+    ]
+  },
+  "SE_300": {
+    "evento": "SE_300",
+    "archivos_wav": [
+      "AVG_659138725.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_659138725.wav"
+    ],
+    "ids_wem": [
+      "659138725"
+    ]
+  },
+  "SE_301": {
+    "evento": "SE_301",
+    "archivos_wav": [
+      "AVG_85414153.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_85414153.wav"
+    ],
+    "ids_wem": [
+      "85414153"
+    ]
+  },
+  "SE_302": {
+    "evento": "SE_302",
+    "archivos_wav": [
+      "AVG_1008700361.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1008700361.wav"
+    ],
+    "ids_wem": [
+      "1008700361"
+    ]
+  },
+  "SE_303": {
+    "evento": "SE_303",
+    "archivos_wav": [
+      "AVG_436234475.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_436234475.wav"
+    ],
+    "ids_wem": [
+      "436234475"
+    ]
+  },
+  "SE_304": {
+    "evento": "SE_304",
+    "archivos_wav": [
+      "AVG_1057142248.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1057142248.wav"
+    ],
+    "ids_wem": [
+      "1057142248"
+    ]
+  },
+  "SE_305": {
+    "evento": "SE_305",
+    "archivos_wav": [
+      "AVG_917986777.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_917986777.wav"
+    ],
+    "ids_wem": [
+      "917986777"
+    ]
+  },
+  "SE_306": {
+    "evento": "SE_306",
+    "archivos_wav": [
+      "AVG_55018545.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_55018545.wav"
+    ],
+    "ids_wem": [
+      "55018545"
+    ]
+  },
+  "SE_307": {
+    "evento": "SE_307",
+    "archivos_wav": [
+      "AVG_938861690.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_938861690.wav"
+    ],
+    "ids_wem": [
+      "938861690"
+    ]
+  },
+  "SE_308": {
+    "evento": "SE_308",
+    "archivos_wav": [
+      "AVG_412021231.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_412021231.wav"
+    ],
+    "ids_wem": [
+      "412021231"
+    ]
+  },
+  "SE_309": {
+    "evento": "SE_309",
+    "archivos_wav": [
+      "AVG_535128055.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_535128055.wav"
+    ],
+    "ids_wem": [
+      "535128055"
+    ]
+  },
+  "SE_310": {
+    "evento": "SE_310",
+    "archivos_wav": [
+      "AVG_526480858.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_526480858.wav"
+    ],
+    "ids_wem": [
+      "526480858"
+    ]
+  },
+  "SE_311": {
+    "evento": "SE_311",
+    "archivos_wav": [
+      "AVG_913543190.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_913543190.wav"
+    ],
+    "ids_wem": [
+      "913543190"
+    ]
+  },
+  "SE_312": {
+    "evento": "SE_312",
+    "archivos_wav": [
+      "AVG_1063677700.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1063677700.wav"
+    ],
+    "ids_wem": [
+      "1063677700"
+    ]
+  },
+  "SE_313": {
+    "evento": "SE_313",
+    "archivos_wav": [
+      "AVG_883684458.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_883684458.wav"
+    ],
+    "ids_wem": [
+      "883684458"
+    ]
+  },
+  "SE_314": {
+    "evento": "SE_314",
+    "archivos_wav": [
+      "AVG_642759531.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_642759531.wav"
+    ],
+    "ids_wem": [
+      "642759531"
+    ]
+  },
+  "SE_315": {
+    "evento": "SE_315",
+    "archivos_wav": [
+      "AVG_318558426.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_318558426.wav"
+    ],
+    "ids_wem": [
+      "318558426"
+    ]
+  },
+  "SE_316": {
+    "evento": "SE_316",
+    "archivos_wav": [
+      "AVG_172843419.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_172843419.wav"
+    ],
+    "ids_wem": [
+      "172843419"
+    ]
+  },
+  "SE_317": {
+    "evento": "SE_317",
+    "archivos_wav": [
+      "AVG_351700305.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_351700305.wav"
+    ],
+    "ids_wem": [
+      "351700305"
+    ]
+  },
+  "SE_318": {
+    "evento": "SE_318",
+    "archivos_wav": [
+      "AVG_321971137.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_321971137.wav"
+    ],
+    "ids_wem": [
+      "321971137"
+    ]
+  },
+  "SE_319": {
+    "evento": "SE_319",
+    "archivos_wav": [
+      "AVG_268375564.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_268375564.wav"
+    ],
+    "ids_wem": [
+      "268375564"
+    ]
+  },
+  "SE_320": {
+    "evento": "SE_320",
+    "archivos_wav": [
+      "AVG_369459535.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_369459535.wav"
+    ],
+    "ids_wem": [
+      "369459535"
+    ]
+  },
+  "SE_321": {
+    "evento": "SE_321",
+    "archivos_wav": [
+      "AVG_369349971.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_369349971.wav"
+    ],
+    "ids_wem": [
+      "369349971"
+    ]
+  },
+  "SE_322": {
+    "evento": "SE_322",
+    "archivos_wav": [
+      "AVG_54745863.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_54745863.wav"
+    ],
+    "ids_wem": [
+      "54745863"
+    ]
+  },
+  "SE_323": {
+    "evento": "SE_323",
+    "archivos_wav": [
+      "AVG_373840902.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_373840902.wav"
+    ],
+    "ids_wem": [
+      "373840902"
+    ]
+  },
+  "SE_324": {
+    "evento": "SE_324",
+    "archivos_wav": [
+      "AVG_354030256.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_354030256.wav"
+    ],
+    "ids_wem": [
+      "354030256"
+    ]
+  },
+  "SE_325": {
+    "evento": "SE_325",
+    "archivos_wav": [
+      "AVG_133547301.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_133547301.wav"
+    ],
+    "ids_wem": [
+      "133547301"
+    ]
+  },
+  "SE_326": {
+    "evento": "SE_326",
+    "archivos_wav": [
+      "AVG_341247517.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_341247517.wav"
+    ],
+    "ids_wem": [
+      "341247517"
+    ]
+  },
+  "SE_327": {
+    "evento": "SE_327",
+    "archivos_wav": [
+      "AVG_635020721.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_635020721.wav"
+    ],
+    "ids_wem": [
+      "635020721"
+    ]
+  },
+  "SE_328": {
+    "evento": "SE_328",
+    "archivos_wav": [
+      "AVG_28550781.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_28550781.wav"
+    ],
+    "ids_wem": [
+      "28550781"
+    ]
+  },
+  "SE_329": {
+    "evento": "SE_329",
+    "archivos_wav": [
+      "AVG_674338560.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_674338560.wav"
+    ],
+    "ids_wem": [
+      "674338560"
+    ]
+  },
+  "SE_330": {
+    "evento": "SE_330",
+    "archivos_wav": [
+      "AVG_682910476.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_682910476.wav"
+    ],
+    "ids_wem": [
+      "682910476"
+    ]
+  },
+  "SE_331": {
+    "evento": "SE_331",
+    "archivos_wav": [
+      "AVG_442030342.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_442030342.wav"
+    ],
+    "ids_wem": [
+      "442030342"
+    ]
+  },
+  "SE_332": {
+    "evento": "SE_332",
+    "archivos_wav": [
+      "AVG_332323070.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_332323070.wav"
+    ],
+    "ids_wem": [
+      "332323070"
+    ]
+  },
+  "SE_333": {
+    "evento": "SE_333",
+    "archivos_wav": [
+      "AVG_104159152.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_104159152.wav"
+    ],
+    "ids_wem": [
+      "104159152"
+    ]
+  },
+  "SE_334": {
+    "evento": "SE_334",
+    "archivos_wav": [
+      "AVG_194604054.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_194604054.wav"
+    ],
+    "ids_wem": [
+      "194604054"
+    ]
+  },
+  "SE_335": {
+    "evento": "SE_335",
+    "archivos_wav": [
+      "AVG_295611413.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_295611413.wav"
+    ],
+    "ids_wem": [
+      "295611413"
+    ]
+  },
+  "SE_336": {
+    "evento": "SE_336",
+    "archivos_wav": [
+      "AVG_826380049.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_826380049.wav"
+    ],
+    "ids_wem": [
+      "826380049"
+    ]
+  },
+  "SE_337": {
+    "evento": "SE_337",
+    "archivos_wav": [
+      "AVG_425795547.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_425795547.wav"
+    ],
+    "ids_wem": [
+      "425795547"
+    ]
+  },
+  "SE_338": {
+    "evento": "SE_338",
+    "archivos_wav": [
+      "AVG_63382997.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_63382997.wav"
+    ],
+    "ids_wem": [
+      "63382997"
+    ]
+  },
+  "SE_339": {
+    "evento": "SE_339",
+    "archivos_wav": [
+      "AVG_415539124.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_415539124.wav"
+    ],
+    "ids_wem": [
+      "415539124"
+    ]
+  },
+  "SE_340": {
+    "evento": "SE_340",
+    "archivos_wav": [
+      "AVG_966766171.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_966766171.wav"
+    ],
+    "ids_wem": [
+      "966766171"
+    ]
+  },
+  "SE_341": {
+    "evento": "SE_341",
+    "archivos_wav": [
+      "AVG_658314971.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_658314971.wav"
+    ],
+    "ids_wem": [
+      "658314971"
+    ]
+  },
+  "SE_342": {
+    "evento": "SE_342",
+    "archivos_wav": [
+      "AVG_978609918.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_978609918.wav"
+    ],
+    "ids_wem": [
+      "978609918"
+    ]
+  },
+  "SE_343": {
+    "evento": "SE_343",
+    "archivos_wav": [
+      "AVG_689032999.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_689032999.wav"
+    ],
+    "ids_wem": [
+      "689032999"
+    ]
+  },
+  "SE_344": {
+    "evento": "SE_344",
+    "archivos_wav": [
+      "AVG_983381474.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_983381474.wav"
+    ],
+    "ids_wem": [
+      "983381474"
+    ]
+  },
+  "SE_345": {
+    "evento": "SE_345",
+    "archivos_wav": [
+      "AVG_821734102.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_821734102.wav"
+    ],
+    "ids_wem": [
+      "821734102"
+    ]
+  },
+  "SE_346": {
+    "evento": "SE_346",
+    "archivos_wav": [
+      "AVG_953115251.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_953115251.wav"
+    ],
+    "ids_wem": [
+      "953115251"
+    ]
+  },
+  "SE_347": {
+    "evento": "SE_347",
+    "archivos_wav": [
+      "AVG_76800532.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_76800532.wav"
+    ],
+    "ids_wem": [
+      "76800532"
+    ]
+  },
+  "SE_348": {
+    "evento": "SE_348",
+    "archivos_wav": [
+      "AVG_145682540.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_145682540.wav"
+    ],
+    "ids_wem": [
+      "145682540"
+    ]
+  },
+  "SE_349": {
+    "evento": "SE_349",
+    "archivos_wav": [
+      "AVG_427903723.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_427903723.wav"
+    ],
+    "ids_wem": [
+      "427903723"
+    ]
+  },
+  "SE_350": {
+    "evento": "SE_350",
+    "archivos_wav": [
+      "AVG_357284232.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_357284232.wav"
+    ],
+    "ids_wem": [
+      "357284232"
+    ]
+  },
+  "SE_351": {
+    "evento": "SE_351",
+    "archivos_wav": [
+      "AVG_507744124.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_507744124.wav"
+    ],
+    "ids_wem": [
+      "507744124"
+    ]
+  },
+  "SE_352": {
+    "evento": "SE_352",
+    "archivos_wav": [
+      "AVG_136572524.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_136572524.wav"
+    ],
+    "ids_wem": [
+      "136572524"
+    ]
+  },
+  "SE_353": {
+    "evento": "SE_353",
+    "archivos_wav": [
+      "AVG_696288581.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_696288581.wav"
+    ],
+    "ids_wem": [
+      "696288581"
+    ]
+  },
+  "SE_354": {
+    "evento": "SE_354",
+    "archivos_wav": [
+      "AVG_199492033.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_199492033.wav"
+    ],
+    "ids_wem": [
+      "199492033"
+    ]
+  },
+  "SE_355": {
+    "evento": "SE_355",
+    "archivos_wav": [
+      "AVG_662648028.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_662648028.wav"
+    ],
+    "ids_wem": [
+      "662648028"
+    ]
+  },
+  "SE_356": {
+    "evento": "SE_356",
+    "archivos_wav": [
+      "AVG_780269608.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_780269608.wav"
+    ],
+    "ids_wem": [
+      "780269608"
+    ]
+  },
+  "SE_357": {
+    "evento": "SE_357",
+    "archivos_wav": [
+      "AVG_753073555.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_753073555.wav"
+    ],
+    "ids_wem": [
+      "753073555"
+    ]
+  },
+  "SE_358": {
+    "evento": "SE_358",
+    "archivos_wav": [
+      "AVG_216191770.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_216191770.wav"
+    ],
+    "ids_wem": [
+      "216191770"
+    ]
+  },
+  "SE_359": {
+    "evento": "SE_359",
+    "archivos_wav": [
+      "AVG_856970845.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_856970845.wav"
+    ],
+    "ids_wem": [
+      "856970845"
+    ]
+  },
+  "SE_360": {
+    "evento": "SE_360",
+    "archivos_wav": [
+      "AVG_810344026.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_810344026.wav"
+    ],
+    "ids_wem": [
+      "810344026"
+    ]
+  },
+  "SE_361": {
+    "evento": "SE_361",
+    "archivos_wav": [
+      "AVG_181823964.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_181823964.wav"
+    ],
+    "ids_wem": [
+      "181823964"
+    ]
+  },
+  "SE_362": {
+    "evento": "SE_362",
+    "archivos_wav": [
+      "AVG_765771846.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_765771846.wav"
+    ],
+    "ids_wem": [
+      "765771846"
+    ]
+  },
+  "SE_363": {
+    "evento": "SE_363",
+    "archivos_wav": [
+      "AVG_1000727581.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1000727581.wav"
+    ],
+    "ids_wem": [
+      "1000727581"
+    ]
+  },
+  "SE_364": {
+    "evento": "SE_364",
+    "archivos_wav": [
+      "AVG_388220258.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_388220258.wav"
+    ],
+    "ids_wem": [
+      "388220258"
+    ]
+  },
+  "SE_365": {
+    "evento": "SE_365",
+    "archivos_wav": [
+      "AVG_138342521.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_138342521.wav"
+    ],
+    "ids_wem": [
+      "138342521"
+    ]
+  },
+  "SE_366": {
+    "evento": "SE_366",
+    "archivos_wav": [
+      "AVG_730051655.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_730051655.wav"
+    ],
+    "ids_wem": [
+      "730051655"
+    ]
+  },
+  "SE_367": {
+    "evento": "SE_367",
+    "archivos_wav": [
+      "AVG_751774324.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_751774324.wav"
+    ],
+    "ids_wem": [
+      "751774324"
+    ]
+  },
+  "SE_368": {
+    "evento": "SE_368",
+    "archivos_wav": [
+      "AVG_216021963.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_216021963.wav"
+    ],
+    "ids_wem": [
+      "216021963"
+    ]
+  },
+  "SE_369": {
+    "evento": "SE_369",
+    "archivos_wav": [
+      "AVG_594585890.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_594585890.wav"
+    ],
+    "ids_wem": [
+      "594585890"
+    ]
+  },
+  "SE_370": {
+    "evento": "SE_370",
+    "archivos_wav": [
+      "AVG_439535095.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_439535095.wav"
+    ],
+    "ids_wem": [
+      "439535095"
+    ]
+  },
+  "SE_371": {
+    "evento": "SE_371",
+    "archivos_wav": [
+      "AVG_431941993.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_431941993.wav"
+    ],
+    "ids_wem": [
+      "431941993"
+    ]
+  },
+  "SE_372": {
+    "evento": "SE_372",
+    "archivos_wav": [
+      "AVG_917368121.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_917368121.wav"
+    ],
+    "ids_wem": [
+      "917368121"
+    ]
+  },
+  "SE_373": {
+    "evento": "SE_373",
+    "archivos_wav": [
+      "AVG_11328179.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_11328179.wav"
+    ],
+    "ids_wem": [
+      "11328179"
+    ]
+  },
+  "SE_374": {
+    "evento": "SE_374",
+    "archivos_wav": [
+      "AVG_880123517.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_880123517.wav"
+    ],
+    "ids_wem": [
+      "880123517"
+    ]
+  },
+  "SE_375": {
+    "evento": "SE_375",
+    "archivos_wav": [
+      "AVG_774039098.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_774039098.wav"
+    ],
+    "ids_wem": [
+      "774039098"
+    ]
+  },
+  "SE_376": {
+    "evento": "SE_376",
+    "archivos_wav": [
+      "AVG_315653008.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_315653008.wav"
+    ],
+    "ids_wem": [
+      "315653008"
+    ]
+  },
+  "SE_377": {
+    "evento": "SE_377",
+    "archivos_wav": [
+      "AVG_40468934.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_40468934.wav"
+    ],
+    "ids_wem": [
+      "40468934"
+    ]
+  },
+  "SE_378": {
+    "evento": "SE_378",
+    "archivos_wav": [
+      "AVG_645731362.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_645731362.wav"
+    ],
+    "ids_wem": [
+      "645731362"
+    ]
+  },
+  "SE_379": {
+    "evento": "SE_379",
+    "archivos_wav": [
+      "AVG_591722744.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_591722744.wav"
+    ],
+    "ids_wem": [
+      "591722744"
+    ]
+  },
+  "SE_380": {
+    "evento": "SE_380",
+    "archivos_wav": [
+      "AVG_576307087.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_576307087.wav"
+    ],
+    "ids_wem": [
+      "576307087"
+    ]
+  },
+  "SE_381": {
+    "evento": "SE_381",
+    "archivos_wav": [
+      "AVG_65079553.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_65079553.wav"
+    ],
+    "ids_wem": [
+      "65079553"
+    ]
+  },
+  "SE_382": {
+    "evento": "SE_382",
+    "archivos_wav": [
+      "AVG_365121700.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_365121700.wav"
+    ],
+    "ids_wem": [
+      "365121700"
+    ]
+  },
+  "SE_383": {
+    "evento": "SE_383",
+    "archivos_wav": [
+      "AVG_274014319.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_274014319.wav"
+    ],
+    "ids_wem": [
+      "274014319"
+    ]
+  },
+  "SE_384": {
+    "evento": "SE_384",
+    "archivos_wav": [
+      "AVG_670784200.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_670784200.wav"
+    ],
+    "ids_wem": [
+      "670784200"
+    ]
+  },
+  "SE_385": {
+    "evento": "SE_385",
+    "archivos_wav": [
+      "AVG_549582270.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_549582270.wav"
+    ],
+    "ids_wem": [
+      "549582270"
+    ]
+  },
+  "SE_386": {
+    "evento": "SE_386",
+    "archivos_wav": [
+      "AVG_384080607.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_384080607.wav"
+    ],
+    "ids_wem": [
+      "384080607"
+    ]
+  },
+  "SE_387": {
+    "evento": "SE_387",
+    "archivos_wav": [
+      "AVG_315951786.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_315951786.wav"
+    ],
+    "ids_wem": [
+      "315951786"
+    ]
+  },
+  "SE_388": {
+    "evento": "SE_388",
+    "archivos_wav": [
+      "AVG_390114085.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_390114085.wav"
+    ],
+    "ids_wem": [
+      "390114085"
+    ]
+  },
+  "SE_389": {
+    "evento": "SE_389",
+    "archivos_wav": [
+      "AVG_279196466.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_279196466.wav"
+    ],
+    "ids_wem": [
+      "279196466"
+    ]
+  },
+  "SE_390": {
+    "evento": "SE_390",
+    "archivos_wav": [
+      "AVG_613572856.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_613572856.wav"
+    ],
+    "ids_wem": [
+      "613572856"
+    ]
+  },
+  "SE_391": {
+    "evento": "SE_391",
+    "archivos_wav": [
+      "AVG_582796549.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_582796549.wav"
+    ],
+    "ids_wem": [
+      "582796549"
+    ]
+  },
+  "SE_392": {
+    "evento": "SE_392",
+    "archivos_wav": [
+      "AVG_959723064.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_959723064.wav"
+    ],
+    "ids_wem": [
+      "959723064"
+    ]
+  },
+  "SE_393": {
+    "evento": "SE_393",
+    "archivos_wav": [
+      "AVG_238408508.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_238408508.wav"
+    ],
+    "ids_wem": [
+      "238408508"
+    ]
+  },
+  "SE_394": {
+    "evento": "SE_394",
+    "archivos_wav": [
+      "AVG_703847466.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_703847466.wav"
+    ],
+    "ids_wem": [
+      "703847466"
+    ]
+  },
+  "SE_395": {
+    "evento": "SE_395",
+    "archivos_wav": [
+      "AVG_157610152.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_157610152.wav"
+    ],
+    "ids_wem": [
+      "157610152"
+    ]
+  },
+  "SE_396": {
+    "evento": "SE_396",
+    "archivos_wav": [
+      "AVG_718370858.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_718370858.wav"
+    ],
+    "ids_wem": [
+      "718370858"
+    ]
+  },
+  "SE_397": {
+    "evento": "SE_397",
+    "archivos_wav": [
+      "AVG_257492012.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_257492012.wav"
+    ],
+    "ids_wem": [
+      "257492012"
+    ]
+  },
+  "SE_398": {
+    "evento": "SE_398",
+    "archivos_wav": [
+      "AVG_831487843.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_831487843.wav"
+    ],
+    "ids_wem": [
+      "831487843"
+    ]
+  },
+  "SE_399": {
+    "evento": "SE_399",
+    "archivos_wav": [
+      "AVG_1068499213.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1068499213.wav"
+    ],
+    "ids_wem": [
+      "1068499213"
+    ]
+  },
+  "SE_400": {
+    "evento": "SE_400",
+    "archivos_wav": [
+      "AVG_791853709.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_791853709.wav"
+    ],
+    "ids_wem": [
+      "791853709"
+    ]
+  },
+  "SE_401": {
+    "evento": "SE_401",
+    "archivos_wav": [
+      "AVG_934450346.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_934450346.wav"
+    ],
+    "ids_wem": [
+      "934450346"
+    ]
+  },
+  "SE_402": {
+    "evento": "SE_402",
+    "archivos_wav": [
+      "AVG_1025367561.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1025367561.wav"
+    ],
+    "ids_wem": [
+      "1025367561"
+    ]
+  },
+  "SE_403": {
+    "evento": "SE_403",
+    "archivos_wav": [
+      "AVG_380119694.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_380119694.wav"
+    ],
+    "ids_wem": [
+      "380119694"
+    ]
+  },
+  "SE_404": {
+    "evento": "SE_404",
+    "archivos_wav": [
+      "AVG_339830272.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_339830272.wav"
+    ],
+    "ids_wem": [
+      "339830272"
+    ]
+  },
+  "SE_405": {
+    "evento": "SE_405",
+    "archivos_wav": [
+      "AVG_429286320.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_429286320.wav"
+    ],
+    "ids_wem": [
+      "429286320"
+    ]
+  },
+  "SE_406": {
+    "evento": "SE_406",
+    "archivos_wav": [
+      "AVG_500688142.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_500688142.wav"
+    ],
+    "ids_wem": [
+      "500688142"
+    ]
+  },
+  "SE_407": {
+    "evento": "SE_407",
+    "archivos_wav": [
+      "AVG_36270676.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_36270676.wav"
+    ],
+    "ids_wem": [
+      "36270676"
+    ]
+  },
+  "SE_408": {
+    "evento": "SE_408",
+    "archivos_wav": [
+      "AVG_601469937.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_601469937.wav"
+    ],
+    "ids_wem": [
+      "601469937"
+    ]
+  },
+  "SE_409": {
+    "evento": "SE_409",
+    "archivos_wav": [
+      "AVG_915976631.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_915976631.wav"
+    ],
+    "ids_wem": [
+      "915976631"
+    ]
+  },
+  "SE_410": {
+    "evento": "SE_410",
+    "archivos_wav": [
+      "AVG_277889133.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_277889133.wav"
+    ],
+    "ids_wem": [
+      "277889133"
+    ]
+  },
+  "SE_411": {
+    "evento": "SE_411",
+    "archivos_wav": [
+      "AVG_893127706.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_893127706.wav"
+    ],
+    "ids_wem": [
+      "893127706"
+    ]
+  },
+  "SE_412": {
+    "evento": "SE_412",
+    "archivos_wav": [
+      "AVG_435095638.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_435095638.wav"
+    ],
+    "ids_wem": [
+      "435095638"
+    ]
+  },
+  "SE_413": {
+    "evento": "SE_413",
+    "archivos_wav": [
+      "AVG_398537964.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_398537964.wav"
+    ],
+    "ids_wem": [
+      "398537964"
+    ]
+  },
+  "SE_414": {
+    "evento": "SE_414",
+    "archivos_wav": [
+      "AVG_78810514.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_78810514.wav"
+    ],
+    "ids_wem": [
+      "78810514"
+    ]
+  },
+  "SE_415": {
+    "evento": "SE_415",
+    "archivos_wav": [
+      "AVG_865183459.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_865183459.wav"
+    ],
+    "ids_wem": [
+      "865183459"
+    ]
+  },
+  "SE_416": {
+    "evento": "SE_416",
+    "archivos_wav": [
+      "AVG_122798723.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_122798723.wav"
+    ],
+    "ids_wem": [
+      "122798723"
+    ]
+  },
+  "SE_417": {
+    "evento": "SE_417",
+    "archivos_wav": [
+      "AVG_454648173.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_454648173.wav"
+    ],
+    "ids_wem": [
+      "454648173"
+    ]
+  },
+  "SE_418": {
+    "evento": "SE_418",
+    "archivos_wav": [
+      "AVG_1053052841.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1053052841.wav"
+    ],
+    "ids_wem": [
+      "1053052841"
+    ]
+  },
+  "SE_419": {
+    "evento": "SE_419",
+    "archivos_wav": [
+      "AVG_993122335.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_993122335.wav"
+    ],
+    "ids_wem": [
+      "993122335"
+    ]
+  },
+  "SE_420": {
+    "evento": "SE_420",
+    "archivos_wav": [
+      "AVG_434873570.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_434873570.wav"
+    ],
+    "ids_wem": [
+      "434873570"
+    ]
+  },
+  "SE_421": {
+    "evento": "SE_421",
+    "archivos_wav": [
+      "AVG_816245814.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_816245814.wav"
+    ],
+    "ids_wem": [
+      "816245814"
+    ]
+  },
+  "SE_422": {
+    "evento": "SE_422",
+    "archivos_wav": [
+      "AVG_900649689.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_900649689.wav"
+    ],
+    "ids_wem": [
+      "900649689"
+    ]
+  },
+  "SE_423": {
+    "evento": "SE_423",
+    "archivos_wav": [
+      "AVG_894810404.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_894810404.wav"
+    ],
+    "ids_wem": [
+      "894810404"
+    ]
+  },
+  "SE_424": {
+    "evento": "SE_424",
+    "archivos_wav": [
+      "AVG_451081497.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_451081497.wav"
+    ],
+    "ids_wem": [
+      "451081497"
+    ]
+  },
+  "SE_425": {
+    "evento": "SE_425",
+    "archivos_wav": [
+      "AVG_893904140.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_893904140.wav"
+    ],
+    "ids_wem": [
+      "893904140"
+    ]
+  },
+  "SE_426": {
+    "evento": "SE_426",
+    "archivos_wav": [
+      "AVG_149673983.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_149673983.wav"
+    ],
+    "ids_wem": [
+      "149673983"
+    ]
+  },
+  "SE_427": {
+    "evento": "SE_427",
+    "archivos_wav": [
+      "AVG_549340492.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_549340492.wav"
+    ],
+    "ids_wem": [
+      "549340492"
+    ]
+  },
+  "SE_428": {
+    "evento": "SE_428",
+    "archivos_wav": [
+      "AVG_1024989957.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1024989957.wav"
+    ],
+    "ids_wem": [
+      "1024989957"
+    ]
+  },
+  "SE_429": {
+    "evento": "SE_429",
+    "archivos_wav": [
+      "AVG_463084492.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_463084492.wav"
+    ],
+    "ids_wem": [
+      "463084492"
+    ]
+  },
+  "SE_430": {
+    "evento": "SE_430",
+    "archivos_wav": [
+      "AVG_290371964.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_290371964.wav"
+    ],
+    "ids_wem": [
+      "290371964"
+    ]
+  },
+  "SE_431": {
+    "evento": "SE_431",
+    "archivos_wav": [
+      "AVG_316922465.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_316922465.wav"
+    ],
+    "ids_wem": [
+      "316922465"
+    ]
+  },
+  "SE_432": {
+    "evento": "SE_432",
+    "archivos_wav": [
+      "AVG_190069193.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_190069193.wav"
+    ],
+    "ids_wem": [
+      "190069193"
+    ]
+  },
+  "SE_433": {
+    "evento": "SE_433",
+    "archivos_wav": [
+      "AVG_317256262.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_317256262.wav"
+    ],
+    "ids_wem": [
+      "317256262"
+    ]
+  },
+  "SE_434": {
+    "evento": "SE_434",
+    "archivos_wav": [
+      "AVG_333703066.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_333703066.wav"
+    ],
+    "ids_wem": [
+      "333703066"
+    ]
+  },
+  "SE_435": {
+    "evento": "SE_435",
+    "archivos_wav": [
+      "AVG_91584341.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_91584341.wav"
+    ],
+    "ids_wem": [
+      "91584341"
+    ]
+  },
+  "SE_436": {
+    "evento": "SE_436",
+    "archivos_wav": [
+      "AVG_695340460.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_695340460.wav"
+    ],
+    "ids_wem": [
+      "695340460"
+    ]
+  },
+  "SE_437": {
+    "evento": "SE_437",
+    "archivos_wav": [
+      "AVG_746040677.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_746040677.wav"
+    ],
+    "ids_wem": [
+      "746040677"
+    ]
+  },
+  "SE_438": {
+    "evento": "SE_438",
+    "archivos_wav": [
+      "AVG_4479127.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_4479127.wav"
+    ],
+    "ids_wem": [
+      "4479127"
+    ]
+  },
+  "SE_439": {
+    "evento": "SE_439",
+    "archivos_wav": [
+      "AVG_257519075.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_257519075.wav"
+    ],
+    "ids_wem": [
+      "257519075"
+    ]
+  },
+  "SE_440": {
+    "evento": "SE_440",
+    "archivos_wav": [
+      "AVG_1062191087.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1062191087.wav"
+    ],
+    "ids_wem": [
+      "1062191087"
+    ]
+  },
+  "SE_441": {
+    "evento": "SE_441",
+    "archivos_wav": [
+      "AVG_916220146.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_916220146.wav"
+    ],
+    "ids_wem": [
+      "916220146"
+    ]
+  },
+  "SE_442": {
+    "evento": "SE_442",
+    "archivos_wav": [
+      "AVG_401353464.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_401353464.wav"
+    ],
+    "ids_wem": [
+      "401353464"
+    ]
+  },
+  "SE_443": {
+    "evento": "SE_443",
+    "archivos_wav": [
+      "AVG_279345149.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_279345149.wav"
+    ],
+    "ids_wem": [
+      "279345149"
+    ]
+  },
+  "SE_444": {
+    "evento": "SE_444",
+    "archivos_wav": [
+      "AVG_494661072.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_494661072.wav"
+    ],
+    "ids_wem": [
+      "494661072"
+    ]
+  },
+  "SE_445": {
+    "evento": "SE_445",
+    "archivos_wav": [
+      "AVG_373261876.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_373261876.wav"
+    ],
+    "ids_wem": [
+      "373261876"
+    ]
+  },
+  "SE_446": {
+    "evento": "SE_446",
+    "archivos_wav": [
+      "AVG_1056068537.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1056068537.wav"
+    ],
+    "ids_wem": [
+      "1056068537"
+    ]
+  },
+  "SE_447": {
+    "evento": "SE_447",
+    "archivos_wav": [
+      "AVG_797064047.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_797064047.wav"
+    ],
+    "ids_wem": [
+      "797064047"
+    ]
+  },
+  "SE_448": {
+    "evento": "SE_448",
+    "archivos_wav": [
+      "AVG_65406941.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_65406941.wav"
+    ],
+    "ids_wem": [
+      "65406941"
+    ]
+  },
+  "SE_449": {
+    "evento": "SE_449",
+    "archivos_wav": [
+      "AVG_1052315018.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1052315018.wav"
+    ],
+    "ids_wem": [
+      "1052315018"
+    ]
+  },
+  "SE_450": {
+    "evento": "SE_450",
+    "archivos_wav": [
+      "AVG_812672614.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_812672614.wav"
+    ],
+    "ids_wem": [
+      "812672614"
+    ]
+  },
+  "SE_451": {
+    "evento": "SE_451",
+    "archivos_wav": [
+      "AVG_754619464.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_754619464.wav"
+    ],
+    "ids_wem": [
+      "754619464"
+    ]
+  },
+  "SE_452": {
+    "evento": "SE_452",
+    "archivos_wav": [
+      "AVG_601975635.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_601975635.wav"
+    ],
+    "ids_wem": [
+      "601975635"
+    ]
+  },
+  "SE_453": {
+    "evento": "SE_453",
+    "archivos_wav": [
+      "AVG_146980295.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_146980295.wav"
+    ],
+    "ids_wem": [
+      "146980295"
+    ]
+  },
+  "SE_454": {
+    "evento": "SE_454",
+    "archivos_wav": [
+      "AVG_344196954.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_344196954.wav"
+    ],
+    "ids_wem": [
+      "344196954"
+    ]
+  },
+  "SE_455": {
+    "evento": "SE_455",
+    "archivos_wav": [
+      "AVG_53642586.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_53642586.wav"
+    ],
+    "ids_wem": [
+      "53642586"
+    ]
+  },
+  "SE_456": {
+    "evento": "SE_456",
+    "archivos_wav": [
+      "AVG_755047149.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_755047149.wav"
+    ],
+    "ids_wem": [
+      "755047149"
+    ]
+  },
+  "SE_457": {
+    "evento": "SE_457",
+    "archivos_wav": [
+      "AVG_858967798.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_858967798.wav"
+    ],
+    "ids_wem": [
+      "858967798"
+    ]
+  },
+  "SE_458": {
+    "evento": "SE_458",
+    "archivos_wav": [
+      "AVG_916495286.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_916495286.wav"
+    ],
+    "ids_wem": [
+      "916495286"
+    ]
+  },
+  "SE_459": {
+    "evento": "SE_459",
+    "archivos_wav": [
+      "AVG_28585274.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_28585274.wav"
+    ],
+    "ids_wem": [
+      "28585274"
+    ]
+  },
+  "SE_460": {
+    "evento": "SE_460",
+    "archivos_wav": [
+      "AVG_275394820.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_275394820.wav"
+    ],
+    "ids_wem": [
+      "275394820"
+    ]
+  },
+  "SE_461": {
+    "evento": "SE_461",
+    "archivos_wav": [
+      "AVG_213121026.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_213121026.wav"
+    ],
+    "ids_wem": [
+      "213121026"
+    ]
+  },
+  "SE_462": {
+    "evento": "SE_462",
+    "archivos_wav": [
+      "AVG_1061571606.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1061571606.wav"
+    ],
+    "ids_wem": [
+      "1061571606"
+    ]
+  },
+  "SE_463": {
+    "evento": "SE_463",
+    "archivos_wav": [
+      "AVG_293104384.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_293104384.wav"
+    ],
+    "ids_wem": [
+      "293104384"
+    ]
+  },
+  "SE_464": {
+    "evento": "SE_464",
+    "archivos_wav": [
+      "AVG_603429861.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_603429861.wav"
+    ],
+    "ids_wem": [
+      "603429861"
+    ]
+  },
+  "SE_465": {
+    "evento": "SE_465",
+    "archivos_wav": [
+      "AVG_149962076.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_149962076.wav"
+    ],
+    "ids_wem": [
+      "149962076"
+    ]
+  },
+  "SE_466": {
+    "evento": "SE_466",
+    "archivos_wav": [
+      "AVG_817003797.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_817003797.wav"
+    ],
+    "ids_wem": [
+      "817003797"
+    ]
+  },
+  "SE_467": {
+    "evento": "SE_467",
+    "archivos_wav": [
+      "AVG_573353057.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_573353057.wav"
+    ],
+    "ids_wem": [
+      "573353057"
+    ]
+  },
+  "SE_468": {
+    "evento": "SE_468",
+    "archivos_wav": [
+      "AVG_279226827.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_279226827.wav"
+    ],
+    "ids_wem": [
+      "279226827"
+    ]
+  },
+  "SE_469": {
+    "evento": "SE_469",
+    "archivos_wav": [
+      "AVG_982030709.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_982030709.wav"
+    ],
+    "ids_wem": [
+      "982030709"
+    ]
+  },
+  "SE_470": {
+    "evento": "SE_470",
+    "archivos_wav": [
+      "AVG_728535009.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_728535009.wav"
+    ],
+    "ids_wem": [
+      "728535009"
+    ]
+  },
+  "SE_471": {
+    "evento": "SE_471",
+    "archivos_wav": [
+      "AVG_581101965.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_581101965.wav"
+    ],
+    "ids_wem": [
+      "581101965"
+    ]
+  },
+  "SE_472": {
+    "evento": "SE_472",
+    "archivos_wav": [
+      "AVG_93049199.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_93049199.wav"
+    ],
+    "ids_wem": [
+      "93049199"
+    ]
+  },
+  "SE_473": {
+    "evento": "SE_473",
+    "archivos_wav": [
+      "AVG_318898980.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_318898980.wav"
+    ],
+    "ids_wem": [
+      "318898980"
+    ]
+  },
+  "SE_474": {
+    "evento": "SE_474",
+    "archivos_wav": [
+      "AVG_454796844.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_454796844.wav"
+    ],
+    "ids_wem": [
+      "454796844"
+    ]
+  },
+  "SE_475": {
+    "evento": "SE_475",
+    "archivos_wav": [
+      "AVG_503897212.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_503897212.wav"
+    ],
+    "ids_wem": [
+      "503897212"
+    ]
+  },
+  "SE_476": {
+    "evento": "SE_476",
+    "archivos_wav": [
+      "AVG_975552682.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_975552682.wav"
+    ],
+    "ids_wem": [
+      "975552682"
+    ]
+  },
+  "SE_477": {
+    "evento": "SE_477",
+    "archivos_wav": [
+      "AVG_317237790.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_317237790.wav"
+    ],
+    "ids_wem": [
+      "317237790"
+    ]
+  },
+  "SE_478": {
+    "evento": "SE_478",
+    "archivos_wav": [
+      "AVG_530751361.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_530751361.wav"
+    ],
+    "ids_wem": [
+      "530751361"
+    ]
+  },
+  "SE_479": {
+    "evento": "SE_479",
+    "archivos_wav": [
+      "AVG_30537500.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_30537500.wav"
+    ],
+    "ids_wem": [
+      "30537500"
+    ]
+  },
+  "SE_480": {
+    "evento": "SE_480",
+    "archivos_wav": [
+      "AVG_740824886.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_740824886.wav"
+    ],
+    "ids_wem": [
+      "740824886"
+    ]
+  },
+  "SE_481": {
+    "evento": "SE_481",
+    "archivos_wav": [
+      "AVG_1055902939.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1055902939.wav"
+    ],
+    "ids_wem": [
+      "1055902939"
+    ]
+  },
+  "SE_482": {
+    "evento": "SE_482",
+    "archivos_wav": [
+      "AVG_777336734.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_777336734.wav"
+    ],
+    "ids_wem": [
+      "777336734"
+    ]
+  },
+  "SE_483": {
+    "evento": "SE_483",
+    "archivos_wav": [
+      "AVG_297755331.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_297755331.wav"
+    ],
+    "ids_wem": [
+      "297755331"
+    ]
+  },
+  "SE_484": {
+    "evento": "SE_484",
+    "archivos_wav": [
+      "AVG_1033137093.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1033137093.wav"
+    ],
+    "ids_wem": [
+      "1033137093"
+    ]
+  },
+  "SE_485": {
+    "evento": "SE_485",
+    "archivos_wav": [
+      "AVG_204080914.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_204080914.wav"
+    ],
+    "ids_wem": [
+      "204080914"
+    ]
+  },
+  "SE_486": {
+    "evento": "SE_486",
+    "archivos_wav": [
+      "AVG_95946012.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_95946012.wav"
+    ],
+    "ids_wem": [
+      "95946012"
+    ]
+  },
+  "SE_487": {
+    "evento": "SE_487",
+    "archivos_wav": [
+      "AVG_494806998.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_494806998.wav"
+    ],
+    "ids_wem": [
+      "494806998"
+    ]
+  },
+  "SE_488": {
+    "evento": "SE_488",
+    "archivos_wav": [
+      "AVG_38601186.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_38601186.wav"
+    ],
+    "ids_wem": [
+      "38601186"
+    ]
+  },
+  "SE_489": {
+    "evento": "SE_489",
+    "archivos_wav": [
+      "AVG_477163821.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_477163821.wav"
+    ],
+    "ids_wem": [
+      "477163821"
+    ]
+  },
+  "SE_490": {
+    "evento": "SE_490",
+    "archivos_wav": [
+      "AVG_897297302.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_897297302.wav"
+    ],
+    "ids_wem": [
+      "897297302"
+    ]
+  },
+  "SE_491": {
+    "evento": "SE_491",
+    "archivos_wav": [
+      "AVG_475171857.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_475171857.wav"
+    ],
+    "ids_wem": [
+      "475171857"
+    ]
+  },
+  "SE_492": {
+    "evento": "SE_492",
+    "archivos_wav": [
+      "AVG_412054543.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_412054543.wav"
+    ],
+    "ids_wem": [
+      "412054543"
+    ]
+  },
+  "SE_493": {
+    "evento": "SE_493",
+    "archivos_wav": [
+      "AVG_540636217.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_540636217.wav"
+    ],
+    "ids_wem": [
+      "540636217"
+    ]
+  },
+  "SE_494": {
+    "evento": "SE_494",
+    "archivos_wav": [
+      "AVG_290204769.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_290204769.wav"
+    ],
+    "ids_wem": [
+      "290204769"
+    ]
+  },
+  "SE_495": {
+    "evento": "SE_495",
+    "archivos_wav": [
+      "AVG_812404433.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_812404433.wav"
+    ],
+    "ids_wem": [
+      "812404433"
+    ]
+  },
+  "SE_496": {
+    "evento": "SE_496",
+    "archivos_wav": [
+      "AVG_438268669.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_438268669.wav"
+    ],
+    "ids_wem": [
+      "438268669"
+    ]
+  },
+  "SE_497": {
+    "evento": "SE_497",
+    "archivos_wav": [
+      "AVG_806523232.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_806523232.wav"
+    ],
+    "ids_wem": [
+      "806523232"
+    ]
+  },
+  "SE_498": {
+    "evento": "SE_498",
+    "archivos_wav": [
+      "AVG_608627293.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_608627293.wav"
+    ],
+    "ids_wem": [
+      "608627293"
+    ]
+  },
+  "SE_499": {
+    "evento": "SE_499",
+    "archivos_wav": [
+      "AVG_868463119.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_868463119.wav"
+    ],
+    "ids_wem": [
+      "868463119"
+    ]
+  },
+  "SE_500": {
+    "evento": "SE_500",
+    "archivos_wav": [
+      "AVG_984500462.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_984500462.wav"
+    ],
+    "ids_wem": [
+      "984500462"
+    ]
+  },
+  "SE_501": {
+    "evento": "SE_501",
+    "archivos_wav": [
+      "AVG_194904763.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_194904763.wav"
+    ],
+    "ids_wem": [
+      "194904763"
+    ]
+  },
+  "SE_502": {
+    "evento": "SE_502",
+    "archivos_wav": [
+      "AVG_328667956.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_328667956.wav"
+    ],
+    "ids_wem": [
+      "328667956"
+    ]
+  },
+  "SE_503": {
+    "evento": "SE_503",
+    "archivos_wav": [
+      "AVG_595925096.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_595925096.wav"
+    ],
+    "ids_wem": [
+      "595925096"
+    ]
+  },
+  "SE_504": {
+    "evento": "SE_504",
+    "archivos_wav": [
+      "AVG_124969708.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_124969708.wav"
+    ],
+    "ids_wem": [
+      "124969708"
+    ]
+  },
+  "SE_505": {
+    "evento": "SE_505",
+    "archivos_wav": [
+      "AVG_763286266.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_763286266.wav"
+    ],
+    "ids_wem": [
+      "763286266"
+    ]
+  },
+  "SE_506": {
+    "evento": "SE_506",
+    "archivos_wav": [
+      "AVG_434559208.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_434559208.wav"
+    ],
+    "ids_wem": [
+      "434559208"
+    ]
+  },
+  "SE_507": {
+    "evento": "SE_507",
+    "archivos_wav": [
+      "AVG_547356434.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_547356434.wav"
+    ],
+    "ids_wem": [
+      "547356434"
+    ]
+  },
+  "SE_508": {
+    "evento": "SE_508",
+    "archivos_wav": [
+      "AVG_657766077.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_657766077.wav"
+    ],
+    "ids_wem": [
+      "657766077"
+    ]
+  },
+  "SE_509": {
+    "evento": "SE_509",
+    "archivos_wav": [
+      "AVG_900994891.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_900994891.wav"
+    ],
+    "ids_wem": [
+      "900994891"
+    ]
+  },
+  "SE_510": {
+    "evento": "SE_510",
+    "archivos_wav": [
+      "AVG_551084405.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_551084405.wav"
+    ],
+    "ids_wem": [
+      "551084405"
+    ]
+  },
+  "SE_511": {
+    "evento": "SE_511",
+    "archivos_wav": [
+      "AVG_913845826.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_913845826.wav"
+    ],
+    "ids_wem": [
+      "913845826"
+    ]
+  },
+  "SE_512": {
+    "evento": "SE_512",
+    "archivos_wav": [
+      "AVG_395729606.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_395729606.wav"
+    ],
+    "ids_wem": [
+      "395729606"
+    ]
+  },
+  "SE_513": {
+    "evento": "SE_513",
+    "archivos_wav": [
+      "AVG_1013424714.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1013424714.wav"
+    ],
+    "ids_wem": [
+      "1013424714"
+    ]
+  },
+  "SE_514": {
+    "evento": "SE_514",
+    "archivos_wav": [
+      "AVG_435458490.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_435458490.wav"
+    ],
+    "ids_wem": [
+      "435458490"
+    ]
+  },
+  "SE_515": {
+    "evento": "SE_515",
+    "archivos_wav": [
+      "AVG_37875947.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_37875947.wav"
+    ],
+    "ids_wem": [
+      "37875947"
+    ]
+  },
+  "SE_516": {
+    "evento": "SE_516",
+    "archivos_wav": [
+      "AVG_981652781.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_981652781.wav"
+    ],
+    "ids_wem": [
+      "981652781"
+    ]
+  },
+  "SE_517": {
+    "evento": "SE_517",
+    "archivos_wav": [
+      "AVG_1016322493.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1016322493.wav"
+    ],
+    "ids_wem": [
+      "1016322493"
+    ]
+  },
+  "SE_518": {
+    "evento": "SE_518",
+    "archivos_wav": [
+      "AVG_1054782565.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1054782565.wav"
+    ],
+    "ids_wem": [
+      "1054782565"
+    ]
+  },
+  "SE_519": {
+    "evento": "SE_519",
+    "archivos_wav": [
+      "AVG_643151753.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_643151753.wav"
+    ],
+    "ids_wem": [
+      "643151753"
+    ]
+  },
+  "SE_520": {
+    "evento": "SE_520",
+    "archivos_wav": [
+      "AVG_360619669.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_360619669.wav"
+    ],
+    "ids_wem": [
+      "360619669"
+    ]
+  },
+  "SE_521": {
+    "evento": "SE_521",
+    "archivos_wav": [
+      "AVG_220826248.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_220826248.wav"
+    ],
+    "ids_wem": [
+      "220826248"
+    ]
+  },
+  "SE_522": {
+    "evento": "SE_522",
+    "archivos_wav": [
+      "AVG_132075035.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_132075035.wav"
+    ],
+    "ids_wem": [
+      "132075035"
+    ]
+  },
+  "SE_523": {
+    "evento": "SE_523",
+    "archivos_wav": [
+      "AVG_457158258.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_457158258.wav"
+    ],
+    "ids_wem": [
+      "457158258"
+    ]
+  },
+  "SE_524": {
+    "evento": "SE_524",
+    "archivos_wav": [
+      "AVG_957863203.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_957863203.wav"
+    ],
+    "ids_wem": [
+      "957863203"
+    ]
+  },
+  "SE_525": {
+    "evento": "SE_525",
+    "archivos_wav": [
+      "AVG_261449690.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_261449690.wav"
+    ],
+    "ids_wem": [
+      "261449690"
+    ]
+  },
+  "SE_526": {
+    "evento": "SE_526",
+    "archivos_wav": [
+      "AVG_542380812.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_542380812.wav"
+    ],
+    "ids_wem": [
+      "542380812"
+    ]
+  },
+  "SE_527": {
+    "evento": "SE_527",
+    "archivos_wav": [
+      "AVG_61610947.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_61610947.wav"
+    ],
+    "ids_wem": [
+      "61610947"
+    ]
+  },
+  "SE_528": {
+    "evento": "SE_528",
+    "archivos_wav": [
+      "AVG_561163943.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_561163943.wav"
+    ],
+    "ids_wem": [
+      "561163943"
+    ]
+  },
+  "SE_529": {
+    "evento": "SE_529",
+    "archivos_wav": [
+      "AVG_1019060148.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1019060148.wav"
+    ],
+    "ids_wem": [
+      "1019060148"
+    ]
+  },
+  "SE_530": {
+    "evento": "SE_530",
+    "archivos_wav": [
+      "AVG_855202753.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_855202753.wav"
+    ],
+    "ids_wem": [
+      "855202753"
+    ]
+  },
+  "SE_531": {
+    "evento": "SE_531",
+    "archivos_wav": [
+      "AVG_549734810.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_549734810.wav"
+    ],
+    "ids_wem": [
+      "549734810"
+    ]
+  },
+  "SE_532": {
+    "evento": "SE_532",
+    "archivos_wav": [
+      "AVG_168439513.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_168439513.wav"
+    ],
+    "ids_wem": [
+      "168439513"
+    ]
+  },
+  "SE_533": {
+    "evento": "SE_533",
+    "archivos_wav": [
+      "AVG_201783331.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_201783331.wav"
+    ],
+    "ids_wem": [
+      "201783331"
+    ]
+  },
+  "SE_534": {
+    "evento": "SE_534",
+    "archivos_wav": [
+      "AVG_267565905.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_267565905.wav"
+    ],
+    "ids_wem": [
+      "267565905"
+    ]
+  },
+  "SE_535": {
+    "evento": "SE_535",
+    "archivos_wav": [
+      "AVG_88523716.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_88523716.wav"
+    ],
+    "ids_wem": [
+      "88523716"
+    ]
+  },
+  "SE_536": {
+    "evento": "SE_536",
+    "archivos_wav": [
+      "AVG_968104857.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_968104857.wav"
+    ],
+    "ids_wem": [
+      "968104857"
+    ]
+  },
+  "SE_537": {
+    "evento": "SE_537",
+    "archivos_wav": [
+      "AVG_521666239.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_521666239.wav"
+    ],
+    "ids_wem": [
+      "521666239"
+    ]
+  },
+  "SE_538": {
+    "evento": "SE_538",
+    "archivos_wav": [
+      "AVG_509867090.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_509867090.wav"
+    ],
+    "ids_wem": [
+      "509867090"
+    ]
+  },
+  "SE_539": {
+    "evento": "SE_539",
+    "archivos_wav": [
+      "AVG_421541386.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_421541386.wav"
+    ],
+    "ids_wem": [
+      "421541386"
+    ]
+  },
+  "SE_540": {
+    "evento": "SE_540",
+    "archivos_wav": [
+      "AVG_663699103.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_663699103.wav"
+    ],
+    "ids_wem": [
+      "663699103"
+    ]
+  },
+  "SE_541": {
+    "evento": "SE_541",
+    "archivos_wav": [
+      "AVG_197498613.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_197498613.wav"
+    ],
+    "ids_wem": [
+      "197498613"
+    ]
+  },
+  "SE_542": {
+    "evento": "SE_542",
+    "archivos_wav": [
+      "AVG_739754238.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_739754238.wav"
+    ],
+    "ids_wem": [
+      "739754238"
+    ]
+  },
+  "SE_543": {
+    "evento": "SE_543",
+    "archivos_wav": [
+      "AVG_1017091337.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1017091337.wav"
+    ],
+    "ids_wem": [
+      "1017091337"
+    ]
+  },
+  "SE_544": {
+    "evento": "SE_544",
+    "archivos_wav": [
+      "AVG_447908246.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_447908246.wav"
+    ],
+    "ids_wem": [
+      "447908246"
+    ]
+  },
+  "SE_545": {
+    "evento": "SE_545",
+    "archivos_wav": [
+      "AVG_805008163.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_805008163.wav"
+    ],
+    "ids_wem": [
+      "805008163"
+    ]
+  },
+  "SE_546": {
+    "evento": "SE_546",
+    "archivos_wav": [
+      "AVG_537072534.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_537072534.wav"
+    ],
+    "ids_wem": [
+      "537072534"
+    ]
+  },
+  "SE_548": {
+    "evento": "SE_548",
+    "archivos_wav": [
+      "AVG_523859950.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_523859950.wav"
+    ],
+    "ids_wem": [
+      "523859950"
+    ]
+  },
+  "SE_549": {
+    "evento": "SE_549",
+    "archivos_wav": [
+      "AVG_503782306.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_503782306.wav"
+    ],
+    "ids_wem": [
+      "503782306"
+    ]
+  },
+  "SE_550": {
+    "evento": "SE_550",
+    "archivos_wav": [
+      "AVG_994418470.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_994418470.wav"
+    ],
+    "ids_wem": [
+      "994418470"
+    ]
+  },
+  "SE_551": {
+    "evento": "SE_551",
+    "archivos_wav": [
+      "AVG_258585859.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_258585859.wav"
+    ],
+    "ids_wem": [
+      "258585859"
+    ]
+  },
+  "SE_552": {
+    "evento": "SE_552",
+    "archivos_wav": [
+      "AVG_129159148.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_129159148.wav"
+    ],
+    "ids_wem": [
+      "129159148"
+    ]
+  },
+  "SE_553": {
+    "evento": "SE_553",
+    "archivos_wav": [
+      "AVG_442008891.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_442008891.wav"
+    ],
+    "ids_wem": [
+      "442008891"
+    ]
+  },
+  "SE_554": {
+    "evento": "SE_554",
+    "archivos_wav": [
+      "AVG_868245571.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_868245571.wav"
+    ],
+    "ids_wem": [
+      "868245571"
+    ]
+  },
+  "SE_555": {
+    "evento": "SE_555",
+    "archivos_wav": [
+      "AVG_297572995.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_297572995.wav"
+    ],
+    "ids_wem": [
+      "297572995"
+    ]
+  },
+  "SE_556": {
+    "evento": "SE_556",
+    "archivos_wav": [
+      "AVG_44882594.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_44882594.wav"
+    ],
+    "ids_wem": [
+      "44882594"
+    ]
+  },
+  "SE_557": {
+    "evento": "SE_557",
+    "archivos_wav": [
+      "AVG_954688956.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_954688956.wav"
+    ],
+    "ids_wem": [
+      "954688956"
+    ]
+  },
+  "SE_558": {
+    "evento": "SE_558",
+    "archivos_wav": [
+      "AVG_254013285.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_254013285.wav"
+    ],
+    "ids_wem": [
+      "254013285"
+    ]
+  },
+  "SE_559": {
+    "evento": "SE_559",
+    "archivos_wav": [
+      "AVG_609264041.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_609264041.wav"
+    ],
+    "ids_wem": [
+      "609264041"
+    ]
+  },
+  "SE_560": {
+    "evento": "SE_560",
+    "archivos_wav": [
+      "AVG_22588451.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_22588451.wav"
+    ],
+    "ids_wem": [
+      "22588451"
+    ]
+  },
+  "SE_561": {
+    "evento": "SE_561",
+    "archivos_wav": [
+      "AVG_6847032.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_6847032.wav"
+    ],
+    "ids_wem": [
+      "6847032"
+    ]
+  },
+  "SE_562": {
+    "evento": "SE_562",
+    "archivos_wav": [
+      "AVG_200530053.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_200530053.wav"
+    ],
+    "ids_wem": [
+      "200530053"
+    ]
+  },
+  "SE_563": {
+    "evento": "SE_563",
+    "archivos_wav": [
+      "AVG_872773128.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_872773128.wav"
+    ],
+    "ids_wem": [
+      "872773128"
+    ]
+  },
+  "SE_564": {
+    "evento": "SE_564",
+    "archivos_wav": [
+      "AVG_664912581.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_664912581.wav"
+    ],
+    "ids_wem": [
+      "664912581"
+    ]
+  },
+  "SE_565": {
+    "evento": "SE_565",
+    "archivos_wav": [
+      "AVG_987158657.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_987158657.wav"
+    ],
+    "ids_wem": [
+      "987158657"
+    ]
+  },
+  "SE_566": {
+    "evento": "SE_566",
+    "archivos_wav": [
+      "AVG_1004727190.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1004727190.wav"
+    ],
+    "ids_wem": [
+      "1004727190"
+    ]
+  },
+  "SE_567": {
+    "evento": "SE_567",
+    "archivos_wav": [
+      "AVG_934709787.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_934709787.wav"
+    ],
+    "ids_wem": [
+      "934709787"
+    ]
+  },
+  "SE_568": {
+    "evento": "SE_568",
+    "archivos_wav": [
+      "AVG_682579594.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_682579594.wav"
+    ],
+    "ids_wem": [
+      "682579594"
+    ]
+  },
+  "SE_569": {
+    "evento": "SE_569",
+    "archivos_wav": [
+      "AVG_805510383.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_805510383.wav"
+    ],
+    "ids_wem": [
+      "805510383"
+    ]
+  },
+  "SE_570": {
+    "evento": "SE_570",
+    "archivos_wav": [
+      "AVG_147284157.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_147284157.wav"
+    ],
+    "ids_wem": [
+      "147284157"
+    ]
+  },
+  "SE_571": {
+    "evento": "SE_571",
+    "archivos_wav": [
+      "AVG_782985049.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_782985049.wav"
+    ],
+    "ids_wem": [
+      "782985049"
+    ]
+  },
+  "SE_572": {
+    "evento": "SE_572",
+    "archivos_wav": [
+      "AVG_43854349.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_43854349.wav"
+    ],
+    "ids_wem": [
+      "43854349"
+    ]
+  },
+  "SE_573": {
+    "evento": "SE_573",
+    "archivos_wav": [
+      "AVG_747621145.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_747621145.wav"
+    ],
+    "ids_wem": [
+      "747621145"
+    ]
+  },
+  "SE_574": {
+    "evento": "SE_574",
+    "archivos_wav": [
+      "AVG_225161020.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_225161020.wav"
+    ],
+    "ids_wem": [
+      "225161020"
+    ]
+  },
+  "SE_575": {
+    "evento": "SE_575",
+    "archivos_wav": [
+      "AVG_676780940.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_676780940.wav"
+    ],
+    "ids_wem": [
+      "676780940"
+    ]
+  },
+  "SE_576": {
+    "evento": "SE_576",
+    "archivos_wav": [
+      "AVG_428438126.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_428438126.wav"
+    ],
+    "ids_wem": [
+      "428438126"
+    ]
+  },
+  "SE_577": {
+    "evento": "SE_577",
+    "archivos_wav": [
+      "AVG_956804443.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_956804443.wav"
+    ],
+    "ids_wem": [
+      "956804443"
+    ]
+  },
+  "SE_578": {
+    "evento": "SE_578",
+    "archivos_wav": [
+      "AVG_1013334350.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_1013334350.wav"
+    ],
+    "ids_wem": [
+      "1013334350"
+    ]
+  },
+  "SE_579": {
+    "evento": "SE_579",
+    "archivos_wav": [
+      "AVG_669369724.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_669369724.wav"
+    ],
+    "ids_wem": [
+      "669369724"
+    ]
+  },
+  "SE_580": {
+    "evento": "SE_580",
+    "archivos_wav": [
+      "AVG_291202708.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_291202708.wav"
+    ],
+    "ids_wem": [
+      "291202708"
+    ]
+  },
+  "SE_581": {
+    "evento": "SE_581",
+    "archivos_wav": [
+      "AVG_672726019.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_672726019.wav"
+    ],
+    "ids_wem": [
+      "672726019"
+    ]
+  },
+  "SE_582": {
+    "evento": "SE_582",
+    "archivos_wav": [
+      "AVG_945281213.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_945281213.wav"
+    ],
+    "ids_wem": [
+      "945281213"
+    ]
+  },
+  "SE_583": {
+    "evento": "SE_583",
+    "archivos_wav": [
+      "AVG_395281414.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_395281414.wav"
+    ],
+    "ids_wem": [
+      "395281414"
+    ]
+  },
+  "SE_584": {
+    "evento": "SE_584",
+    "archivos_wav": [
+      "AVG_775222481.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_775222481.wav"
+    ],
+    "ids_wem": [
+      "775222481"
+    ]
+  },
+  "SE_585": {
+    "evento": "SE_585",
+    "archivos_wav": [
+      "AVG_555370451.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_555370451.wav"
+    ],
+    "ids_wem": [
+      "555370451"
+    ]
+  },
+  "SE_586": {
+    "evento": "SE_586",
+    "archivos_wav": [
+      "AVG_480929142.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_480929142.wav"
+    ],
+    "ids_wem": [
+      "480929142"
+    ]
+  },
+  "SE_587": {
+    "evento": "SE_587",
+    "archivos_wav": [
+      "AVG_269088857.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_269088857.wav"
+    ],
+    "ids_wem": [
+      "269088857"
+    ]
+  },
+  "SE_589": {
+    "evento": "SE_589",
+    "archivos_wav": [
+      "AVG_613521287.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_613521287.wav"
+    ],
+    "ids_wem": [
+      "613521287"
+    ]
+  },
+  "SE_590": {
+    "evento": "SE_590",
+    "archivos_wav": [
+      "AVG_835568381.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_835568381.wav"
+    ],
+    "ids_wem": [
+      "835568381"
+    ]
+  },
+  "SE_591": {
+    "evento": "SE_591",
+    "archivos_wav": [
+      "AVG_430023389.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_430023389.wav"
+    ],
+    "ids_wem": [
+      "430023389"
+    ]
+  },
+  "SE_592": {
+    "evento": "SE_592",
+    "archivos_wav": [
+      "AVG_480091443.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_480091443.wav"
+    ],
+    "ids_wem": [
+      "480091443"
+    ]
+  },
+  "SE_593": {
+    "evento": "SE_593",
+    "archivos_wav": [
+      "AVG_168064575.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_168064575.wav"
+    ],
+    "ids_wem": [
+      "168064575"
+    ]
+  },
+  "SE_594": {
+    "evento": "SE_594",
+    "archivos_wav": [
+      "AVG_247870469.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_247870469.wav"
+    ],
+    "ids_wem": [
+      "247870469"
+    ]
+  },
+  "SE_595": {
+    "evento": "SE_595",
+    "archivos_wav": [
+      "AVG_360122836.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_360122836.wav"
+    ],
+    "ids_wem": [
+      "360122836"
+    ]
+  },
+  "SE_596": {
+    "evento": "SE_596",
+    "archivos_wav": [
+      "AVG_635473622.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_635473622.wav"
+    ],
+    "ids_wem": [
+      "635473622"
+    ]
+  },
+  "SE_597": {
+    "evento": "SE_597",
+    "archivos_wav": [
+      "AVG_492428691.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_492428691.wav"
+    ],
+    "ids_wem": [
+      "492428691"
+    ]
+  },
+  "SE_598": {
+    "evento": "SE_598",
+    "archivos_wav": [
+      "AVG_401321725.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_401321725.wav"
+    ],
+    "ids_wem": [
+      "401321725"
+    ]
+  },
+  "SE_599": {
+    "evento": "SE_599",
+    "archivos_wav": [
+      "AVG_832968482.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/AVG/AVG_832968482.wav"
+    ],
+    "ids_wem": [
+      "832968482"
+    ]
+  }
+}

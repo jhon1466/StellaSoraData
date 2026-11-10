@@ -1,0 +1,164 @@
+{
+  "UI_AVG-0055-event": {
+    "evento": "UI_AVG-0055-event",
+    "archivos_wav": [
+      "UI_AVG_507392539.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_507392539.wav"
+    ],
+    "ids_wem": [
+      "507392539"
+    ]
+  },
+  "UI_AVG-0064-event": {
+    "evento": "UI_AVG-0064-event",
+    "archivos_wav": [
+      "UI_AVG_585777019.wav",
+      "UI_AVG_763858200.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_585777019.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_763858200.wav"
+    ],
+    "ids_wem": [
+      "585777019",
+      "763858200"
+    ]
+  },
+  "UI_AVG_APP_MENU": {
+    "evento": "UI_AVG_APP_MENU",
+    "archivos_wav": [
+      "UI_AVG_102427698.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_102427698.wav"
+    ],
+    "ids_wem": [
+      "102427698"
+    ]
+  },
+  "UI_AVG_BOARDIMPACT": {
+    "evento": "UI_AVG_BOARDIMPACT",
+    "archivos_wav": [
+      "UI_AVG_792859445.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_792859445.wav"
+    ],
+    "ids_wem": [
+      "792859445"
+    ]
+  },
+  "UI_AVG_CHARINFO": {
+    "evento": "UI_AVG_CHARINFO",
+    "archivos_wav": [
+      "UI_AVG_885478236.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_885478236.wav"
+    ],
+    "ids_wem": [
+      "885478236"
+    ]
+  },
+  "UI_AVG_CHOICE_CONFIRM": {
+    "evento": "UI_AVG_CHOICE_CONFIRM",
+    "archivos_wav": [
+      "UI_AVG_127433833.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_127433833.wav"
+    ],
+    "ids_wem": [
+      "127433833"
+    ]
+  },
+  "UI_AVG_CHOICE_SLIDE": {
+    "evento": "UI_AVG_CHOICE_SLIDE",
+    "archivos_wav": [
+      "UI_AVG_686415249.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_686415249.wav"
+    ],
+    "ids_wem": [
+      "686415249"
+    ]
+  },
+  "UI_AVG_GLITCHTV": {
+    "evento": "UI_AVG_GLITCHTV",
+    "archivos_wav": [
+      "UI_AVG_173559709.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_173559709.wav"
+    ],
+    "ids_wem": [
+      "173559709"
+    ]
+  },
+  "UI_AVG_PROLOGUE_CONFIRM_MEUN": {
+    "evento": "UI_AVG_PROLOGUE_CONFIRM_MEUN",
+    "archivos_wav": [
+      "UI_AVG_43971363.wav",
+      "UI_AVG_973393661.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_43971363.wav",
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_973393661.wav"
+    ],
+    "ids_wem": [
+      "43971363",
+      "973393661"
+    ]
+  },
+  "UI_AVG_PROLOGUE_FEMALE": {
+    "evento": "UI_AVG_PROLOGUE_FEMALE",
+    "archivos_wav": [
+      "UI_AVG_426467505.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_426467505.wav"
+    ],
+    "ids_wem": [
+      "426467505"
+    ]
+  },
+  "UI_AVG_PROLOGUE_MALE": {
+    "evento": "UI_AVG_PROLOGUE_MALE",
+    "archivos_wav": [
+      "UI_AVG_181003463.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_181003463.wav"
+    ],
+    "ids_wem": [
+      "181003463"
+    ]
+  },
+  "UI_AVG_TRANSITION": {
+    "evento": "UI_AVG_TRANSITION",
+    "archivos_wav": [
+      "UI_AVG_599289726.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_599289726.wav"
+    ],
+    "ids_wem": [
+      "599289726"
+    ]
+  },
+  "UI_CHOICE_CLICK": {
+    "evento": "UI_CHOICE_CLICK",
+    "archivos_wav": [
+      "UI_AVG_926549594.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/SoundBanks_Desempaquetados/Efectos_y_Ambiente/UI_AVG/UI_AVG_926549594.wav"
+    ],
+    "ids_wem": [
+      "926549594"
+    ]
+  }
+}

@@ -1,0 +1,2149 @@
+{
+  "M1": {
+    "nombre": "M1",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "984997465.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/984997465.wav"
+    ],
+    "ids_wem": [
+      "984997465"
+    ]
+  },
+  "M2": {
+    "nombre": "M2",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "952901421.wav",
+      "336226349.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/952901421.wav",
+      "02_Audios/Musica_y_Streams/336226349.wav"
+    ],
+    "ids_wem": [
+      "952901421",
+      "336226349"
+    ]
+  },
+  "M3": {
+    "nombre": "M3",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "306287008.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/306287008.wav"
+    ],
+    "ids_wem": [
+      "306287008"
+    ]
+  },
+  "M4": {
+    "nombre": "M4",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "909587804.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/909587804.wav"
+    ],
+    "ids_wem": [
+      "909587804"
+    ]
+  },
+  "M5": {
+    "nombre": "M5",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "707862381.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/707862381.wav"
+    ],
+    "ids_wem": [
+      "707862381"
+    ]
+  },
+  "M6": {
+    "nombre": "M6",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "820747893.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/820747893.wav"
+    ],
+    "ids_wem": [
+      "820747893"
+    ]
+  },
+  "M7": {
+    "nombre": "M7",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "740832114.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/740832114.wav"
+    ],
+    "ids_wem": [
+      "740832114"
+    ]
+  },
+  "M8": {
+    "nombre": "M8",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "808651427.wav",
+      "18886634.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/808651427.wav",
+      "02_Audios/Musica_y_Streams/18886634.wav"
+    ],
+    "ids_wem": [
+      "808651427",
+      "18886634"
+    ]
+  },
+  "M9": {
+    "nombre": "M9",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "29282093.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/29282093.wav"
+    ],
+    "ids_wem": [
+      "29282093"
+    ]
+  },
+  "M10": {
+    "nombre": "M10",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "183754302.wav",
+      "810805846.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/183754302.wav",
+      "02_Audios/Musica_y_Streams/810805846.wav"
+    ],
+    "ids_wem": [
+      "183754302",
+      "810805846"
+    ]
+  },
+  "M11": {
+    "nombre": "M11",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "12623346.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/12623346.wav"
+    ],
+    "ids_wem": [
+      "12623346"
+    ]
+  },
+  "M12": {
+    "nombre": "M12",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "447600168.wav",
+      "1058126821.wav",
+      "252481649.wav",
+      "387982012.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/447600168.wav",
+      "02_Audios/Musica_y_Streams/1058126821.wav",
+      "02_Audios/Musica_y_Streams/252481649.wav",
+      "02_Audios/Musica_y_Streams/387982012.wav"
+    ],
+    "ids_wem": [
+      "447600168",
+      "1058126821",
+      "252481649",
+      "387982012"
+    ]
+  },
+  "M13": {
+    "nombre": "M13",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "313224431.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/313224431.wav"
+    ],
+    "ids_wem": [
+      "313224431"
+    ]
+  },
+  "M14": {
+    "nombre": "M14",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "313147468.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/313147468.wav"
+    ],
+    "ids_wem": [
+      "313147468"
+    ]
+  },
+  "M15": {
+    "nombre": "M15",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "259288173.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/259288173.wav"
+    ],
+    "ids_wem": [
+      "259288173"
+    ]
+  },
+  "M16": {
+    "nombre": "M16",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "876265613.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/876265613.wav"
+    ],
+    "ids_wem": [
+      "876265613"
+    ]
+  },
+  "M17": {
+    "nombre": "M17",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "607003199.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/607003199.wav"
+    ],
+    "ids_wem": [
+      "607003199"
+    ]
+  },
+  "M18": {
+    "nombre": "M18",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "321991716.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/321991716.wav"
+    ],
+    "ids_wem": [
+      "321991716"
+    ]
+  },
+  "M19": {
+    "nombre": "M19",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "167351147.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/167351147.wav"
+    ],
+    "ids_wem": [
+      "167351147"
+    ]
+  },
+  "M20": {
+    "nombre": "M20",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "602132718.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/602132718.wav"
+    ],
+    "ids_wem": [
+      "602132718"
+    ]
+  },
+  "M21": {
+    "nombre": "M21",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "32021773.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/32021773.wav"
+    ],
+    "ids_wem": [
+      "32021773"
+    ]
+  },
+  "M22": {
+    "nombre": "M22",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1020606370.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1020606370.wav"
+    ],
+    "ids_wem": [
+      "1020606370"
+    ]
+  },
+  "M23": {
+    "nombre": "M23",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "209466980.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/209466980.wav"
+    ],
+    "ids_wem": [
+      "209466980"
+    ]
+  },
+  "M24": {
+    "nombre": "M24",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "364713809.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/364713809.wav"
+    ],
+    "ids_wem": [
+      "364713809"
+    ]
+  },
+  "M25": {
+    "nombre": "M25",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1069341019.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1069341019.wav"
+    ],
+    "ids_wem": [
+      "1069341019"
+    ]
+  },
+  "M26": {
+    "nombre": "M26",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "69632086.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/69632086.wav"
+    ],
+    "ids_wem": [
+      "69632086"
+    ]
+  },
+  "M27": {
+    "nombre": "M27",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "260709395.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/260709395.wav"
+    ],
+    "ids_wem": [
+      "260709395"
+    ]
+  },
+  "M28": {
+    "nombre": "M28",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "277891773.wav",
+      "10905162.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/277891773.wav",
+      "02_Audios/Musica_y_Streams/10905162.wav"
+    ],
+    "ids_wem": [
+      "277891773",
+      "10905162"
+    ]
+  },
+  "M29": {
+    "nombre": "M29",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1015710880.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1015710880.wav"
+    ],
+    "ids_wem": [
+      "1015710880"
+    ]
+  },
+  "M30": {
+    "nombre": "M30",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "867534167.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/867534167.wav"
+    ],
+    "ids_wem": [
+      "867534167"
+    ]
+  },
+  "M31": {
+    "nombre": "M31",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "564545806.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/564545806.wav"
+    ],
+    "ids_wem": [
+      "564545806"
+    ]
+  },
+  "M32": {
+    "nombre": "M32",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "585633773.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/585633773.wav"
+    ],
+    "ids_wem": [
+      "585633773"
+    ]
+  },
+  "M33": {
+    "nombre": "M33",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "928432742.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/928432742.wav"
+    ],
+    "ids_wem": [
+      "928432742"
+    ]
+  },
+  "M34": {
+    "nombre": "M34",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "769322159.wav",
+      "371911535.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/769322159.wav",
+      "02_Audios/Musica_y_Streams/371911535.wav"
+    ],
+    "ids_wem": [
+      "769322159",
+      "371911535"
+    ]
+  },
+  "M35": {
+    "nombre": "M35",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "157164542.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/157164542.wav"
+    ],
+    "ids_wem": [
+      "157164542"
+    ]
+  },
+  "M36": {
+    "nombre": "M36",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "672384929.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/672384929.wav"
+    ],
+    "ids_wem": [
+      "672384929"
+    ]
+  },
+  "M37": {
+    "nombre": "M37",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "759464582.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/759464582.wav"
+    ],
+    "ids_wem": [
+      "759464582"
+    ]
+  },
+  "M38": {
+    "nombre": "M38",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "144098369.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/144098369.wav"
+    ],
+    "ids_wem": [
+      "144098369"
+    ]
+  },
+  "M39": {
+    "nombre": "M39",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "846336683.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/846336683.wav"
+    ],
+    "ids_wem": [
+      "846336683"
+    ]
+  },
+  "M40": {
+    "nombre": "M40",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "872831877.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/872831877.wav"
+    ],
+    "ids_wem": [
+      "872831877"
+    ]
+  },
+  "M41": {
+    "nombre": "M41",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "447768361.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/447768361.wav"
+    ],
+    "ids_wem": [
+      "447768361"
+    ]
+  },
+  "M42": {
+    "nombre": "M42",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "682594119.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/682594119.wav"
+    ],
+    "ids_wem": [
+      "682594119"
+    ]
+  },
+  "M43": {
+    "nombre": "M43",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "669001796.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/669001796.wav"
+    ],
+    "ids_wem": [
+      "669001796"
+    ]
+  },
+  "M44": {
+    "nombre": "M44",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "892512040.wav",
+      "749291208.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/892512040.wav",
+      "02_Audios/Musica_y_Streams/749291208.wav"
+    ],
+    "ids_wem": [
+      "892512040",
+      "749291208"
+    ]
+  },
+  "M45": {
+    "nombre": "M45",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "390966032.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/390966032.wav"
+    ],
+    "ids_wem": [
+      "390966032"
+    ]
+  },
+  "M46": {
+    "nombre": "M46",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "851265471.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/851265471.wav"
+    ],
+    "ids_wem": [
+      "851265471"
+    ]
+  },
+  "M47": {
+    "nombre": "M47",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "609715593.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/609715593.wav"
+    ],
+    "ids_wem": [
+      "609715593"
+    ]
+  },
+  "M48": {
+    "nombre": "M48",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "570637912.wav",
+      "717041564.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/570637912.wav",
+      "02_Audios/Musica_y_Streams/717041564.wav"
+    ],
+    "ids_wem": [
+      "570637912",
+      "717041564"
+    ]
+  },
+  "M49": {
+    "nombre": "M49",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "167651498.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/167651498.wav"
+    ],
+    "ids_wem": [
+      "167651498"
+    ]
+  },
+  "M50": {
+    "nombre": "M50",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "339593406.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/339593406.wav"
+    ],
+    "ids_wem": [
+      "339593406"
+    ]
+  },
+  "M51": {
+    "nombre": "M51",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "106152728.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/106152728.wav"
+    ],
+    "ids_wem": [
+      "106152728"
+    ]
+  },
+  "M52": {
+    "nombre": "M52",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "176542929.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/176542929.wav"
+    ],
+    "ids_wem": [
+      "176542929"
+    ]
+  },
+  "M53": {
+    "nombre": "M53",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "551582249.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/551582249.wav"
+    ],
+    "ids_wem": [
+      "551582249"
+    ]
+  },
+  "M54": {
+    "nombre": "M54",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "162916245.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/162916245.wav"
+    ],
+    "ids_wem": [
+      "162916245"
+    ]
+  },
+  "M55": {
+    "nombre": "M55",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "472326739.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/472326739.wav"
+    ],
+    "ids_wem": [
+      "472326739"
+    ]
+  },
+  "M56": {
+    "nombre": "M56",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "87804627.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/87804627.wav"
+    ],
+    "ids_wem": [
+      "87804627"
+    ]
+  },
+  "M57": {
+    "nombre": "M57",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1051903838.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1051903838.wav"
+    ],
+    "ids_wem": [
+      "1051903838"
+    ]
+  },
+  "M58": {
+    "nombre": "M58",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "13088085.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/13088085.wav"
+    ],
+    "ids_wem": [
+      "13088085"
+    ]
+  },
+  "M59": {
+    "nombre": "M59",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "872968190.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/872968190.wav"
+    ],
+    "ids_wem": [
+      "872968190"
+    ]
+  },
+  "M60": {
+    "nombre": "M60",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "7364713.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/7364713.wav"
+    ],
+    "ids_wem": [
+      "7364713"
+    ]
+  },
+  "M61": {
+    "nombre": "M61",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "479792394.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/479792394.wav"
+    ],
+    "ids_wem": [
+      "479792394"
+    ]
+  },
+  "M62": {
+    "nombre": "M62",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "47191426.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/47191426.wav"
+    ],
+    "ids_wem": [
+      "47191426"
+    ]
+  },
+  "M63": {
+    "nombre": "M63",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "701777289.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/701777289.wav"
+    ],
+    "ids_wem": [
+      "701777289"
+    ]
+  },
+  "M64": {
+    "nombre": "M64",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1038285894.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1038285894.wav"
+    ],
+    "ids_wem": [
+      "1038285894"
+    ]
+  },
+  "M65": {
+    "nombre": "M65",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "551504295.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/551504295.wav"
+    ],
+    "ids_wem": [
+      "551504295"
+    ]
+  },
+  "M66": {
+    "nombre": "M66",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "838101500.wav",
+      "452356404.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/838101500.wav",
+      "02_Audios/Musica_y_Streams/452356404.wav"
+    ],
+    "ids_wem": [
+      "838101500",
+      "452356404"
+    ]
+  },
+  "M67": {
+    "nombre": "M67",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "798386316.wav",
+      "236108198.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/798386316.wav",
+      "02_Audios/Musica_y_Streams/236108198.wav"
+    ],
+    "ids_wem": [
+      "798386316",
+      "236108198"
+    ]
+  },
+  "M68": {
+    "nombre": "M68",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "535376086.wav",
+      "963338624.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/535376086.wav",
+      "02_Audios/Musica_y_Streams/963338624.wav"
+    ],
+    "ids_wem": [
+      "535376086",
+      "963338624"
+    ]
+  },
+  "M69": {
+    "nombre": "M69",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "202265627.wav",
+      "807279264.wav",
+      "120515243.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/202265627.wav",
+      "02_Audios/Musica_y_Streams/807279264.wav",
+      "02_Audios/Musica_y_Streams/120515243.wav"
+    ],
+    "ids_wem": [
+      "202265627",
+      "807279264",
+      "120515243"
+    ]
+  },
+  "M70": {
+    "nombre": "M70",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "551360608.wav",
+      "408006120.wav",
+      "117114991.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/551360608.wav",
+      "02_Audios/Musica_y_Streams/408006120.wav",
+      "02_Audios/Musica_y_Streams/117114991.wav"
+    ],
+    "ids_wem": [
+      "551360608",
+      "408006120",
+      "117114991"
+    ]
+  },
+  "M71": {
+    "nombre": "M71",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "626261275.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/626261275.wav"
+    ],
+    "ids_wem": [
+      "626261275"
+    ]
+  },
+  "M72": {
+    "nombre": "M72",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1000511616.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1000511616.wav"
+    ],
+    "ids_wem": [
+      "1000511616"
+    ]
+  },
+  "M73": {
+    "nombre": "M73",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "934646778.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/934646778.wav"
+    ],
+    "ids_wem": [
+      "934646778"
+    ]
+  },
+  "M74": {
+    "nombre": "M74",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "545291383.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/545291383.wav"
+    ],
+    "ids_wem": [
+      "545291383"
+    ]
+  },
+  "M75": {
+    "nombre": "M75",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "226092766.wav",
+      "862019737.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/226092766.wav",
+      "02_Audios/Musica_y_Streams/862019737.wav"
+    ],
+    "ids_wem": [
+      "226092766",
+      "862019737"
+    ]
+  },
+  "M76": {
+    "nombre": "M76",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "272760051.wav",
+      "111743069.wav",
+      "531785226.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/272760051.wav",
+      "02_Audios/Musica_y_Streams/111743069.wav",
+      "02_Audios/Musica_y_Streams/531785226.wav"
+    ],
+    "ids_wem": [
+      "272760051",
+      "111743069",
+      "531785226"
+    ]
+  },
+  "M77": {
+    "nombre": "M77",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "229122787.wav",
+      "163355094.wav",
+      "836929674.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/229122787.wav",
+      "02_Audios/Musica_y_Streams/163355094.wav",
+      "02_Audios/Musica_y_Streams/836929674.wav"
+    ],
+    "ids_wem": [
+      "229122787",
+      "163355094",
+      "836929674"
+    ]
+  },
+  "M78": {
+    "nombre": "M78",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "199912800.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/199912800.wav"
+    ],
+    "ids_wem": [
+      "199912800"
+    ]
+  },
+  "M79": {
+    "nombre": "M79",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "658517899.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/658517899.wav"
+    ],
+    "ids_wem": [
+      "658517899"
+    ]
+  },
+  "M80": {
+    "nombre": "M80",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "508889951.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/508889951.wav"
+    ],
+    "ids_wem": [
+      "508889951"
+    ]
+  },
+  "M81": {
+    "nombre": "M81",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "328345761.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/328345761.wav"
+    ],
+    "ids_wem": [
+      "328345761"
+    ]
+  },
+  "M82": {
+    "nombre": "M82",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "63037077.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/63037077.wav"
+    ],
+    "ids_wem": [
+      "63037077"
+    ]
+  },
+  "M83": {
+    "nombre": "M83",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "372611716.wav",
+      "828586.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/372611716.wav",
+      "02_Audios/Musica_y_Streams/828586.wav"
+    ],
+    "ids_wem": [
+      "372611716",
+      "828586"
+    ]
+  },
+  "M84": {
+    "nombre": "M84",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "546211403.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/546211403.wav"
+    ],
+    "ids_wem": [
+      "546211403"
+    ]
+  },
+  "M85": {
+    "nombre": "M85",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "306342134.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/306342134.wav"
+    ],
+    "ids_wem": [
+      "306342134"
+    ]
+  },
+  "M86": {
+    "nombre": "M86",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "633318511.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/633318511.wav"
+    ],
+    "ids_wem": [
+      "633318511"
+    ]
+  },
+  "M87": {
+    "nombre": "M87",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "486131337.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/486131337.wav"
+    ],
+    "ids_wem": [
+      "486131337"
+    ]
+  },
+  "M88": {
+    "nombre": "M88",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "449564923.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/449564923.wav"
+    ],
+    "ids_wem": [
+      "449564923"
+    ]
+  },
+  "M89": {
+    "nombre": "M89",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "973974222.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/973974222.wav"
+    ],
+    "ids_wem": [
+      "973974222"
+    ]
+  },
+  "M90": {
+    "nombre": "M90",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "633318511.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/633318511.wav"
+    ],
+    "ids_wem": [
+      "633318511"
+    ]
+  },
+  "M91": {
+    "nombre": "M91",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "454480330.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/454480330.wav"
+    ],
+    "ids_wem": [
+      "454480330"
+    ]
+  },
+  "M92": {
+    "nombre": "M92",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "377039009.wav",
+      "133573685.wav",
+      "600963182.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/377039009.wav",
+      "02_Audios/Musica_y_Streams/133573685.wav",
+      "02_Audios/Musica_y_Streams/600963182.wav"
+    ],
+    "ids_wem": [
+      "377039009",
+      "133573685",
+      "600963182"
+    ]
+  },
+  "M93": {
+    "nombre": "M93",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "203557963.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/203557963.wav"
+    ],
+    "ids_wem": [
+      "203557963"
+    ]
+  },
+  "M94": {
+    "nombre": "M94",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "698623818.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/698623818.wav"
+    ],
+    "ids_wem": [
+      "698623818"
+    ]
+  },
+  "M95": {
+    "nombre": "M95",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1022326606.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1022326606.wav"
+    ],
+    "ids_wem": [
+      "1022326606"
+    ]
+  },
+  "M96": {
+    "nombre": "M96",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1040472770.wav",
+      "902814659.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1040472770.wav",
+      "02_Audios/Musica_y_Streams/902814659.wav"
+    ],
+    "ids_wem": [
+      "1040472770",
+      "902814659"
+    ]
+  },
+  "M97": {
+    "nombre": "M97",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "508490500.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/508490500.wav"
+    ],
+    "ids_wem": [
+      "508490500"
+    ]
+  },
+  "M98": {
+    "nombre": "M98",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1057790850.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1057790850.wav"
+    ],
+    "ids_wem": [
+      "1057790850"
+    ]
+  },
+  "M99": {
+    "nombre": "M99",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "131155648.wav",
+      "918895527.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/131155648.wav",
+      "02_Audios/Musica_y_Streams/918895527.wav"
+    ],
+    "ids_wem": [
+      "131155648",
+      "918895527"
+    ]
+  },
+  "M100": {
+    "nombre": "M100",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "360758299.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/360758299.wav"
+    ],
+    "ids_wem": [
+      "360758299"
+    ]
+  },
+  "M101": {
+    "nombre": "M101",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "197464413.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/197464413.wav"
+    ],
+    "ids_wem": [
+      "197464413"
+    ]
+  },
+  "M102": {
+    "nombre": "M102",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "172857270.wav",
+      "956878986.wav",
+      "759533724.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/172857270.wav",
+      "02_Audios/Musica_y_Streams/956878986.wav",
+      "02_Audios/Musica_y_Streams/759533724.wav"
+    ],
+    "ids_wem": [
+      "172857270",
+      "956878986",
+      "759533724"
+    ]
+  },
+  "M103": {
+    "nombre": "M103",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "469029235.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/469029235.wav"
+    ],
+    "ids_wem": [
+      "469029235"
+    ]
+  },
+  "M104": {
+    "nombre": "M104",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "83645450.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/83645450.wav"
+    ],
+    "ids_wem": [
+      "83645450"
+    ]
+  },
+  "M105": {
+    "nombre": "M105",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "375875983.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/375875983.wav"
+    ],
+    "ids_wem": [
+      "375875983"
+    ]
+  },
+  "M106": {
+    "nombre": "M106",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "205228836.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/205228836.wav"
+    ],
+    "ids_wem": [
+      "205228836"
+    ]
+  },
+  "M107": {
+    "nombre": "M107",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "843966564.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/843966564.wav"
+    ],
+    "ids_wem": [
+      "843966564"
+    ]
+  },
+  "M108": {
+    "nombre": "M108",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "763392161.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/763392161.wav"
+    ],
+    "ids_wem": [
+      "763392161"
+    ]
+  },
+  "M109": {
+    "nombre": "M109",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "118769476.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/118769476.wav"
+    ],
+    "ids_wem": [
+      "118769476"
+    ]
+  },
+  "M110": {
+    "nombre": "M110",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "252957068.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/252957068.wav"
+    ],
+    "ids_wem": [
+      "252957068"
+    ]
+  },
+  "M111": {
+    "nombre": "M111",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "2929311.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/2929311.wav"
+    ],
+    "ids_wem": [
+      "2929311"
+    ]
+  },
+  "M112": {
+    "nombre": "M112",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "945824602.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/945824602.wav"
+    ],
+    "ids_wem": [
+      "945824602"
+    ]
+  },
+  "M113": {
+    "nombre": "M113",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "707722694.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/707722694.wav"
+    ],
+    "ids_wem": [
+      "707722694"
+    ]
+  },
+  "M114": {
+    "nombre": "M114",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "316801312.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/316801312.wav"
+    ],
+    "ids_wem": [
+      "316801312"
+    ]
+  },
+  "M115": {
+    "nombre": "M115",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "772286473.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/772286473.wav"
+    ],
+    "ids_wem": [
+      "772286473"
+    ]
+  },
+  "M116": {
+    "nombre": "M116",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "110910738.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/110910738.wav"
+    ],
+    "ids_wem": [
+      "110910738"
+    ]
+  },
+  "M117": {
+    "nombre": "M117",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1017311198.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1017311198.wav"
+    ],
+    "ids_wem": [
+      "1017311198"
+    ]
+  },
+  "M119": {
+    "nombre": "M119",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "120092837.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/120092837.wav"
+    ],
+    "ids_wem": [
+      "120092837"
+    ]
+  },
+  "M120": {
+    "nombre": "M120",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "26973825.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/26973825.wav"
+    ],
+    "ids_wem": [
+      "26973825"
+    ]
+  },
+  "M121": {
+    "nombre": "M121",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "889151268.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/889151268.wav"
+    ],
+    "ids_wem": [
+      "889151268"
+    ]
+  },
+  "M122": {
+    "nombre": "M122",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "673353991.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/673353991.wav"
+    ],
+    "ids_wem": [
+      "673353991"
+    ]
+  },
+  "M123": {
+    "nombre": "M123",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "927795520.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/927795520.wav"
+    ],
+    "ids_wem": [
+      "927795520"
+    ]
+  },
+  "M124": {
+    "nombre": "M124",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "592100659.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/592100659.wav"
+    ],
+    "ids_wem": [
+      "592100659"
+    ]
+  },
+  "M125": {
+    "nombre": "M125",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "46242351.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/46242351.wav"
+    ],
+    "ids_wem": [
+      "46242351"
+    ]
+  },
+  "M126": {
+    "nombre": "M126",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "704471874.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/704471874.wav"
+    ],
+    "ids_wem": [
+      "704471874"
+    ]
+  },
+  "M127": {
+    "nombre": "M127",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "51481092.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/51481092.wav"
+    ],
+    "ids_wem": [
+      "51481092"
+    ]
+  },
+  "M128": {
+    "nombre": "M128",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1062780399.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1062780399.wav"
+    ],
+    "ids_wem": [
+      "1062780399"
+    ]
+  },
+  "M129": {
+    "nombre": "M129",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "459044822.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/459044822.wav"
+    ],
+    "ids_wem": [
+      "459044822"
+    ]
+  },
+  "M130": {
+    "nombre": "M130",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "25454139.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/25454139.wav"
+    ],
+    "ids_wem": [
+      "25454139"
+    ]
+  },
+  "M131": {
+    "nombre": "M131",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "709115839.wav",
+      "931296104.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/709115839.wav",
+      "02_Audios/Musica_y_Streams/931296104.wav"
+    ],
+    "ids_wem": [
+      "709115839",
+      "931296104"
+    ]
+  },
+  "M132": {
+    "nombre": "M132",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "391828197.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/391828197.wav"
+    ],
+    "ids_wem": [
+      "391828197"
+    ]
+  },
+  "M134": {
+    "nombre": "M134",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "608889532.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/608889532.wav"
+    ],
+    "ids_wem": [
+      "608889532"
+    ]
+  },
+  "M135": {
+    "nombre": "M135",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "465474300.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/465474300.wav"
+    ],
+    "ids_wem": [
+      "465474300"
+    ]
+  },
+  "M136": {
+    "nombre": "M136",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "1009125091.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/1009125091.wav"
+    ],
+    "ids_wem": [
+      "1009125091"
+    ]
+  },
+  "M137": {
+    "nombre": "M137",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "119255607.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/119255607.wav"
+    ],
+    "ids_wem": [
+      "119255607"
+    ]
+  },
+  "M138": {
+    "nombre": "M138",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "565713450.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/565713450.wav"
+    ],
+    "ids_wem": [
+      "565713450"
+    ]
+  },
+  "M139": {
+    "nombre": "M139",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "428850212.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/428850212.wav"
+    ],
+    "ids_wem": [
+      "428850212"
+    ]
+  },
+  "M140": {
+    "nombre": "M140",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "668735953.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/668735953.wav"
+    ],
+    "ids_wem": [
+      "668735953"
+    ]
+  },
+  "M141": {
+    "nombre": "M141",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "894347168.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/894347168.wav"
+    ],
+    "ids_wem": [
+      "894347168"
+    ]
+  },
+  "M142": {
+    "nombre": "M142",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "731942001.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/731942001.wav"
+    ],
+    "ids_wem": [
+      "731942001"
+    ]
+  },
+  "M143": {
+    "nombre": "M143",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "330709447.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/330709447.wav"
+    ],
+    "ids_wem": [
+      "330709447"
+    ]
+  },
+  "M144": {
+    "nombre": "M144",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "258224048.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/258224048.wav"
+    ],
+    "ids_wem": [
+      "258224048"
+    ]
+  },
+  "M145": {
+    "nombre": "M145",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "298959393.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/298959393.wav"
+    ],
+    "ids_wem": [
+      "298959393"
+    ]
+  },
+  "M146": {
+    "nombre": "M146",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "721533845.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/721533845.wav"
+    ],
+    "ids_wem": [
+      "721533845"
+    ]
+  },
+  "M147": {
+    "nombre": "M147",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "215339112.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/215339112.wav"
+    ],
+    "ids_wem": [
+      "215339112"
+    ]
+  },
+  "M148": {
+    "nombre": "M148",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "982913637.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/982913637.wav"
+    ],
+    "ids_wem": [
+      "982913637"
+    ]
+  },
+  "M149": {
+    "nombre": "M149",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "365284737.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/365284737.wav"
+    ],
+    "ids_wem": [
+      "365284737"
+    ]
+  },
+  "M150": {
+    "nombre": "M150",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "766345833.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/766345833.wav"
+    ],
+    "ids_wem": [
+      "766345833"
+    ]
+  },
+  "M154": {
+    "nombre": "M154",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "116700513.wav",
+      "340434629.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/116700513.wav",
+      "02_Audios/Musica_y_Streams/340434629.wav"
+    ],
+    "ids_wem": [
+      "116700513",
+      "340434629"
+    ]
+  },
+  "M155": {
+    "nombre": "M155",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "199673130.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/199673130.wav"
+    ],
+    "ids_wem": [
+      "199673130"
+    ]
+  },
+  "M157": {
+    "nombre": "M157",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "745765777.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/745765777.wav"
+    ],
+    "ids_wem": [
+      "745765777"
+    ]
+  },
+  "M158": {
+    "nombre": "M158",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "648763478.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/648763478.wav"
+    ],
+    "ids_wem": [
+      "648763478"
+    ]
+  },
+  "M159": {
+    "nombre": "M159",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "786653822.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/786653822.wav"
+    ],
+    "ids_wem": [
+      "786653822"
+    ]
+  },
+  "M160": {
+    "nombre": "M160",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "387949952.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/387949952.wav"
+    ],
+    "ids_wem": [
+      "387949952"
+    ]
+  },
+  "M161": {
+    "nombre": "M161",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "856817789.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/856817789.wav"
+    ],
+    "ids_wem": [
+      "856817789"
+    ]
+  },
+  "M162": {
+    "nombre": "M162",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "92278043.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/92278043.wav"
+    ],
+    "ids_wem": [
+      "92278043"
+    ]
+  },
+  "M163": {
+    "nombre": "M163",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "670838710.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/670838710.wav"
+    ],
+    "ids_wem": [
+      "670838710"
+    ]
+  },
+  "M164": {
+    "nombre": "M164",
+    "pista": "AVG_TRACK1",
+    "archivos_wav": [
+      "928708797.wav"
+    ],
+    "ruta_repo": [
+      "02_Audios/Musica_y_Streams/928708797.wav"
+    ],
+    "ids_wem": [
+      "928708797"
+    ]
+  }
+}

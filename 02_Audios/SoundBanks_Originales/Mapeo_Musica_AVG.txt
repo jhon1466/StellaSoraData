@@ -1,0 +1,163 @@
+# MAPEO DE MUSICA AVG (Music_AVG.bnk) -> ARCHIVOS WAV EN REPOSITORIO
+# Total pistas mapeadas: 158
+
+Nombre / Estado      | Ruta del Archivo WAV en el Repositorio                  | ID WEM         
+-----------------------------------------------------------------------------------------------
+M1                   | 02_Audios/Musica_y_Streams/984997465.wav                | 984997465      
+M2                   | 02_Audios/Musica_y_Streams/952901421.wav, 02_Audios/Musica_y_Streams/336226349.wav | 952901421, 336226349
+M3                   | 02_Audios/Musica_y_Streams/306287008.wav                | 306287008      
+M4                   | 02_Audios/Musica_y_Streams/909587804.wav                | 909587804      
+M5                   | 02_Audios/Musica_y_Streams/707862381.wav                | 707862381      
+M6                   | 02_Audios/Musica_y_Streams/820747893.wav                | 820747893      
+M7                   | 02_Audios/Musica_y_Streams/740832114.wav                | 740832114      
+M8                   | 02_Audios/Musica_y_Streams/808651427.wav, 02_Audios/Musica_y_Streams/18886634.wav | 808651427, 18886634
+M9                   | 02_Audios/Musica_y_Streams/29282093.wav                 | 29282093       
+M10                  | 02_Audios/Musica_y_Streams/183754302.wav, 02_Audios/Musica_y_Streams/810805846.wav | 183754302, 810805846
+M11                  | 02_Audios/Musica_y_Streams/12623346.wav                 | 12623346       
+M12                  | 02_Audios/Musica_y_Streams/447600168.wav, 02_Audios/Musica_y_Streams/1058126821.wav, 02_Audios/Musica_y_Streams/252481649.wav, 02_Audios/Musica_y_Streams/387982012.wav | 447600168, 1058126821, 252481649, 387982012
+M13                  | 02_Audios/Musica_y_Streams/313224431.wav                | 313224431      
+M14                  | 02_Audios/Musica_y_Streams/313147468.wav                | 313147468      
+M15                  | 02_Audios/Musica_y_Streams/259288173.wav                | 259288173      
+M16                  | 02_Audios/Musica_y_Streams/876265613.wav                | 876265613      
+M17                  | 02_Audios/Musica_y_Streams/607003199.wav                | 607003199      
+M18                  | 02_Audios/Musica_y_Streams/321991716.wav                | 321991716      
+M19                  | 02_Audios/Musica_y_Streams/167351147.wav                | 167351147      
+M20                  | 02_Audios/Musica_y_Streams/602132718.wav                | 602132718      
+M21                  | 02_Audios/Musica_y_Streams/32021773.wav                 | 32021773       
+M22                  | 02_Audios/Musica_y_Streams/1020606370.wav               | 1020606370     
+M23                  | 02_Audios/Musica_y_Streams/209466980.wav                | 209466980      
+M24                  | 02_Audios/Musica_y_Streams/364713809.wav                | 364713809      
+M25                  | 02_Audios/Musica_y_Streams/1069341019.wav               | 1069341019     
+M26                  | 02_Audios/Musica_y_Streams/69632086.wav                 | 69632086       
+M27                  | 02_Audios/Musica_y_Streams/260709395.wav                | 260709395      
+M28                  | 02_Audios/Musica_y_Streams/277891773.wav, 02_Audios/Musica_y_Streams/10905162.wav | 277891773, 10905162
+M29                  | 02_Audios/Musica_y_Streams/1015710880.wav               | 1015710880     
+M30                  | 02_Audios/Musica_y_Streams/867534167.wav                | 867534167      
+M31                  | 02_Audios/Musica_y_Streams/564545806.wav                | 564545806      
+M32                  | 02_Audios/Musica_y_Streams/585633773.wav                | 585633773      
+M33                  | 02_Audios/Musica_y_Streams/928432742.wav                | 928432742      
+M34                  | 02_Audios/Musica_y_Streams/769322159.wav, 02_Audios/Musica_y_Streams/371911535.wav | 769322159, 371911535
+M35                  | 02_Audios/Musica_y_Streams/157164542.wav                | 157164542      
+M36                  | 02_Audios/Musica_y_Streams/672384929.wav                | 672384929      
+M37                  | 02_Audios/Musica_y_Streams/759464582.wav                | 759464582      
+M38                  | 02_Audios/Musica_y_Streams/144098369.wav                | 144098369      
+M39                  | 02_Audios/Musica_y_Streams/846336683.wav                | 846336683      
+M40                  | 02_Audios/Musica_y_Streams/872831877.wav                | 872831877      
+M41                  | 02_Audios/Musica_y_Streams/447768361.wav                | 447768361      
+M42                  | 02_Audios/Musica_y_Streams/682594119.wav                | 682594119      
+M43                  | 02_Audios/Musica_y_Streams/669001796.wav                | 669001796      
+M44                  | 02_Audios/Musica_y_Streams/892512040.wav, 02_Audios/Musica_y_Streams/749291208.wav | 892512040, 749291208
+M45                  | 02_Audios/Musica_y_Streams/390966032.wav                | 390966032      
+M46                  | 02_Audios/Musica_y_Streams/851265471.wav                | 851265471      
+M47                  | 02_Audios/Musica_y_Streams/609715593.wav                | 609715593      
+M48                  | 02_Audios/Musica_y_Streams/570637912.wav, 02_Audios/Musica_y_Streams/717041564.wav | 570637912, 717041564
+M49                  | 02_Audios/Musica_y_Streams/167651498.wav                | 167651498      
+M50                  | 02_Audios/Musica_y_Streams/339593406.wav                | 339593406      
+M51                  | 02_Audios/Musica_y_Streams/106152728.wav                | 106152728      
+M52                  | 02_Audios/Musica_y_Streams/176542929.wav                | 176542929      
+M53                  | 02_Audios/Musica_y_Streams/551582249.wav                | 551582249      
+M54                  | 02_Audios/Musica_y_Streams/162916245.wav                | 162916245      
+M55                  | 02_Audios/Musica_y_Streams/472326739.wav                | 472326739      
+M56                  | 02_Audios/Musica_y_Streams/87804627.wav                 | 87804627       
+M57                  | 02_Audios/Musica_y_Streams/1051903838.wav               | 1051903838     
+M58                  | 02_Audios/Musica_y_Streams/13088085.wav                 | 13088085       
+M59                  | 02_Audios/Musica_y_Streams/872968190.wav                | 872968190      
+M60                  | 02_Audios/Musica_y_Streams/7364713.wav                  | 7364713        
+M61                  | 02_Audios/Musica_y_Streams/479792394.wav                | 479792394      
+M62                  | 02_Audios/Musica_y_Streams/47191426.wav                 | 47191426       
+M63                  | 02_Audios/Musica_y_Streams/701777289.wav                | 701777289      
+M64                  | 02_Audios/Musica_y_Streams/1038285894.wav               | 1038285894     
+M65                  | 02_Audios/Musica_y_Streams/551504295.wav                | 551504295      
+M66                  | 02_Audios/Musica_y_Streams/838101500.wav, 02_Audios/Musica_y_Streams/452356404.wav | 838101500, 452356404
+M67                  | 02_Audios/Musica_y_Streams/798386316.wav, 02_Audios/Musica_y_Streams/236108198.wav | 798386316, 236108198
+M68                  | 02_Audios/Musica_y_Streams/535376086.wav, 02_Audios/Musica_y_Streams/963338624.wav | 535376086, 963338624
+M69                  | 02_Audios/Musica_y_Streams/202265627.wav, 02_Audios/Musica_y_Streams/807279264.wav, 02_Audios/Musica_y_Streams/120515243.wav | 202265627, 807279264, 120515243
+M70                  | 02_Audios/Musica_y_Streams/551360608.wav, 02_Audios/Musica_y_Streams/408006120.wav, 02_Audios/Musica_y_Streams/117114991.wav | 551360608, 408006120, 117114991
+M71                  | 02_Audios/Musica_y_Streams/626261275.wav                | 626261275      
+M72                  | 02_Audios/Musica_y_Streams/1000511616.wav               | 1000511616     
+M73                  | 02_Audios/Musica_y_Streams/934646778.wav                | 934646778      
+M74                  | 02_Audios/Musica_y_Streams/545291383.wav                | 545291383      
+M75                  | 02_Audios/Musica_y_Streams/226092766.wav, 02_Audios/Musica_y_Streams/862019737.wav | 226092766, 862019737
+M76                  | 02_Audios/Musica_y_Streams/272760051.wav, 02_Audios/Musica_y_Streams/111743069.wav, 02_Audios/Musica_y_Streams/531785226.wav | 272760051, 111743069, 531785226
+M77                  | 02_Audios/Musica_y_Streams/229122787.wav, 02_Audios/Musica_y_Streams/163355094.wav, 02_Audios/Musica_y_Streams/836929674.wav | 229122787, 163355094, 836929674
+M78                  | 02_Audios/Musica_y_Streams/199912800.wav                | 199912800      
+M79                  | 02_Audios/Musica_y_Streams/658517899.wav                | 658517899      
+M80                  | 02_Audios/Musica_y_Streams/508889951.wav                | 508889951      
+M81                  | 02_Audios/Musica_y_Streams/328345761.wav                | 328345761      
+M82                  | 02_Audios/Musica_y_Streams/63037077.wav                 | 63037077       
+M83                  | 02_Audios/Musica_y_Streams/372611716.wav, 02_Audios/Musica_y_Streams/828586.wav | 372611716, 828586
+M84                  | 02_Audios/Musica_y_Streams/546211403.wav                | 546211403      
+M85                  | 02_Audios/Musica_y_Streams/306342134.wav                | 306342134      
+M86                  | 02_Audios/Musica_y_Streams/633318511.wav                | 633318511      
+M87                  | 02_Audios/Musica_y_Streams/486131337.wav                | 486131337      
+M88                  | 02_Audios/Musica_y_Streams/449564923.wav                | 449564923      
+M89                  | 02_Audios/Musica_y_Streams/973974222.wav                | 973974222      
+M90                  | 02_Audios/Musica_y_Streams/633318511.wav                | 633318511      
+M91                  | 02_Audios/Musica_y_Streams/454480330.wav                | 454480330      
+M92                  | 02_Audios/Musica_y_Streams/377039009.wav, 02_Audios/Musica_y_Streams/133573685.wav, 02_Audios/Musica_y_Streams/600963182.wav | 377039009, 133573685, 600963182
+M93                  | 02_Audios/Musica_y_Streams/203557963.wav                | 203557963      
+M94                  | 02_Audios/Musica_y_Streams/698623818.wav                | 698623818      
+M95                  | 02_Audios/Musica_y_Streams/1022326606.wav               | 1022326606     
+M96                  | 02_Audios/Musica_y_Streams/1040472770.wav, 02_Audios/Musica_y_Streams/902814659.wav | 1040472770, 902814659
+M97                  | 02_Audios/Musica_y_Streams/508490500.wav                | 508490500      
+M98                  | 02_Audios/Musica_y_Streams/1057790850.wav               | 1057790850     
+M99                  | 02_Audios/Musica_y_Streams/131155648.wav, 02_Audios/Musica_y_Streams/918895527.wav | 131155648, 918895527
+M100                 | 02_Audios/Musica_y_Streams/360758299.wav                | 360758299      
+M101                 | 02_Audios/Musica_y_Streams/197464413.wav                | 197464413      
+M102                 | 02_Audios/Musica_y_Streams/172857270.wav, 02_Audios/Musica_y_Streams/956878986.wav, 02_Audios/Musica_y_Streams/759533724.wav | 172857270, 956878986, 759533724
+M103                 | 02_Audios/Musica_y_Streams/469029235.wav                | 469029235      
+M104                 | 02_Audios/Musica_y_Streams/83645450.wav                 | 83645450       
+M105                 | 02_Audios/Musica_y_Streams/375875983.wav                | 375875983      
+M106                 | 02_Audios/Musica_y_Streams/205228836.wav                | 205228836      
+M107                 | 02_Audios/Musica_y_Streams/843966564.wav                | 843966564      
+M108                 | 02_Audios/Musica_y_Streams/763392161.wav                | 763392161      
+M109                 | 02_Audios/Musica_y_Streams/118769476.wav                | 118769476      
+M110                 | 02_Audios/Musica_y_Streams/252957068.wav                | 252957068      
+M111                 | 02_Audios/Musica_y_Streams/2929311.wav                  | 2929311        
+M112                 | 02_Audios/Musica_y_Streams/945824602.wav                | 945824602      
+M113                 | 02_Audios/Musica_y_Streams/707722694.wav                | 707722694      
+M114                 | 02_Audios/Musica_y_Streams/316801312.wav                | 316801312      
+M115                 | 02_Audios/Musica_y_Streams/772286473.wav                | 772286473      
+M116                 | 02_Audios/Musica_y_Streams/110910738.wav                | 110910738      
+M117                 | 02_Audios/Musica_y_Streams/1017311198.wav               | 1017311198     
+M119                 | 02_Audios/Musica_y_Streams/120092837.wav                | 120092837      
+M120                 | 02_Audios/Musica_y_Streams/26973825.wav                 | 26973825       
+M121                 | 02_Audios/Musica_y_Streams/889151268.wav                | 889151268      
+M122                 | 02_Audios/Musica_y_Streams/673353991.wav                | 673353991      
+M123                 | 02_Audios/Musica_y_Streams/927795520.wav                | 927795520      
+M124                 | 02_Audios/Musica_y_Streams/592100659.wav                | 592100659      
+M125                 | 02_Audios/Musica_y_Streams/46242351.wav                 | 46242351       
+M126                 | 02_Audios/Musica_y_Streams/704471874.wav                | 704471874      
+M127                 | 02_Audios/Musica_y_Streams/51481092.wav                 | 51481092       
+M128                 | 02_Audios/Musica_y_Streams/1062780399.wav               | 1062780399     
+M129                 | 02_Audios/Musica_y_Streams/459044822.wav                | 459044822      
+M130                 | 02_Audios/Musica_y_Streams/25454139.wav                 | 25454139       
+M131                 | 02_Audios/Musica_y_Streams/709115839.wav, 02_Audios/Musica_y_Streams/931296104.wav | 709115839, 931296104
+M132                 | 02_Audios/Musica_y_Streams/391828197.wav                | 391828197      
+M134                 | 02_Audios/Musica_y_Streams/608889532.wav                | 608889532      
+M135                 | 02_Audios/Musica_y_Streams/465474300.wav                | 465474300      
+M136                 | 02_Audios/Musica_y_Streams/1009125091.wav               | 1009125091     
+M137                 | 02_Audios/Musica_y_Streams/119255607.wav                | 119255607      
+M138                 | 02_Audios/Musica_y_Streams/565713450.wav                | 565713450      
+M139                 | 02_Audios/Musica_y_Streams/428850212.wav                | 428850212      
+M140                 | 02_Audios/Musica_y_Streams/668735953.wav                | 668735953      
+M141                 | 02_Audios/Musica_y_Streams/894347168.wav                | 894347168      
+M142                 | 02_Audios/Musica_y_Streams/731942001.wav                | 731942001      
+M143                 | 02_Audios/Musica_y_Streams/330709447.wav                | 330709447      
+M144                 | 02_Audios/Musica_y_Streams/258224048.wav                | 258224048      
+M145                 | 02_Audios/Musica_y_Streams/298959393.wav                | 298959393      
+M146                 | 02_Audios/Musica_y_Streams/721533845.wav                | 721533845      
+M147                 | 02_Audios/Musica_y_Streams/215339112.wav                | 215339112      
+M148                 | 02_Audios/Musica_y_Streams/982913637.wav                | 982913637      
+M149                 | 02_Audios/Musica_y_Streams/365284737.wav                | 365284737      
+M150                 | 02_Audios/Musica_y_Streams/766345833.wav                | 766345833      
+M154                 | 02_Audios/Musica_y_Streams/116700513.wav, 02_Audios/Musica_y_Streams/340434629.wav | 116700513, 340434629
+M155                 | 02_Audios/Musica_y_Streams/199673130.wav                | 199673130      
+M157                 | 02_Audios/Musica_y_Streams/745765777.wav                | 745765777      
+M158                 | 02_Audios/Musica_y_Streams/648763478.wav                | 648763478      
+M159                 | 02_Audios/Musica_y_Streams/786653822.wav                | 786653822      
+M160                 | 02_Audios/Musica_y_Streams/387949952.wav                | 387949952      
+M161                 | 02_Audios/Musica_y_Streams/856817789.wav                | 856817789      
+M162                 | 02_Audios/Musica_y_Streams/92278043.wav                 | 92278043       
+M163                 | 02_Audios/Musica_y_Streams/670838710.wav                | 670838710      
+M164                 | 02_Audios/Musica_y_Streams/928708797.wav                | 928708797      
