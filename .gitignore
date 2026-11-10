@@ -1,0 +1,7 @@
+tools/
+convertir_audios_a_wav.bat
+*.py
+*.pyc
+__pycache__/
+.vscode/
+.idea/
