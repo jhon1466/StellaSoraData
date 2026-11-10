@@ -1,0 +1,16 @@
+g StoryActivity_9_Boss_HaSaNa_nav
+v -12.5 -7.65404223E-16 12.5
+v -12.5 7.65404223E-16 -12.5
+v 12.5 7.65404223E-16 -12.5
+v 12.5 -7.65404223E-16 12.5
+vt 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+vn -0 1 0
+vn -0 1 0
+vn -0 1 0
+vn -0 1 0
+g StoryActivity_9_Boss_HaSaNa_nav_0
+f 3/3/3 2/2/2 1/1/1
+f 4/4/4 3/3/3 1/1/1
