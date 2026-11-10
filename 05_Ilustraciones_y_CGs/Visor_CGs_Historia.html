@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galería de CGs de Historia - Stella Sora</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #0d0f14;
+            color: #e2e8f0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        header {
+            background: #161922;
+            padding: 18px 32px;
+            border-bottom: 1px solid #282e3f;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        h1 {
+            font-size: 22px;
+            color: #63b3ed;
+            letter-spacing: 0.5px;
+        }
+        .badge {
+            background: #2b6cb0;
+            color: #fff;
+            padding: 4px 12px;
+            border-radius: 14px;
+            font-size: 13px;
+        }
+        .container {
+            flex: 1;
+            padding: 32px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 24px;
+            max-width: 1800px;
+            margin: 0 auto;
+            width: 100%;
+        }
+        .cg-card {
+            background: #161922;
+            border: 1px solid #282e3f;
+            border-radius: 10px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+        }
+        .cg-card:hover {
+            transform: translateY(-5px);
+            border-color: #63b3ed;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+        }
+        .cg-thumb {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            display: block;
+            background: #000;
+        }
+        .cg-info {
+            padding: 12px 16px;
+            font-size: 12px;
+            color: #a0aec0;
+            border-top: 1px solid #282e3f;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        /* Modal Lightbox */
+        #modal {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; width: 100vw; height: 100vh;
+            background: rgba(0, 0, 0, 0.95);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        #modal.active { display: flex; }
+        #modal img {
+            max-width: 95vw;
+            max-height: 88vh;
+            object-fit: contain;
+            border-radius: 6px;
+            box-shadow: 0 0 30px rgba(0,0,0,0.8);
+        }
+        #modal-caption {
+            margin-top: 14px;
+            color: #e2e8f0;
+            font-size: 14px;
+        }
+        .modal-btn {
+            position: absolute;
+            background: rgba(255, 255, 255, 0.15);
+            color: #fff;
+            border: none;
+            padding: 14px 20px;
+            font-size: 24px;
+            cursor: pointer;
+            border-radius: 50%;
+            transition: background 0.2s;
+        }
+        .modal-btn:hover { background: rgba(255, 255, 255, 0.35); }
+        #close-btn { top: 20px; right: 30px; font-size: 28px; width: 50px; height: 50px; padding: 0; line-height: 50px; text-align: center; }
+        #prev-btn { left: 20px; }
+        #next-btn { right: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Stella Sora - Ilustraciones y CGs de Historia</h1>
+        <span class="badge">97 Ilustraciones en 2.5K</span>
+    </header>
+
+    <div class="container" id="gallery"></div>
+
+    <div id="modal">
+        <button class="modal-btn" id="close-btn">&times;</button>
+        <button class="modal-btn" id="prev-btn">&#10094;</button>
+        <img id="modal-img" src="" alt="CG Preview">
+        <div id="modal-caption"></div>
+        <button class="modal-btn" id="next-btn">&#10095;</button>
+    </div>
+
+    <script>
+        const cgs = [{"filename": "cg_1002_1002.png", "path": "CGs_Historia/cg_1002_1002.png"}, {"filename": "cg_1003_1003_FP.png", "path": "CGs_Historia/cg_1003_1003_FP.png"}, {"filename": "cg_1008_1008.png", "path": "CGs_Historia/cg_1008_1008.png"}, {"filename": "cg_1009_1009_MP.png", "path": "CGs_Historia/cg_1009_1009_MP.png"}, {"filename": "cg_1016_1016.png", "path": "CGs_Historia/cg_1016_1016.png"}, {"filename": "cg_1018_1018.png", "path": "CGs_Historia/cg_1018_1018.png"}, {"filename": "cg_1020_1020.png", "path": "CGs_Historia/cg_1020_1020.png"}, {"filename": "cg_1023_1023.png", "path": "CGs_Historia/cg_1023_1023.png"}, {"filename": "cg_1024_1024.png", "path": "CGs_Historia/cg_1024_1024.png"}, {"filename": "cg_1036_1036.png", "path": "CGs_Historia/cg_1036_1036.png"}, {"filename": "cg_1039_1039.png", "path": "CGs_Historia/cg_1039_1039.png"}, {"filename": "cg_1040_1040.png", "path": "CGs_Historia/cg_1040_1040.png"}, {"filename": "cg_1041_1041.png", "path": "CGs_Historia/cg_1041_1041.png"}, {"filename": "cg_1042_1042.png", "path": "CGs_Historia/cg_1042_1042.png"}, {"filename": "cg_1044_1044.png", "path": "CGs_Historia/cg_1044_1044.png"}, {"filename": "cg_1045_1045.png", "path": "CGs_Historia/cg_1045_1045.png"}, {"filename": "cg_1051_1051.png", "path": "CGs_Historia/cg_1051_1051.png"}, {"filename": "cg_1052_1052.png", "path": "CGs_Historia/cg_1052_1052.png"}, {"filename": "cg_1055_1055_FP.png", "path": "CGs_Historia/cg_1055_1055_FP.png"}, {"filename": "cg_1056_1056.png", "path": "CGs_Historia/cg_1056_1056.png"}, {"filename": "cg_1057_1057_MP.png", "path": "CGs_Historia/cg_1057_1057_MP.png"}, {"filename": "cg_1060_1060.png", "path": "CGs_Historia/cg_1060_1060.png"}, {"filename": "cg_1061_1061.png", "path": "CGs_Historia/cg_1061_1061.png"}, {"filename": "cg_1067_1067.png", "path": "CGs_Historia/cg_1067_1067.png"}, {"filename": "cg_1068_1068.png", "path": "CGs_Historia/cg_1068_1068.png"}, {"filename": "cg_1069_1069.png", "path": "CGs_Historia/cg_1069_1069.png"}, {"filename": "cg_1071_1071.png", "path": "CGs_Historia/cg_1071_1071.png"}, {"filename": "cg_1073_1073.png", "path": "CGs_Historia/cg_1073_1073.png"}, {"filename": "cg_1081_1081.png", "path": "CGs_Historia/cg_1081_1081.png"}, {"filename": "cg_1083_1083_MP.png", "path": "CGs_Historia/cg_1083_1083_MP.png"}, {"filename": "cg_1086_1086.png", "path": "CGs_Historia/cg_1086_1086.png"}, {"filename": "cg_1087_1087.png", "path": "CGs_Historia/cg_1087_1087.png"}, {"filename": "cg_1093_1093.png", "path": "CGs_Historia/cg_1093_1093.png"}, {"filename": "cg_1094_1094.png", "path": "CGs_Historia/cg_1094_1094.png"}, {"filename": "cg_1095_1095.png", "path": "CGs_Historia/cg_1095_1095.png"}, {"filename": "cg_1098_1098.png", "path": "CGs_Historia/cg_1098_1098.png"}, {"filename": "cg_1102_1102.png", "path": "CGs_Historia/cg_1102_1102.png"}, {"filename": "cg_1106_1106.png", "path": "CGs_Historia/cg_1106_1106.png"}, {"filename": "cg_1109_1109.png", "path": "CGs_Historia/cg_1109_1109.png"}, {"filename": "cg_1110_1110.png", "path": "CGs_Historia/cg_1110_1110.png"}, {"filename": "cg_1111_1111.png", "path": "CGs_Historia/cg_1111_1111.png"}, {"filename": "cg_1113_1113.png", "path": "CGs_Historia/cg_1113_1113.png"}, {"filename": "cg_1116_1116_MP.png", "path": "CGs_Historia/cg_1116_1116_MP.png"}, {"filename": "cg_1125_1125_MP.png", "path": "CGs_Historia/cg_1125_1125_MP.png"}, {"filename": "cg_1126_1126.png", "path": "CGs_Historia/cg_1126_1126.png"}, {"filename": "cg_1127_1127_FP.png", "path": "CGs_Historia/cg_1127_1127_FP.png"}, {"filename": "cg_1128_1128.png", "path": "CGs_Historia/cg_1128_1128.png"}, {"filename": "cg_1129_1129.png", "path": "CGs_Historia/cg_1129_1129.png"}, {"filename": "cg_1130_1130.png", "path": "CGs_Historia/cg_1130_1130.png"}, {"filename": "cg_1131_1131.png", "path": "CGs_Historia/cg_1131_1131.png"}, {"filename": "cg_2001_2001.png", "path": "CGs_Historia/cg_2001_2001.png"}, {"filename": "cg_2002_2002.png", "path": "CGs_Historia/cg_2002_2002.png"}, {"filename": "cg_2003_2003.png", "path": "CGs_Historia/cg_2003_2003.png"}, {"filename": "cg_2004_2004.png", "path": "CGs_Historia/cg_2004_2004.png"}, {"filename": "cg_2005_2005.png", "path": "CGs_Historia/cg_2005_2005.png"}, {"filename": "cg_2006_2006.png", "path": "CGs_Historia/cg_2006_2006.png"}, {"filename": "cg_2007_2007.png", "path": "CGs_Historia/cg_2007_2007.png"}, {"filename": "cg_2008_2008.png", "path": "CGs_Historia/cg_2008_2008.png"}, {"filename": "cg_2009_2009.png", "path": "CGs_Historia/cg_2009_2009.png"}, {"filename": "cg_2010_2010.png", "path": "CGs_Historia/cg_2010_2010.png"}, {"filename": "cg_2011_2011.png", "path": "CGs_Historia/cg_2011_2011.png"}, {"filename": "cg_2012_2012.png", "path": "CGs_Historia/cg_2012_2012.png"}, {"filename": "cg_2013_2013.png", "path": "CGs_Historia/cg_2013_2013.png"}, {"filename": "cg_2014_2014.png", "path": "CGs_Historia/cg_2014_2014.png"}, {"filename": "cg_2015_2015.png", "path": "CGs_Historia/cg_2015_2015.png"}, {"filename": "cg_2016_2016.png", "path": "CGs_Historia/cg_2016_2016.png"}, {"filename": "cg_2017_2017.png", "path": "CGs_Historia/cg_2017_2017.png"}, {"filename": "cg_2018_2018.png", "path": "CGs_Historia/cg_2018_2018.png"}, {"filename": "cg_30101_30101.png", "path": "CGs_Historia/cg_30101_30101.png"}, {"filename": "cg_30105_30105.png", "path": "CGs_Historia/cg_30105_30105.png"}, {"filename": "cg_30106_30106.png", "path": "CGs_Historia/cg_30106_30106.png"}, {"filename": "cg_30201_30201.png", "path": "CGs_Historia/cg_30201_30201.png"}, {"filename": "cg_30203_30203.png", "path": "CGs_Historia/cg_30203_30203.png"}, {"filename": "cg_30205_30205.png", "path": "CGs_Historia/cg_30205_30205.png"}, {"filename": "cg_30207_30207.png", "path": "CGs_Historia/cg_30207_30207.png"}, {"filename": "cg_30301_30301.png", "path": "CGs_Historia/cg_30301_30301.png"}, {"filename": "cg_30302_30302.png", "path": "CGs_Historia/cg_30302_30302.png"}, {"filename": "cg_30401_30401.png", "path": "CGs_Historia/cg_30401_30401.png"}, {"filename": "cg_30402_30402.png", "path": "CGs_Historia/cg_30402_30402.png"}, {"filename": "cg_30403_30403.png", "path": "CGs_Historia/cg_30403_30403.png"}, {"filename": "cg_30500_30500.png", "path": "CGs_Historia/cg_30500_30500.png"}, {"filename": "cg_30501_30501.png", "path": "CGs_Historia/cg_30501_30501.png"}, {"filename": "cg_30502_30502.png", "path": "CGs_Historia/cg_30502_30502.png"}, {"filename": "cg_30503_30503.png", "path": "CGs_Historia/cg_30503_30503.png"}, {"filename": "cg_30701_30701.png", "path": "CGs_Historia/cg_30701_30701.png"}, {"filename": "cg_30702_30702_FP.png", "path": "CGs_Historia/cg_30702_30702_FP.png"}, {"filename": "cg_30703_30703.png", "path": "CGs_Historia/cg_30703_30703.png"}, {"filename": "cg_30801_30801.png", "path": "CGs_Historia/cg_30801_30801.png"}, {"filename": "cg_30803_30803.png", "path": "CGs_Historia/cg_30803_30803.png"}, {"filename": "cg_30901_30901.png", "path": "CGs_Historia/cg_30901_30901.png"}, {"filename": "cg_31001_31001.png", "path": "CGs_Historia/cg_31001_31001.png"}, {"filename": "cg_31003_31003.png", "path": "CGs_Historia/cg_31003_31003.png"}, {"filename": "cg_31100_31100.png", "path": "CGs_Historia/cg_31100_31100.png"}, {"filename": "cg_31101_31101.png", "path": "CGs_Historia/cg_31101_31101.png"}, {"filename": "cg_31102_31102.png", "path": "CGs_Historia/cg_31102_31102.png"}, {"filename": "cg_31103_31103.png", "path": "CGs_Historia/cg_31103_31103.png"}, {"filename": "cg_31201_31201.png", "path": "CGs_Historia/cg_31201_31201.png"}];
+        const gallery = document.getElementById('gallery');
+        const modal = document.getElementById('modal');
+        const modalImg = document.getElementById('modal-img');
+        const modalCaption = document.getElementById('modal-caption');
+        let currentIndex = 0;
+
+        cgs.forEach((cg, idx) => {
+            const card = document.createElement('div');
+            card.className = 'cg-card';
+            card.innerHTML = `
+                <img class="cg-thumb" src="${cg.path}" loading="lazy" alt="${cg.filename}">
+                <div class="cg-info">${cg.filename}</div>
+            `;
+            card.onclick = () => openModal(idx);
+            gallery.appendChild(card);
+        });
+
+        function openModal(idx) {
+            currentIndex = idx;
+            modalImg.src = cgs[idx].path;
+            modalCaption.textContent = `(${idx + 1}/${cgs.length}) - ${cgs[idx].filename}`;
+            modal.classList.add('active');
+        }
+
+        function closeModal() {
+            modal.classList.remove('active');
+        }
+
+        function nextCG() {
+            currentIndex = (currentIndex + 1) % cgs.length;
+            openModal(currentIndex);
+        }
+
+        function prevCG() {
+            currentIndex = (currentIndex - 1 + cgs.length) % cgs.length;
+            openModal(currentIndex);
+        }
+
+        document.getElementById('close-btn').onclick = closeModal;
+        document.getElementById('next-btn').onclick = nextCG;
+        document.getElementById('prev-btn').onclick = prevCG;
+        modal.onclick = (e) => { if (e.target === modal) closeModal(); };
+
+        window.onkeydown = (e) => {
+            if (!modal.classList.contains('active')) return;
+            if (e.key === 'Escape') closeModal();
+            if (e.key === 'ArrowRight') nextCG();
+            if (e.key === 'ArrowLeft') prevCG();
+        };
+    </script>
+</body>
+</html>
