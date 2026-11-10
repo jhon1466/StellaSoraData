@@ -1,0 +1,282 @@
+﻿{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAllB",
+			"GroupId": "",
+			"Name": "B摇"
+		},
+		{
+			"Id": "ParamClothesE",
+			"GroupId": "",
+			"Name": "服E摇"
+		},
+		{
+			"Id": "ParamAllX",
+			"GroupId": "AllS",
+			"Name": "镜头X"
+		},
+		{
+			"Id": "ParamAllY",
+			"GroupId": "AllS",
+			"Name": "镜头Y"
+		},
+		{
+			"Id": "ParamWristX",
+			"GroupId": "Wrist",
+			"Name": "腕X"
+		},
+		{
+			"Id": "ParamWristY",
+			"GroupId": "Wrist",
+			"Name": "腕Y"
+		},
+		{
+			"Id": "ParamWristAngle",
+			"GroupId": "Wrist",
+			"Name": "腕旋转"
+		},
+		{
+			"Id": "ParamFrontWristAngle",
+			"GroupId": "Wrist",
+			"Name": "前腕旋转"
+		},
+		{
+			"Id": "ParamHandAngle",
+			"GroupId": "Wrist",
+			"Name": "手旋转"
+		},
+		{
+			"Id": "ParamFinger1",
+			"GroupId": "Wrist",
+			"Name": "指1"
+		},
+		{
+			"Id": "ParamFinger2",
+			"GroupId": "Wrist",
+			"Name": "指2"
+		},
+		{
+			"Id": "ParamFinger3",
+			"GroupId": "Wrist",
+			"Name": "指3"
+		},
+		{
+			"Id": "ParamFinger4",
+			"GroupId": "Wrist",
+			"Name": "指4"
+		},
+		{
+			"Id": "ParamClothesX",
+			"GroupId": "Clothes",
+			"Name": "服X"
+		},
+		{
+			"Id": "ParamClothesY",
+			"GroupId": "Clothes",
+			"Name": "服Y"
+		},
+		{
+			"Id": "ParamClothesZ",
+			"GroupId": "Clothes",
+			"Name": "服Z"
+		},
+		{
+			"Id": "Param_Angle_Rotation16",
+			"GroupId": "ParamGroup",
+			"Name": "[0]A服"
+		},
+		{
+			"Id": "Param_Angle_Rotation17",
+			"GroupId": "ParamGroup",
+			"Name": "[1]A服"
+		},
+		{
+			"Id": "Param_Angle_Rotation18",
+			"GroupId": "ParamGroup",
+			"Name": "[2]A服"
+		},
+		{
+			"Id": "Param_Angle_Rotation19",
+			"GroupId": "ParamGroup",
+			"Name": "[3]A服"
+		},
+		{
+			"Id": "Param_Angle_Rotation21",
+			"GroupId": "ParamGroup2",
+			"Name": "[0]B服"
+		},
+		{
+			"Id": "Param_Angle_Rotation22",
+			"GroupId": "ParamGroup2",
+			"Name": "[1]B服"
+		},
+		{
+			"Id": "Param_Angle_Rotation23",
+			"GroupId": "ParamGroup2",
+			"Name": "[2]B服"
+		},
+		{
+			"Id": "Param_Angle_Rotation25",
+			"GroupId": "ParamGroup3",
+			"Name": "[0]C服"
+		},
+		{
+			"Id": "Param_Angle_Rotation26",
+			"GroupId": "ParamGroup3",
+			"Name": "[1]C服"
+		},
+		{
+			"Id": "Param_Angle_Rotation27",
+			"GroupId": "ParamGroup3",
+			"Name": "[2]C服"
+		},
+		{
+			"Id": "Param_Angle_Rotation28",
+			"GroupId": "ParamGroup3",
+			"Name": "[3]C服"
+		},
+		{
+			"Id": "Param_Angle_Rotation30",
+			"GroupId": "ParamGroup4",
+			"Name": "[0]D服"
+		},
+		{
+			"Id": "Param_Angle_Rotation31",
+			"GroupId": "ParamGroup4",
+			"Name": "[1]D服"
+		},
+		{
+			"Id": "Param_Angle_Rotation32",
+			"GroupId": "ParamGroup4",
+			"Name": "[2]D服"
+		},
+		{
+			"Id": "Param_Angle_Rotation33",
+			"GroupId": "ParamGroup4",
+			"Name": "[3]D服"
+		},
+		{
+			"Id": "Param_Angle_Rotation35",
+			"GroupId": "ParamGroup5",
+			"Name": "[0]服E"
+		},
+		{
+			"Id": "Param_Angle_Rotation36",
+			"GroupId": "ParamGroup5",
+			"Name": "[1]服E"
+		},
+		{
+			"Id": "Param_Angle_Rotation37",
+			"GroupId": "ParamGroup5",
+			"Name": "[2]服E"
+		},
+		{
+			"Id": "Param_Angle_Rotation38",
+			"GroupId": "ParamGroup5",
+			"Name": "[3]服E"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "AllS",
+			"GroupId": "",
+			"Name": "镜头"
+		},
+		{
+			"Id": "Wrist",
+			"GroupId": "",
+			"Name": "腕"
+		},
+		{
+			"Id": "Clothes",
+			"GroupId": "",
+			"Name": "服"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "A服"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "B服"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "C服"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "D服"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "服E"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "duonaCG_B",
+			"Name": "duonaCG_B"
+		},
+		{
+			"Id": "A_clothes_1_Skinning",
+			"Name": "A_clothes_1(蒙皮)"
+		},
+		{
+			"Id": "A_clothes_3_Skinning",
+			"Name": "A_clothes_3(蒙皮)"
+		},
+		{
+			"Id": "B_clothes_1_Skinning",
+			"Name": "B_clothes_1(蒙皮)"
+		},
+		{
+			"Id": "C_clothes_1_Skinning",
+			"Name": "C_clothes_1(蒙皮)"
+		},
+		{
+			"Id": "C_clothes_4_Skinning",
+			"Name": "C_clothes_4(蒙皮)"
+		},
+		{
+			"Id": "D_clothes_1_Skinning",
+			"Name": "D_clothes_1(蒙皮)"
+		},
+		{
+			"Id": "D_clothes_3_Skinning",
+			"Name": "D_clothes_3(蒙皮)"
+		},
+		{
+			"Id": "front_wrist_Skinning",
+			"Name": "front_wrist(蒙皮)"
+		},
+		{
+			"Id": "E_clothes_1_Skinning",
+			"Name": "E_clothes_1(蒙皮)"
+		},
+		{
+			"Id": "E_clothes_2_Skinning",
+			"Name": "E_clothes_2(蒙皮)"
+		},
+		{
+			"Id": "E_clothes_4_Skinning",
+			"Name": "E_clothes_4(蒙皮)"
+		},
+		{
+			"Id": "E_clothes_5_Skinning",
+			"Name": "E_clothes_5(蒙皮)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamClothesX",
+			"ParamClothesY"
+		]
+	]
+}

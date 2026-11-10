@@ -1,0 +1,113 @@
+﻿{
+	"Version": 3,
+	"Meta": {
+		"Duration": 2,
+		"Fps": 60.0,
+		"FadeInTime": 0.0,
+		"FadeOutTime": 0.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 4,
+		"TotalSegmentCount": 9,
+		"TotalPointCount": 31,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamAll",
+			"Segments": [
+				0,
+				-30,
+				1,
+				0.333,
+				-30,
+				0.667,
+				30,
+				1,
+				30,
+				1,
+				1.333,
+				30,
+				1.667,
+				-30,
+				2,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleX",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.167,
+				0,
+				0.333,
+				0,
+				0.5,
+				0,
+				1,
+				0.694,
+				0,
+				0.889,
+				-1.423,
+				1.083,
+				-2,
+				1,
+				1.389,
+				-2.907,
+				1.694,
+				-3,
+				2,
+				-3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleY",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.222,
+				0,
+				0.444,
+				0,
+				0.667,
+				0,
+				1,
+				0.861,
+				0,
+				1.056,
+				-3.518,
+				1.25,
+				-5,
+				1,
+				1.5,
+				-6.905,
+				1.75,
+				-7,
+				2,
+				-7
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBreath",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.667,
+				0,
+				1.333,
+				0,
+				2,
+				0
+			]
+		}
+	]
+}

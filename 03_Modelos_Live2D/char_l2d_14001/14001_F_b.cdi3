@@ -1,0 +1,54 @@
+﻿{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "镜头X"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "镜头Y"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "镜头旋转"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "镜头大小"
+		},
+		{
+			"Id": "ParamFingerR",
+			"GroupId": "",
+			"Name": "右指"
+		},
+		{
+			"Id": "ParamFingerL",
+			"GroupId": "",
+			"Name": "左指"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "RFoot",
+			"Name": "右足"
+		},
+		{
+			"Id": "LFoot",
+			"Name": "左足"
+		},
+		{
+			"Id": "sipakela_B",
+			"Name": "sipakela_B"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		}
+	]
+}

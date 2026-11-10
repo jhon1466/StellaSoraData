@@ -1,0 +1,110 @@
+﻿{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamSceneX",
+			"GroupId": "ParamGroup",
+			"Name": "镜头x"
+		},
+		{
+			"Id": "ParamSceneY",
+			"GroupId": "ParamGroup",
+			"Name": "镜头y"
+		},
+		{
+			"Id": "ParamSceneR",
+			"GroupId": "ParamGroup",
+			"Name": "镜头旋转"
+		},
+		{
+			"Id": "ParamSceneB",
+			"GroupId": "ParamGroup",
+			"Name": "镜头大小"
+		},
+		{
+			"Id": "ParamSky",
+			"GroupId": "",
+			"Name": "天空"
+		},
+		{
+			"Id": "ParamBranchA2",
+			"GroupId": "",
+			"Name": "A树枝2"
+		},
+		{
+			"Id": "ParamBranchA",
+			"GroupId": "",
+			"Name": "A树枝"
+		},
+		{
+			"Id": "ParamSnow01",
+			"GroupId": "",
+			"Name": "雪"
+		},
+		{
+			"Id": "ParamBranchB",
+			"GroupId": "",
+			"Name": "B树枝"
+		},
+		{
+			"Id": "ParamBranchB2",
+			"GroupId": "",
+			"Name": "B树枝2"
+		},
+		{
+			"Id": "ParamBranchB3",
+			"GroupId": "",
+			"Name": "B树枝雪"
+		},
+		{
+			"Id": "ParamBranchB4",
+			"GroupId": "",
+			"Name": "B树枝2雪"
+		},
+		{
+			"Id": "ParamLeaf",
+			"GroupId": "",
+			"Name": "树叶"
+		},
+		{
+			"Id": "ParamSnow",
+			"GroupId": "",
+			"Name": "雪"
+		},
+		{
+			"Id": "ParamSnow3",
+			"GroupId": "",
+			"Name": "雪3"
+		},
+		{
+			"Id": "ParamSnow2",
+			"GroupId": "",
+			"Name": "雪2"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "镜头"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "snow",
+			"Name": "snow"
+		},
+		{
+			"Id": "Part",
+			"Name": "树枝A"
+		},
+		{
+			"Id": "Part2",
+			"Name": "树枝B"
+		},
+		{
+			"Id": "Part3",
+			"Name": "BG"
+		}
+	]
+}

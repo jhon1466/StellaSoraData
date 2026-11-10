@@ -1,0 +1,79 @@
+﻿{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAll",
+			"GroupId": "",
+			"Name": "all"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "左腿"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "左脚"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "左脚趾"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "右腿"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "右脚"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup",
+			"Name": "右脚趾"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup2",
+			"Name": "镜头y"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "腿"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "镜头"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "bg"
+		},
+		{
+			"Id": "leg_L_Skinning",
+			"Name": "leg_L(蒙皮)"
+		},
+		{
+			"Id": "line_Skinning",
+			"Name": "line(蒙皮)"
+		},
+		{
+			"Id": "leg_R_2_Skinning",
+			"Name": "leg_R_2(蒙皮)"
+		},
+		{
+			"Id": "leg_R_1_Skinning",
+			"Name": "leg_R_1(蒙皮)"
+		}
+	]
+}

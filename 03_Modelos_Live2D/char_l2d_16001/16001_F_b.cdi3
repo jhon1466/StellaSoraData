@@ -1,0 +1,128 @@
+﻿{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAllX",
+			"GroupId": "ParamGroup3",
+			"Name": "镜头X"
+		},
+		{
+			"Id": "ParamAllY",
+			"GroupId": "ParamGroup3",
+			"Name": "镜头Y"
+		},
+		{
+			"Id": "ParamAllSize",
+			"GroupId": "ParamGroup3",
+			"Name": "镜头大小"
+		},
+		{
+			"Id": "ParamWhiteX",
+			"GroupId": "ParamGroup",
+			"Name": "手臂X"
+		},
+		{
+			"Id": "ParamWhiteY",
+			"GroupId": "ParamGroup",
+			"Name": "手臂Y"
+		},
+		{
+			"Id": "ParamWhiteZ",
+			"GroupId": "ParamGroup",
+			"Name": "手臂旋转"
+		},
+		{
+			"Id": "ParamHead",
+			"GroupId": "ParamGroup",
+			"Name": "手"
+		},
+		{
+			"Id": "ParamFinger1",
+			"GroupId": "ParamGroup",
+			"Name": "手指1"
+		},
+		{
+			"Id": "ParamFinger2",
+			"GroupId": "ParamGroup",
+			"Name": "手指2"
+		},
+		{
+			"Id": "ParamFinger3",
+			"GroupId": "ParamGroup",
+			"Name": "手指3"
+		},
+		{
+			"Id": "ParamFinger4",
+			"GroupId": "ParamGroup",
+			"Name": "手指4"
+		},
+		{
+			"Id": "ParamLatherX",
+			"GroupId": "ParamGroup2",
+			"Name": "泡泡X"
+		},
+		{
+			"Id": "ParamLatherY",
+			"GroupId": "ParamGroup2",
+			"Name": "泡泡Y"
+		},
+		{
+			"Id": "ParamLatherFromX",
+			"GroupId": "ParamGroup2",
+			"Name": "泡泡变形X"
+		},
+		{
+			"Id": "ParamLatherFromY",
+			"GroupId": "ParamGroup2",
+			"Name": "泡泡变形Y"
+		},
+		{
+			"Id": "ParamLatherFrom",
+			"GroupId": "ParamGroup2",
+			"Name": "泡泡变形Z"
+		},
+		{
+			"Id": "ParamBraceletX",
+			"GroupId": "",
+			"Name": "手镯X"
+		},
+		{
+			"Id": "ParamBraceletY",
+			"GroupId": "",
+			"Name": "手镯Y"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Folder 1"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "手"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "泡泡"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "wl",
+			"Name": "wl"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamLatherX",
+			"ParamLatherY"
+		],
+		[
+			"ParamBraceletX",
+			"ParamBraceletY"
+		]
+	]
+}

@@ -1,0 +1,23 @@
+﻿{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "4027_F.moc3",
+		"Textures": [
+			"4027_F.2048/texture_00.png",
+			"4027_F.2048/texture_01.png"
+		],
+		"DisplayInfo": "4027_F.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

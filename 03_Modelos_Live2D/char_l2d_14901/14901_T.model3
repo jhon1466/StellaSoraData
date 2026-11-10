@@ -1,0 +1,23 @@
+﻿{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "14901_T.moc3",
+		"Textures": [
+			"14901_T.2048/texture_00.png",
+			"14901_T.2048/texture_01.png"
+		],
+		"DisplayInfo": "14901_T.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

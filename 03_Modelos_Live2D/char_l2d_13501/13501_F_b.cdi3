@@ -1,0 +1,99 @@
+﻿{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAllSizeS",
+			"GroupId": "AllS",
+			"Name": "整体大小"
+		},
+		{
+			"Id": "ParamAllX",
+			"GroupId": "AllS",
+			"Name": "全部X"
+		},
+		{
+			"Id": "ParamAllY",
+			"GroupId": "AllS",
+			"Name": "全部Y"
+		},
+		{
+			"Id": "ParamAllFB",
+			"GroupId": "AllS",
+			"Name": "全部大小"
+		},
+		{
+			"Id": "ParamWrist",
+			"GroupId": "WristS",
+			"Name": "腕"
+		},
+		{
+			"Id": "ParamHand",
+			"GroupId": "WristS",
+			"Name": "手"
+		},
+		{
+			"Id": "ParamFinger",
+			"GroupId": "WristS",
+			"Name": "指"
+		},
+		{
+			"Id": "ParamSleeve",
+			"GroupId": "WristS",
+			"Name": "袖"
+		},
+		{
+			"Id": "Param_Angle_Rotation15",
+			"GroupId": "ParamGroup",
+			"Name": "[0]袖"
+		},
+		{
+			"Id": "Param_Angle_Rotation16",
+			"GroupId": "ParamGroup",
+			"Name": "[1]袖"
+		},
+		{
+			"Id": "Param_Angle_Rotation17",
+			"GroupId": "ParamGroup",
+			"Name": "[2]袖"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "AllS",
+			"GroupId": "",
+			"Name": "镜头"
+		},
+		{
+			"Id": "WristS",
+			"GroupId": "",
+			"Name": "腕"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "袖"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "wuyu_B",
+			"Name": "wuyu_B"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 参考图 ]"
+		},
+		{
+			"Id": "sleeve_1_Skinning",
+			"Name": "sleeve_1(蒙皮)"
+		},
+		{
+			"Id": "sleeve_2_Skinning",
+			"Name": "sleeve_2(蒙皮)"
+		},
+		{
+			"Id": "sleeve_4_Skinning",
+			"Name": "sleeve_4(蒙皮)"
+		}
+	]
+}
